@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import os
+import glob
 
 def extract_case_data(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
