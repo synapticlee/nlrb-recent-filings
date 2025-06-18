@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
   # Daily at 6:23 AM UTC
-  - cron: '23 6 * * *'
+  - cron: '2 5 * * *'
   # For hourly at 42 minutes past the hour: '42 * * * *'
 
 permissions:
@@ -34,14 +34,16 @@ jobs:
       env:
         REPO_DESC: ${{ github.event.repository.description }}
     # Uncomment to use Python:
-    # - name: Set up Python 3.13
-    #   uses: actions/setup-python@v5
-    #   with:
-    #     python-version: "3.13"
-    #     cache: "pip"
-    # - name: Install dependencies
-    #   run: |
-    #     pip install -r requirements.txt
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+        cache: "pip"
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Run HTML to Markdown conversion
+      run: python parse_html_to_md.py
     # Uncomment to use Playwright via shot-scraper (put shot-scraper in requirements.txt):
     # - name: Cache Playwright browsers
     #   uses: actions/cache@v4
