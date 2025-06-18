@@ -46,7 +46,15 @@ def to_markdown_table(data):
     return md
 
 def main():
-    html_path = "nlrb.gov-reports-graphs-data-recent-filings-date_filed-desc-100%3Fpage%3D1.html"
+    # Match any .html file in the current directory
+    html_files = glob.glob("*.html")  
+
+    if not html_files:
+        print("No HTML files found.")
+        return
+
+    # Use the first match
+    html_path = html_files[0]
     output_path = "new-filings.md"
 
     with open(html_path, "r", encoding="utf-8") as f:
