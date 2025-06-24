@@ -40,8 +40,6 @@
 | Heartland Rural Electric Cooperative, Inc. | [14-CA-367845](/case/14-CA-367845) | 06/20/2025 | Open | 25 | Girard, KS | Region 14, Saint Louis, Missouri |
 | Boiled & Baked LLC d/b/a Lox, Stocks & Bagels | [19-CA-367833](/case/19-CA-367833) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
 | Boiled & Baked LLC d/b/a Lox, Stocks & Bagels | [19-CA-367835](/case/19-CA-367835) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
-| Boiled & Baked LLC d/b/a Lox, Stocks, & Bagels | [19-CA-367836](/case/19-CA-367836) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
-| Boiled & Baked LLC d/b/a Lox, Stocks & Bagels | [19-CA-367831](/case/19-CA-367831) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
 | Safeway, Inc. | [32-CA-367848](/case/32-CA-367848) | 06/20/2025 | Open | 50 | Pleasanton, CA | Region 32, Oakland, California |
 | International Alliance of Theatrical Stage Employees, Local 39 (Morial Convention Center) | [15-CB-367846](/case/15-CB-367846) | 06/20/2025 | Open | 25 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | Albertsons Companies, Inc. | [21-CA-367842](/case/21-CA-367842) | 06/20/2025 | Open | 250000 | Long Beach, CA | Region 21, Los Angeles, California |
@@ -49,6 +47,8 @@
 | Washington State Nurses Association (Multicare) | [19-CB-367851](/case/19-CB-367851) | 06/20/2025 | Open | 1000 | Tacoma, WA | Region 19, Seattle, Washington |
 | UPS Supply Chain Solutions | [27-CA-367853](/case/27-CA-367853) | 06/20/2025 | Open | 3 | Boise, ID | Region 27, Denver, Colorado |
 | Starbucks Corporation | [21-RC-367840](/case/21-RC-367840) | 06/20/2025 | Open | 21 | Riverside, CA | Region 21, Los Angeles, California |
+| Boiled & Baked LLC d/b/a Lox, Stocks, & Bagels | [19-CA-367836](/case/19-CA-367836) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
+| Boiled & Baked LLC d/b/a Lox, Stocks & Bagels | [19-CA-367831](/case/19-CA-367831) | 06/20/2025 | Open | 10 | Eugene, OR | Region 19, Seattle, Washington |
 | Ardagh Group | [06-CA-367766](/case/06-CA-367766) | 06/19/2025 | Open | 250 | Port Allegany, PA | Region 06, Pittsburgh, Pennsylvania |
 | King David Center | [08-CA-367775](/case/08-CA-367775) | 06/19/2025 | Open | 300 | Beachwood, OH | Region 08, Cleveland, Ohio |
 | LUMA Energy | [12-CA-367796](/case/12-CA-367796) | 06/19/2025 | Open | 800 | San Juan, PR | Region 12, Tampa, Florida |
@@ -80,7 +80,6 @@
 | Airgas USA, LLC | [08-CA-367781](/case/08-CA-367781) | 06/18/2025 | Open | 30 | Valley View, OH | Region 08, Cleveland, Ohio |
 | Atlantic Recovery Services Inc. | [04-RC-367692](/case/04-RC-367692) | 06/18/2025 | Open | 14 | Morrisville, PA | Region 04, Philadelphia, Pennsylvania |
 | Cummins Sales and Service | [08-RD-367711](/case/08-RD-367711) | 06/18/2025 | Open | 80 | Bedford, OH | Region 08, Cleveland, Ohio |
-| Teamsters, Local 222 (United Parcel Service) | [27-CB-367803](/case/27-CB-367803) | 06/18/2025 | Open | 10 | Salt Lake City, UT | Region 27, Denver, Colorado |
 | Lockheed Martin | [16-CA-367813](/case/16-CA-367813) | 06/18/2025 | Open | 20000 | Fort Worth, TX | Region 16, Fort Worth, Texas |
 | Nexstar Media Corporation d/b/a NewsNation | [05-CA-367812](/case/05-CA-367812) | 06/18/2025 | Open | 25 | Washington, DC | Region 05, Baltimore, Maryland |
 | International Alliance of Theatrical and Stage Employees, Local 7 (Union Payroll Agency) | [27-CB-367821](/case/27-CB-367821) | 06/18/2025 | Open | 50 | Denver, CO | Region 27, Denver, Colorado |
@@ -100,3 +99,4 @@
 | United Steelworkers Union, Local 134L - Unit 17 (ELG Utica Alloys Hartford, Inc.) | [01-CB-367707](/case/01-CB-367707) | 06/18/2025 | Open | 200 | Hartford, CT | Region 01, Boston, Massachusetts |
 | Phoenix Medical Construction | [04-CA-367722](/case/04-CA-367722) | 06/18/2025 | Open | 20 | East Norriton, PA | Region 04, Philadelphia, Pennsylvania |
 | Baywood Hotels, Inc. | [12-CA-367723](/case/12-CA-367723) | 06/18/2025 | Open | 100 | Lutz, FL | Region 12, Tampa, Florida |
+| AT&T | [16-CA-367783](/case/16-CA-367783) | 06/18/2025 | Open | 200 | Fort Worth, TX | Region 16, Fort Worth, Texas |
