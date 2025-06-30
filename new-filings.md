@@ -57,7 +57,6 @@
 | Virginia Mason Medical Center | [19-CA-368238](/case/19-CA-368238) | 06/26/2025 | Open | 1100 | Seattle, WA | Region 19, Seattle, Washington |
 | Third Bridge (US) Inc. | [02-CA-368231](/case/02-CA-368231) | 06/26/2025 | Open | 1000 | New York, NY | Region 02, New York, New York |
 | International Brotherhood of Electrical Workers, Local 113 (Tlingit Haida Tribal Business Corporation) | [27-CB-368236](/case/27-CB-368236) | 06/26/2025 | Open | 100 | Fort Carson, CO | Region 27, Denver, Colorado |
-| National Association of Letter Carriers Branch 1427 (United States Postal Service) | [32-CB-368249](/case/32-CB-368249) | 06/26/2025 | Open | 50 | Sunnyvale, CA | Region 32, Oakland, California |
 | Teamsters Local 585 (ABARTA Coca-Cola Beverages) | [06-CB-368256](/case/06-CB-368256) | 06/26/2025 | Open | 100 | Houston, PA | Region 06, Pittsburgh, Pennsylvania |
 | Wells Fargo | [12-CA-368225](/case/12-CA-368225) | 06/26/2025 | Open | 7 | Apopka, FL | Region 12, Tampa, Florida |
 | United State Postal Service | [10-CA-368183](/case/10-CA-368183) | 06/26/2025 | Open | 900 | Nashville, TN | Region 10, Atlanta, Georgia |
@@ -67,7 +66,6 @@
 | Nevada Gold Mines LLC | [32-CA-368254](/case/32-CA-368254) | 06/26/2025 | Open | 2200 | Elko, NV | Region 32, Oakland, California |
 | Flying Food Group | [13-RD-368247](/case/13-RD-368247) | 06/26/2025 | Open | 367 | Schiller Park, IL | Region 13, Chicago, Illinois |
 | UNITED STATES POSTAL SERVICE | [09-CA-368253](/case/09-CA-368253) | 06/26/2025 | Open | 51 | Portsmouth, OH | Region 09, Cincinnati, Ohio |
-| National Union of Healthcare Workers (Keck Medical Center of USC) | [21-CB-368251](/case/21-CB-368251) | 06/26/2025 | Open | 2000 | Los Angeles, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [01-CA-368188](/case/01-CA-368188) | 06/26/2025 | Open | 300 | Hampden, ME | Region 01, Boston, Massachusetts |
 | Virginia Mason Medical Center | [19-CA-368228](/case/19-CA-368228) | 06/26/2025 | Open | 1100 | Seattle, WA | Region 19, Seattle, Washington |
 | Hitachi Rail Honolulu JV | [20-CA-368207](/case/20-CA-368207) | 06/26/2025 | Open | 250 | Pearl City, HI | Region 20, San Francisco, California |
@@ -89,9 +87,11 @@
 | United Food and Commercial Workers, Local 7 (Safeway/Albertsons) | [27-CB-368275](/case/27-CB-368275) | 06/26/2025 | Open | 10 | Pueblo West, CO | Region 27, Denver, Colorado |
 | International Alliance of Theatrical and Stage Employees, Local 7(Various Employers) | [27-CB-368296](/case/27-CB-368296) | 06/26/2025 | Open | 10 | Denver, CO | Region 27, Denver, Colorado |
 | United Food and Commercial Workers, Local 7 (Safeway/Albertsons) | [27-CB-368297](/case/27-CB-368297) | 06/26/2025 | Open | 10 | Pueblo West, CO | Region 27, Denver, Colorado |
-| AHMC Whittier Hospital Medical Center | [21-RC-368257](/case/21-RC-368257) | 06/26/2025 | Open | 115 | Whittier, CA | Region 21, Los Angeles, California |
 | Occidental Chemical Corp. (Oxy Chem) | [16-RC-368158](/case/16-RC-368158) | 06/26/2025 | Open | 21 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Madix, Inc. | [16-CA-368288](/case/16-CA-368288) | 06/26/2025 | Open | 500 | Terrell, TX | Region 16, Fort Worth, Texas |
+| National Union of Healthcare Workers (Keck Medical Center of USC) | [21-CB-368251](/case/21-CB-368251) | 06/26/2025 | Open | 2000 | Los Angeles, CA | Region 21, Los Angeles, California |
+| AHMC Whittier Hospital Medical Center | [21-RC-368257](/case/21-RC-368257) | 06/26/2025 | Open | 115 | Whittier, CA | Region 21, Los Angeles, California |
+| National Association of Letter Carriers Branch 1427 (United States Postal Service) | [32-CB-368249](/case/32-CB-368249) | 06/26/2025 | Open | 50 | Sunnyvale, CA | Region 32, Oakland, California |
 | Pruitt Peake | [10-CA-368102](/case/10-CA-368102) | 06/25/2025 | Open | 40 | Macon, GA | Region 10, Atlanta, Georgia |
 | Breakthru Beverage Missouri, LLC | [14-CA-368053](/case/14-CA-368053) | 06/25/2025 | Open | 70 | North Kansas City, MO | Region 14, Saint Louis, Missouri |
 | APWU (United States Postal Service) | [13-CB-368089](/case/13-CB-368089) | 06/25/2025 | Open | 500 | Forest Park, IL | Region 13, Chicago, Illinois |
