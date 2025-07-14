@@ -27,8 +27,8 @@
 | Pac-12 Enterprises | [19-RC-369115](/case/19-RC-369115) | 07/11/2025 | Open | 76 | Corvallis, OR | Region 19, Seattle, Washington |
 | Gardaworld Cash Services | [21-RC-369165](/case/21-RC-369165) | 07/11/2025 | Open | 41 | San Diego, CA | Region 21, Los Angeles, California |
 | IES Downstream, LLC | [20-CA-369177](/case/20-CA-369177) | 07/11/2025 | Open | 230 | Honolulu, HI | Region 20, San Francisco, California |
-| G.E. Aerospace | [10-CA-369141](/case/10-CA-369141) | 07/11/2025 | Open | 341 | Auburn, AL | Region 10, Atlanta, Georgia |
 | IES Downstream, LLC | [20-CA-369176](/case/20-CA-369176) | 07/11/2025 | Open | 230 | Honolulu, HI | Region 20, San Francisco, California |
+| G.E. Aerospace | [10-CA-369141](/case/10-CA-369141) | 07/11/2025 | Open | 341 | Auburn, AL | Region 10, Atlanta, Georgia |
 | AAA | [14-CA-369024](/case/14-CA-369024) | 07/10/2025 | Open | 10 | Swansea, IL | Region 14, Saint Louis, Missouri |
 | Planned Parenthood Maryland | [05-RC-369029](/case/05-RC-369029) | 07/10/2025 | Open | 94 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | Paragon Security | [15-CA-369040](/case/15-CA-369040) | 07/10/2025 | Open | 90 | Kenner, LA | Region 15, New Orleans, Louisiana |
