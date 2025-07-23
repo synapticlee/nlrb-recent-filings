@@ -1,102 +1,102 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lancaster Country Day School | [04-CA-369642](/case/04-CA-369642) | 07/21/2025 | Open | 200 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
+| 1nteger DBA Kharon | [05-CA-369638](/case/05-CA-369638) | 07/21/2025 | Open | 44 | Washington, DC | Region 05, Baltimore, Maryland |
+| CHEECH AND CHONG DISPENSERY | [01-RC-369662](/case/01-RC-369662) | 07/21/2025 | Open | 10 | Greenfield Town, MA | Region 01, Boston, Massachusetts |
+| IRON WORKERS REGIONALSHOP LOCAL UNION NO. 853 | [25-CB-369647](/case/25-CB-369647) | 07/21/2025 | Open | 50 | Mishawaka, IN | Region 25, Indianapolis, Indiana |
+| Mid-Florida Hospital Specialists P.A. | [12-CA-369649](/case/12-CA-369649) | 07/21/2025 | Open | 60 | Longwood, FL | Region 12, Tampa, Florida |
+| CHEECH AND CHONG DISPENSERY | [01-RC-369652](/case/01-RC-369652) | 07/21/2025 | Open | 7 | Northampton, MA | Region 01, Boston, Massachusetts |
+| PTC Alliance | [06-RC-369628](/case/06-RC-369628) | 07/21/2025 | Open | 16 | Beaver Falls, PA | Region 06, Pittsburgh, Pennsylvania |
+| Ally Senior Health | [12-CA-369635](/case/12-CA-369635) | 07/21/2025 | Open | 30 | Palm Coast, FL | Region 12, Tampa, Florida |
+| Airgas USA, LLC | [20-CA-369669](/case/20-CA-369669) | 07/21/2025 | Open | 20 | Honolulu, HI | Region 20, San Francisco, California |
+| United Parcel Service, Inc. | [15-CA-369671](/case/15-CA-369671) | 07/21/2025 | Open | 25 | Memphis, TN | Region 15, New Orleans, Louisiana |
+| Chicago Midwest Regional Joint Board | [13-CA-369643](/case/13-CA-369643) | 07/21/2025 | Open | 14 | Chicago, IL | Region 13, Chicago, Illinois |
+| Fred Meyer Stores | [19-CA-369689](/case/19-CA-369689) | 07/21/2025 | Open | 135 | Tumwater, WA | Region 19, Seattle, Washington |
+| United Parcel Service | [10-CA-369664](/case/10-CA-369664) | 07/21/2025 | Open | 500 | Muscle Shoals, AL | Region 10, Atlanta, Georgia |
+| AMERICAN POSTAL WORKERS UNION, SPRINGFIELD AREA LOCAL 497 (United States Postal Service) | [01-CB-369639](/case/01-CB-369639) | 07/21/2025 | Open | 25 | Springfield, MA | Region 01, Boston, Massachusetts |
+| Ryder Systems | [08-CA-369694](/case/08-CA-369694) | 07/21/2025 | Open | 30 | Cleveland, OH | Region 08, Cleveland, Ohio |
+| American Postal Workers Union, Local 1201 (United States Postal Service) | [12-CB-369687](/case/12-CB-369687) | 07/21/2025 | Open | 100 | Opa-locka, FL | Region 12, Tampa, Florida |
+| United States Postal Service | [15-CA-369686](/case/15-CA-369686) | 07/21/2025 | Open | 250 | Baton Rouge, LA | Region 15, New Orleans, Louisiana |
+| Dollar General | [14-CA-369648](/case/14-CA-369648) | 07/21/2025 | Open | 15 | Wentzville, MO | Region 14, Saint Louis, Missouri |
+| Allied Universal | [01-RC-369677](/case/01-RC-369677) | 07/21/2025 | Open | 28 | North Haven, CT | Region 01, Boston, Massachusetts |
+| Dupont Specialty Products USA, LLC | [05-CA-369683](/case/05-CA-369683) | 07/21/2025 | Open | 1300 | Richmond, VA | Region 05, Baltimore, Maryland |
+| Walt Disney Parks and Resorts US, INC | [12-CA-369696](/case/12-CA-369696) | 07/21/2025 | Open | 1800 | Bay Lake, FL | Region 12, Tampa, Florida |
+| United Parcel Service | [01-CA-369697](/case/01-CA-369697) | 07/21/2025 | Open | 313 | New Haven, CT | Region 01, Boston, Massachusetts |
+| Pilgrims Pride | [10-CA-369692](/case/10-CA-369692) | 07/21/2025 | Open | 30 | Tuscumbia, AL | Region 10, Atlanta, Georgia |
+| isSecurity Police Fire Professionals of America (SPFPA) (Walt Dney World Parks and Resorts US, Inc.) | [12-CB-369641](/case/12-CB-369641) | 07/21/2025 | Open | 100 | Bay Lake, FL | Region 12, Tampa, Florida |
+| Burgerville LLC | [19-CA-369698](/case/19-CA-369698) | 07/21/2025 | Open | 22 | Portland, OR | Region 19, Seattle, Washington |
+| Iron Workers Local Union No. 3 (Franjo Construction Corporation) | [06-CD-369705](/case/06-CD-369705) | 07/21/2025 | Open | 168 | Pittsburgh, PA | Region 06, Pittsburgh, Pennsylvania |
+| Scott's Heating and Air Inc. | [14-CA-369706](/case/14-CA-369706) | 07/21/2025 | Open | 8 | Camdenton, MO | Region 14, Saint Louis, Missouri |
+| Delta Montrose Electric Association | [27-RC-369693](/case/27-RC-369693) | 07/21/2025 | Open | 4 | Montrose, CO | Region 27, Denver, Colorado |
+| We Drive U/Cook DuPage Transportation | [13-CA-369708](/case/13-CA-369708) | 07/21/2025 | Open | 450 | Chicago, IL | Region 13, Chicago, Illinois |
+| Alight Solutions LLC | [16-CA-369709](/case/16-CA-369709) | 07/21/2025 | Open | 10000 | The Woodlands, TX | Region 16, Fort Worth, Texas |
+| N. Huntingdon EMS/Rescue | [06-RD-369695](/case/06-RD-369695) | 07/21/2025 | Open | 3 | North Huntingdon, PA | Region 06, Pittsburgh, Pennsylvania |
+| United States Postal Service | [21-CA-369712](/case/21-CA-369712) | 07/21/2025 | Open | 300 | Moreno Valley, CA | Region 21, Los Angeles, California |
+| Pittsburgh Paints Company | [04-CA-369714](/case/04-CA-369714) | 07/21/2025 | Open | 13 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
+| Touchstone Climbing, Inc. | [20-RC-369707](/case/20-RC-369707) | 07/21/2025 | Open | 22 | San Francisco, CA | Region 20, San Francisco, California |
+| Disneyland Resort | [21-CA-369713](/case/21-CA-369713) | 07/21/2025 | Open | 31000 | Anaheim, CA | Region 21, Los Angeles, California |
+| United States Postal Service | [10-CA-369679](/case/10-CA-369679) | 07/21/2025 | Open | 70 | Sandy Springs, GA | Region 10, Atlanta, Georgia |
+| Cargill, Incorporated | [32-CA-369716](/case/32-CA-369716) | 07/21/2025 | Open | 107 | Newark, CA | Region 32, Oakland, California |
+| United States Postal Service | [10-CA-369667](/case/10-CA-369667) | 07/21/2025 | Open | 100 | Fairburn, GA | Region 10, Atlanta, Georgia |
+| Touchstone Climbing, Inc. | [32-RC-369681](/case/32-RC-369681) | 07/21/2025 | Open | 30 | San Jose, CA | Region 32, Oakland, California |
+| DFA Dairy Brands LLC | [21-CA-369715](/case/21-CA-369715) | 07/21/2025 | Open | 240 | Industry, CA | Region 21, Los Angeles, California |
+| The Queen's Medical Center | [20-CA-369718](/case/20-CA-369718) | 07/21/2025 | Open | 800 | Honolulu, HI | Region 20, San Francisco, California |
+| Dana Inc | [08-CA-369663](/case/08-CA-369663) | 07/19/2025 | Open | 500 | Napoleon, OH | Region 08, Cleveland, Ohio |
 | NRLCA(United States Postal Service) | [10-CB-369532](/case/10-CB-369532) | 07/18/2025 | Open | 50 | Spartanburg, SC | Region 10, Atlanta, Georgia |
 | Golden SVCS, LLC | [25-CA-369543](/case/25-CA-369543) | 07/18/2025 | Open | 1 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | Simmons & Associates, LLC | [25-CA-369547](/case/25-CA-369547) | 07/18/2025 | Open | 50 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | SEIU District 1199 New England (Women and Infants Hospitals) | [01-CB-369545](/case/01-CB-369545) | 07/18/2025 | Open | 20 | Providence, RI | Region 01, Boston, Massachusetts |
 | Triple-S Salud | [12-CA-369558](/case/12-CA-369558) | 07/18/2025 | Open | 450 | San Juan, PR | Region 12, Tampa, Florida |
-| Unidad Laboral de Empleados y Enfermeros de Salud (Hospital Auxilio Mutuo) | [12-CB-369598](/case/12-CB-369598) | 07/18/2025 | Open | 21 | San Juan, PR | Region 12, Tampa, Florida |
-| Cordogan Clark | [14-CA-369597](/case/14-CA-369597) | 07/18/2025 | Open | 200 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
-| National Association of Letter Carrier, Branch 825(United States Postal Service) | [13-CB-369578](/case/13-CB-369578) | 07/18/2025 | Open | 20 | Zion, IL | Region 13, Chicago, Illinois |
-| Amazon | [16-CA-369596](/case/16-CA-369596) | 07/18/2025 | Open | 500 | Kyle, TX | Region 16, Fort Worth, Texas |
-| Amalgmaated Transit Union Local 788 (First Student) | [14-CB-369592](/case/14-CB-369592) | 07/18/2025 | Open | 100 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
-| First Student | [14-CA-369590](/case/14-CA-369590) | 07/18/2025 | Open | 100 | Granite City, IL | Region 14, Saint Louis, Missouri |
-| AEP Texas | [16-CA-369606](/case/16-CA-369606) | 07/18/2025 | Open | 75 | San Angelo, TX | Region 16, Fort Worth, Texas |
-| Health Care, Professional, Technical, Office, Warehouse and Mail Order Employees Union, Local 743 (TEKsystems Global Services, LLC) | [13-CB-369557](/case/13-CB-369557) | 07/18/2025 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
-| 10 Roads Express | [15-CA-369564](/case/15-CA-369564) | 07/18/2025 | Open | 13 | Fayetteville, AR | Region 15, New Orleans, Louisiana |
-| Shred-It | [01-RC-369551](/case/01-RC-369551) | 07/18/2025 | Open | 23 | Hudson, NH | Region 01, Boston, Massachusetts |
-| Unite Here (Savi Provisions) | [10-CB-369567](/case/10-CB-369567) | 07/18/2025 | Open | 1 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | Bimbo Bakeries USA | [15-CA-369570](/case/15-CA-369570) | 07/18/2025 | Open | 1 | Meridian, MS | Region 15, New Orleans, Louisiana |
+| Unite Here (Savi Provisions) | [10-CB-369567](/case/10-CB-369567) | 07/18/2025 | Open | 1 | Atlanta, GA | Region 10, Atlanta, Georgia |
+| Worldwide Flight Services | [16-CA-369566](/case/16-CA-369566) | 07/18/2025 | Open | 774 | Irving, TX | Region 16, Fort Worth, Texas |
+| Chauffeurs, Teamsters, Warehousemen and Helpers Union, Local No. 597(Norwich University) | [03-CB-369585](/case/03-CB-369585) | 07/18/2025 | Open | 55 | Northfield, VT | Region 03, Buffalo, New York |
+| United States Postal Service | [10-CA-369540](/case/10-CA-369540) | 07/18/2025 | Open | 50 | Spartanburg, SC | Region 10, Atlanta, Georgia |
+| National Association of Letter Carrier, Branch 825(United States Postal Service) | [13-CB-369578](/case/13-CB-369578) | 07/18/2025 | Open | 20 | Zion, IL | Region 13, Chicago, Illinois |
 | National Black Worker Center | [10-CA-369574](/case/10-CA-369574) | 07/18/2025 | Open | 11 | Raleigh, NC | Region 10, Atlanta, Georgia |
 | United Parcel Service | [04-CA-369536](/case/04-CA-369536) | 07/18/2025 | Open | 550 | Newark, DE | Region 04, Philadelphia, Pennsylvania |
 | United Parcel Service, Inc. | [05-CA-369561](/case/05-CA-369561) | 07/18/2025 | Open | 3000 | Laurel, MD | Region 05, Baltimore, Maryland |
-| UNITED PARCEL SERVICE | [09-CA-369569](/case/09-CA-369569) | 07/18/2025 | Open | 2000 | Cincinnati, OH | Region 09, Cincinnati, Ohio |
 | Santa Monica Proper Hotel | [31-CA-369581](/case/31-CA-369581) | 07/18/2025 | Open | 400 | Santa Monica, CA | Region 31, Los Angeles, California |
 | Volvo Group | [15-CA-369572](/case/15-CA-369572) | 07/18/2025 | Open | 300 | Byhalia, MS | Region 15, New Orleans, Louisiana |
-| United Parcel Service | [14-CA-369589](/case/14-CA-369589) | 07/18/2025 | Open | 475 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
 | United Parcel Service | [15-CA-369579](/case/15-CA-369579) | 07/18/2025 | Open | 80 | Jackson, MS | Region 15, New Orleans, Louisiana |
-| Worldwide Flight Services | [16-CA-369566](/case/16-CA-369566) | 07/18/2025 | Open | 774 | Irving, TX | Region 16, Fort Worth, Texas |
-| Chauffeurs, Teamsters, Warehousemen and Helpers Union, Local No. 597(Norwich University) | [03-CB-369585](/case/03-CB-369585) | 07/18/2025 | Open | 55 | Northfield, VT | Region 03, Buffalo, New York |
-| Phaze One Electric, LLC | [14-CA-369594](/case/14-CA-369594) | 07/18/2025 | Open | 28 | Olathe, KS | Region 14, Saint Louis, Missouri |
-| United States Postal Service | [10-CA-369540](/case/10-CA-369540) | 07/18/2025 | Open | 50 | Spartanburg, SC | Region 10, Atlanta, Georgia |
+| Unidad Laboral de Empleados y Enfermeros de Salud (Hospital Auxilio Mutuo) | [12-CB-369598](/case/12-CB-369598) | 07/18/2025 | Open | 21 | San Juan, PR | Region 12, Tampa, Florida |
+| Amazon | [16-CA-369596](/case/16-CA-369596) | 07/18/2025 | Open | 500 | Kyle, TX | Region 16, Fort Worth, Texas |
 | Olson Brothers Pro Vac, LLC | [19-RC-369603](/case/19-RC-369603) | 07/18/2025 | Open | 115 | Kent, WA | Region 19, Seattle, Washington |
-| Carpenters Local 713 | [32-RD-369602](/case/32-RD-369602) | 07/18/2025 | Open | 3 | Hayward, CA | Region 32, Oakland, California |
-| United Parcel Service | [19-CA-369604](/case/19-CA-369604) | 07/18/2025 | Open | 750 | Anchorage, AK | Region 19, Seattle, Washington |
 | Westlake Royal Stone Solutions | [20-CA-369616](/case/20-CA-369616) | 07/18/2025 | Open | 300 | American Canyon, CA | Region 20, San Francisco, California |
-| Knott's Berry Farm | [21-RD-369610](/case/21-RD-369610) | 07/18/2025 | Open | 6 | Buena Park, CA | Region 21, Los Angeles, California |
-| Liberty Dialysis Hawaii d/b/a Fresenius Medical Center North America as a single and/or joint employer with Fresenius Management Services, Inc. d/b/a Fresenius Medical Care North America | [20-CA-369618](/case/20-CA-369618) | 07/18/2025 | Open | 32 | Hilo, HI | Region 20, San Francisco, California |
 | Unite HERE Local 11 (Santa Monica Proper Hotel) | [31-CB-369565](/case/31-CB-369565) | 07/18/2025 | Open | 400 | Santa Monica, CA | Region 31, Los Angeles, California |
-| Hunt Military Communities | [10-CA-369526](/case/10-CA-369526) | 07/17/2025 | Open | 100 | Camp Lejeune, NC | Region 10, Atlanta, Georgia |
-| Lincoln Prairie Behavioral Health Center | [25-CA-369530](/case/25-CA-369530) | 07/17/2025 | Open | 200 | Springfield, IL | Region 25, Indianapolis, Indiana |
-| Protos Security | [10-CA-369529](/case/10-CA-369529) | 07/17/2025 | Open | 25 | Norcross, GA | Region 10, Atlanta, Georgia |
-| Legion West Morehead, LLC/Legion Brewing Company, LLC | [10-CA-369535](/case/10-CA-369535) | 07/17/2025 | Open | 200 | Charlotte, NC | Region 10, Atlanta, Georgia |
-| United States Postal Service | [13-CA-369524](/case/13-CA-369524) | 07/17/2025 | Open | 50 | Wheeling, IL | Region 13, Chicago, Illinois |
-| United Parcel Service | [10-CA-369488](/case/10-CA-369488) | 07/17/2025 | Open | 10851 | Atlanta, GA | Region 10, Atlanta, Georgia |
-| United Parcel Service | [04-CA-369491](/case/04-CA-369491) | 07/17/2025 | Open | 55 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
-| United Parcel Service | [04-CA-369481](/case/04-CA-369481) | 07/17/2025 | Open | 2000 | Middletown, PA | Region 04, Philadelphia, Pennsylvania |
-| Northwestern University | [13-RC-369482](/case/13-RC-369482) | 07/17/2025 | Open | 1300 | Evanston, IL | Region 13, Chicago, Illinois |
-| CCS Contractor Equipment and Supply, Inc. d/b/a SureBuilt Concrete Forms & Accessories | [13-CA-369516](/case/13-CA-369516) | 07/17/2025 | Open | 136 | Melrose Park, IL | Region 13, Chicago, Illinois |
-| National Rural Letter Carrier Association (United States Postal Service) | [05-CB-369515](/case/05-CB-369515) | 07/17/2025 | Open | 25 | Mechanicsville, VA | Region 05, Baltimore, Maryland |
-| CCS Contractor Equipment and Supply, Inc. d/b/a SureBuilt Concrete Forms & Accessories | [13-CA-369517](/case/13-CA-369517) | 07/17/2025 | Open | 136 | Melrose Park, IL | Region 13, Chicago, Illinois |
-| United Parcel Service | [12-CA-369541](/case/12-CA-369541) | 07/17/2025 | Open | 3000 | Tampa, FL | Region 12, Tampa, Florida |
-| Earth Remedies of Florida, LLC | [12-CA-369542](/case/12-CA-369542) | 07/17/2025 | Open | 11 | Tallahassee, FL | Region 12, Tampa, Florida |
-| PTC Alliance | [06-RC-369459](/case/06-RC-369459) | 07/17/2025 | Closed | 16 | Beaver Falls, PA | Region 06, Pittsburgh, Pennsylvania |
-| Local 41 Plumbers & Pipefitters (Apollo Mechanical) | [19-CB-369546](/case/19-CB-369546) | 07/17/2025 | Open | 1 | Gallatin Gateway, MT | Region 19, Seattle, Washington |
-| United States Postal Service | [21-CA-369512](/case/21-CA-369512) | 07/17/2025 | Open | 500 | Los Angeles, CA | Region 21, Los Angeles, California |
-| Methodist Healthcare Ministries of South Texas, Inc | [16-CA-369507](/case/16-CA-369507) | 07/17/2025 | Open | 200 | San Antonio, TX | Region 16, Fort Worth, Texas |
-| Dreyer's Grand Ice Cream | [31-CA-369497](/case/31-CA-369497) | 07/17/2025 | Open | 1600 | Bakersfield, CA | Region 31, Los Angeles, California |
-| Cascade Steel Rolling Mills, Inc. | [19-CA-369509](/case/19-CA-369509) | 07/17/2025 | Open | 280 | McMinnville, OR | Region 19, Seattle, Washington |
-| BAE Systems Inc | [27-CA-369510](/case/27-CA-369510) | 07/17/2025 | Open | 1400 | Hill Afb, UT | Region 27, Denver, Colorado |
-| CCS Contractor Equipment and Supply, Inc. d/b/a SureBuilt Concrete Forms & Accessories | [13-CA-369519](/case/13-CA-369519) | 07/17/2025 | Open | 136 | Melrose Park, IL | Region 13, Chicago, Illinois |
-| CCS Contractor Equipment and Supply, Inc. d/b/a SureBuilt Concrete Forms & Accessories | [13-CA-369518](/case/13-CA-369518) | 07/17/2025 | Open | 136 | Melrose Park, IL | Region 13, Chicago, Illinois |
-| Albertsons/Safeway | [27-CA-369465](/case/27-CA-369465) | 07/17/2025 | Open | 5000 | Centennial, CO | Region 27, Denver, Colorado |
-| GFR Media | [12-CA-369463](/case/12-CA-369463) | 07/17/2025 | Open | 94 | Guaynabo, PR | Region 12, Tampa, Florida |
-| Hudson Park Nursing Home | [03-CA-369432](/case/03-CA-369432) | 07/17/2025 | Open | 100 | Albany, NY | Region 03, Buffalo, New York |
-| Luis Ayala Colón Sucrs, Inc. | [12-CA-369446](/case/12-CA-369446) | 07/17/2025 | Open | 1 | San Juan, PR | Region 12, Tampa, Florida |
-| Unilever | [14-CA-369425](/case/14-CA-369425) | 07/17/2025 | Open | 350 | Independence, MO | Region 14, Saint Louis, Missouri |
-| BCTGM Local 53 (Bimbo Bakeries Bread Plant) | [03-CB-369474](/case/03-CB-369474) | 07/17/2025 | Open | 100 | Albany, NY | Region 03, Buffalo, New York |
-| Bimbo Bakeries Albany Bread Plant | [03-CA-369486](/case/03-CA-369486) | 07/17/2025 | Open | 100 | Albany, NY | Region 03, Buffalo, New York |
-| Fitesa Washougal | [19-CA-369493](/case/19-CA-369493) | 07/17/2025 | Open | 38 | Washougal, WA | Region 19, Seattle, Washington |
-| ILWU Local 142 (Maui County Federal Credit Union) | [20-CB-369478](/case/20-CB-369478) | 07/17/2025 | Open | 10 | Wailuku, HI | Region 20, San Francisco, California |
-| Teamsters Local 50 (Associated PipeLine Contractors) | [14-CB-369454](/case/14-CB-369454) | 07/17/2025 | Open | 500 | Swansea, IL | Region 14, Saint Louis, Missouri |
-| Teamsters Local 50 (Associated Pipe Line Contractors) | [14-CB-369455](/case/14-CB-369455) | 07/17/2025 | Open | 500 | Swansea, IL | Region 14, Saint Louis, Missouri |
-| Teamsters (Bluelinx co) | [10-CB-369487](/case/10-CB-369487) | 07/17/2025 | Open | 100 | Lawrenceville, GA | Region 10, Atlanta, Georgia |
-| A Pocono Country Place | [04-RC-369471](/case/04-RC-369471) | 07/17/2025 | Open | 11 | Tobyhanna, PA | Region 04, Philadelphia, Pennsylvania |
-| SEIU Local 73 (Northwestern University Libraries) | [10-CB-369495](/case/10-CB-369495) | 07/17/2025 | Open | 10 | Candler, NC | Region 10, Atlanta, Georgia |
-| United Parcel Service | [19-CA-369550](/case/19-CA-369550) | 07/17/2025 | Open | 6000 | Seattle, WA | Region 19, Seattle, Washington |
-| United States Postal Service | [10-CA-369428](/case/10-CA-369428) | 07/17/2025 | Open | 1 | Rocky Mount, NC | Region 10, Atlanta, Georgia |
-| United States Postal Service | [16-CA-369522](/case/16-CA-369522) | 07/17/2025 | Open | 1000 | San Antonio, TX | Region 16, Fort Worth, Texas |
-| MiQrotech | [05-CA-369553](/case/05-CA-369553) | 07/17/2025 | Open | 1 | Washington, DC | Region 05, Baltimore, Maryland |
-| American Postal Workers Union #418 (United States Postal Service) | [15-CB-369479](/case/15-CB-369479) | 07/17/2025 | Open | 50 | Shreveport, LA | Region 15, New Orleans, Louisiana |
-| Kellanova | [14-CA-369523](/case/14-CA-369523) | 07/17/2025 | Open | 600 | Kansas City, KS | Region 14, Saint Louis, Missouri |
-| United States Postal Service | [14-CA-369514](/case/14-CA-369514) | 07/17/2025 | Open | 300 | Omaha, NE | Region 14, Saint Louis, Missouri |
-| Telecare Riverside County MHRC | [21-CA-369549](/case/21-CA-369549) | 07/17/2025 | Open | 90 | Riverside, CA | Region 21, Los Angeles, California |
-| United States Postal Service | [25-CA-369422](/case/25-CA-369422) | 07/17/2025 | Open | 600 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
-| High Desert Distribution | [31-RC-369506](/case/31-RC-369506) | 07/17/2025 | Open | 15 | Bakersfield, CA | Region 31, Los Angeles, California |
-| Bay Area Legal Aid | [32-CA-369560](/case/32-CA-369560) | 07/17/2025 | Open | 160 | Oakland, CA | Region 32, Oakland, California |
-| United States Postal Service | [16-CA-369503](/case/16-CA-369503) | 07/17/2025 | Open | 50 | Beeville, TX | Region 16, Fort Worth, Texas |
-| United Parcel Service | [32-CA-369556](/case/32-CA-369556) | 07/17/2025 | Open | 50 | Angels Camp, CA | Region 32, Oakland, California |
-| International Association of Sheet Metal, Air, Rail and Transportation Workers and its General Executive Council (Acco Engineering) | [31-CB-369571](/case/31-CB-369571) | 07/17/2025 | Open | 25 | Pasadena, CA | Region 31, Los Angeles, California |
-| United Parcel Service | [31-CA-369595](/case/31-CA-369595) | 07/17/2025 | Open | 600 | Ventura, CA | Region 31, Los Angeles, California |
-| United States Postal Service | [14-CA-369513](/case/14-CA-369513) | 07/17/2025 | Open | 1000 | Kansas City, MO | Region 14, Saint Louis, Missouri |
-| United Parcel Service | [32-CA-369601](/case/32-CA-369601) | 07/17/2025 | Open | 50 | Oakland, CA | Region 32, Oakland, California |
-| Altice USA | [02-RC-369538](/case/02-RC-369538) | 07/17/2025 | Open | 34 | West Nyack, NY | Region 02, New York, New York |
-| Seattle Humane | [19-CA-369591](/case/19-CA-369591) | 07/17/2025 | Open | 1 | Bellevue, WA | Region 19, Seattle, Washington |
-| Concord Steel Division of LB Metal, LLC | [08-RD-369489](/case/08-RD-369489) | 07/17/2025 | Open | 10 | Warren, OH | Region 08, Cleveland, Ohio |
-| United States Postal Service | [15-CA-369501](/case/15-CA-369501) | 07/17/2025 | Open | 400 | Baton Rouge, LA | Region 15, New Orleans, Louisiana |
-| The UPS Store | [06-CA-369562](/case/06-CA-369562) | 07/17/2025 | Open | 10 | State College, PA | Region 06, Pittsburgh, Pennsylvania |
-| Allied Universal Security | [05-CA-369568](/case/05-CA-369568) | 07/17/2025 | Open | 70 | Washington, DC | Region 05, Baltimore, Maryland |
-| UNITED STATES POSTAL SERVICE | [09-CA-369575](/case/09-CA-369575) | 07/17/2025 | Open | 100 | Lexington, KY | Region 09, Cincinnati, Ohio |
-| United Parcel Service (UPS) | [08-CA-369580](/case/08-CA-369580) | 07/17/2025 | Open | 2000 | Cleveland, OH | Region 08, Cleveland, Ohio |
-| King David | [08-CA-369583](/case/08-CA-369583) | 07/17/2025 | Open | 300 | Cleveland, OH | Region 08, Cleveland, Ohio |
-| Union Rights for Security Officers (Allied Universal Security) | [05-CB-369582](/case/05-CB-369582) | 07/17/2025 | Open | 70 | Washington, DC | Region 05, Baltimore, Maryland |
+| Legal Aid Society of New York | [02-CA-369620](/case/02-CA-369620) | 07/18/2025 | Open | 1000 | New York, NY | Region 02, New York, New York |
+| United Parcel Service | [25-CA-369625](/case/25-CA-369625) | 07/18/2025 | Open | 50 | Evansville, IN | Region 25, Indianapolis, Indiana |
+| AEP Texas | [16-CA-369606](/case/16-CA-369606) | 07/18/2025 | Open | 75 | San Angelo, TX | Region 16, Fort Worth, Texas |
+| United Parcel Service | [14-CA-369589](/case/14-CA-369589) | 07/18/2025 | Open | 475 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
+| Health Care, Professional, Technical, Office, Warehouse and Mail Order Employees Union, Local 743 (TEKsystems Global Services, LLC) | [13-CB-369557](/case/13-CB-369557) | 07/18/2025 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
+| Union Rights for Security Officers (URSO)(Inter-Con Security Systems, Inc.) | [05-CB-369633](/case/05-CB-369633) | 07/18/2025 | Open | 25 | Alexandria, VA | Region 05, Baltimore, Maryland |
+| Nan McKay & Associates | [12-CA-369630](/case/12-CA-369630) | 07/18/2025 | Open | 40 | Jacksonville, FL | Region 12, Tampa, Florida |
+| Owens Corning | [03-CA-369629](/case/03-CA-369629) | 07/18/2025 | Open | 250 | Feura Bush, NY | Region 03, Buffalo, New York |
+| 1199 SEIU United Healthcare Workers East (Morrison Health) | [12-CB-369636](/case/12-CB-369636) | 07/18/2025 | Open | 200 | West Palm Beach, FL | Region 12, Tampa, Florida |
+| QSL America, Inc. d/b/a North America Stevedoring, LLC and PeopleReady, Joint Employers | [13-CA-369627](/case/13-CA-369627) | 07/18/2025 | Open | 40 | Chicago, IL | Region 13, Chicago, Illinois |
+| United Parcel Service | [10-CA-369656](/case/10-CA-369656) | 07/18/2025 | Open | 1000 | Nashville, TN | Region 10, Atlanta, Georgia |
+| UNITE HERE! Local 1 (Flying Food Group) | [13-CB-369645](/case/13-CB-369645) | 07/18/2025 | Open | 367 | Schiller Park, IL | Region 13, Chicago, Illinois |
+| Chauffeurs, Teamsters, Warehousemen and Helpers Union, Local No. 597(Norwich University) | [03-CB-369644](/case/03-CB-369644) | 07/18/2025 | Open | 960 | Northfield, VT | Region 03, Buffalo, New York |
+| Universal Maintenance Shop (Westport Axle) | [04-CA-369646](/case/04-CA-369646) | 07/18/2025 | Open | 120 | Alburtis, PA | Region 04, Philadelphia, Pennsylvania |
+| Open Kitchens, Inc. | [13-CA-369631](/case/13-CA-369631) | 07/18/2025 | Open | 40 | Chicago, IL | Region 13, Chicago, Illinois |
+| Chicago Fire FC Soccer in the Community | [13-CA-369634](/case/13-CA-369634) | 07/18/2025 | Open | 64 | Chicago, IL | Region 13, Chicago, Illinois |
+| United Parcel Service | [10-CA-369651](/case/10-CA-369651) | 07/18/2025 | Open | 1 | Paducah, KY | Region 10, Atlanta, Georgia |
+| Tony's Fine Foods - UNFI | [20-CA-369654](/case/20-CA-369654) | 07/18/2025 | Open | 145 | West Sacramento, CA | Region 20, San Francisco, California |
+| United Parcel Service | [13-CA-369640](/case/13-CA-369640) | 07/18/2025 | Open | 900 | Hodgkins, IL | Region 13, Chicago, Illinois |
+| US Foods Denver Division | [27-CA-369655](/case/27-CA-369655) | 07/18/2025 | Open | 275 | Centennial, CO | Region 27, Denver, Colorado |
+| 10 Roads Express | [15-CA-369564](/case/15-CA-369564) | 07/18/2025 | Open | 13 | Fayetteville, AR | Region 15, New Orleans, Louisiana |
+| United Parcel Service | [19-CA-369604](/case/19-CA-369604) | 07/18/2025 | Open | 750 | Anchorage, AK | Region 19, Seattle, Washington |
+| UPS | [03-CA-369650](/case/03-CA-369650) | 07/18/2025 | Open | 25 | Allegany, NY | Region 03, Buffalo, New York |
+| University Hospitals Health System Inc. and University Primary Care Practices, Inc. d/b/a University Hospitals Medical Practices | [08-CA-369674](/case/08-CA-369674) | 07/18/2025 | Open | 5000 | Shaker Heights, OH | Region 08, Cleveland, Ohio |
+| UPS | [03-CA-369657](/case/03-CA-369657) | 07/18/2025 | Open | 25 | Dunkirk, NY | Region 03, Buffalo, New York |
+| New York City Economic Development Corporation | [02-RM-369670](/case/02-RM-369670) | 07/18/2025 | Open | 8 | Manhattan, NY | Region 02, New York, New York |
+| United Parcel Service (UPS) | [08-CA-369684](/case/08-CA-369684) | 07/18/2025 | Open | 2000 | Cleveland, OH | Region 08, Cleveland, Ohio |
+| UPS | [03-CA-369690](/case/03-CA-369690) | 07/18/2025 | Open | 55 | Falconer, NY | Region 03, Buffalo, New York |
+| United States Postal Service | [10-CA-369623](/case/10-CA-369623) | 07/18/2025 | Open | 258 | Macon, GA | Region 10, Atlanta, Georgia |
+| United States Postal Service | [10-CA-369688](/case/10-CA-369688) | 07/18/2025 | Open | 700 | Cayce, SC | Region 10, Atlanta, Georgia |
+| Amalgamated Transit Union Local 788 (First Student) | [14-CB-369592](/case/14-CB-369592) | 07/18/2025 | Open | 100 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
+| Cordogan Clark | [14-CA-369597](/case/14-CA-369597) | 07/18/2025 | Open | 200 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
+| First Student | [14-CA-369590](/case/14-CA-369590) | 07/18/2025 | Open | 100 | Granite City, IL | Region 14, Saint Louis, Missouri |
+| Liberty Dialysis Hawaii d/b/a Fresenius Medical Center North America as a single and/or joint employer with Fresenius Management Services, Inc. d/b/a Fresenius Medical Care North America | [20-CA-369618](/case/20-CA-369618) | 07/18/2025 | Open | 32 | Hilo, HI | Region 20, San Francisco, California |
+| Lancaster Behavioral Health Hospital / UHS | [04-RC-369637](/case/04-RC-369637) | 07/18/2025 | Open | 135 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
+| United Parcel Service, Inc. | [31-CA-369673](/case/31-CA-369673) | 07/18/2025 | Open | 366 | Santa Maria, CA | Region 31, Los Angeles, California |
