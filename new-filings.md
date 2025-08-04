@@ -62,7 +62,6 @@
 | United Steel, Paper and Forestry, Rubber, Manfacturing, Energy, Allied Industrial Service Workers International Union, Local 13-1 (Nouryon Chemical) | [16-CB-370534](/case/16-CB-370534) | 07/31/2025 | Open | 50 | La Porte, TX | Region 16, Fort Worth, Texas |
 | Traffic Management, Inc. | [14-CA-370530](/case/14-CA-370530) | 07/31/2025 | Open | 25 | Bridgeton, MO | Region 14, Saint Louis, Missouri |
 | United States Postal Service | [10-CA-370506](/case/10-CA-370506) | 07/31/2025 | Open | 50 | Huntsville, AL | Region 10, Atlanta, Georgia |
-| Amazon.com Services, LLC and its agent Amazon Logistics, Inc. (collectively “Amazon”), as a single and/or joint employer with its Delivery Service Partner Metro Deliveries and Logistics, LLC (“Metro”) | [21-CA-370515](/case/21-CA-370515) | 07/31/2025 | Open | 50 | Industry, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [01-CA-370508](/case/01-CA-370508) | 07/31/2025 | Open | 1000 | Providence, RI | Region 01, Boston, Massachusetts |
 | United States Postal Service | [10-CA-370531](/case/10-CA-370531) | 07/31/2025 | Open | 300 | Birmingham, AL | Region 10, Atlanta, Georgia |
 | United States Postal Service | [10-CA-370549](/case/10-CA-370549) | 07/31/2025 | Open | 50 | Huntsville, AL | Region 10, Atlanta, Georgia |
@@ -70,6 +69,7 @@
 | Amazon.com Service, LLC | [03-CA-370476](/case/03-CA-370476) | 07/31/2025 | Open | 1000 | Hopewell Junction, NY | Region 03, Buffalo, New York |
 | Baltimore Gas & Electric | [05-CA-370554](/case/05-CA-370554) | 07/31/2025 | Open | 1000 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | Park City Mountain Resort | [27-RC-370548](/case/27-RC-370548) | 07/31/2025 | Open | 62 | Park City, UT | Region 27, Denver, Colorado |
+| Amazon.com Services, LLC and its agent Amazon Logistics, Inc. (collectively “Amazon”), as a single and/or joint employer with its Delivery Service Partner Metro Deliveries and Logistics, LLC (“Metro”) | [21-CA-370515](/case/21-CA-370515) | 07/31/2025 | Open | 50 | Industry, CA | Region 21, Los Angeles, California |
 | Protection Strategies, Inc. | [27-CA-370366](/case/27-CA-370366) | 07/30/2025 | Open | 28 | Platteville, CO | Region 27, Denver, Colorado |
 | GE AEROSPACE | [09-CA-370359](/case/09-CA-370359) | 07/30/2025 | Open | 458 | Cincinnati, OH | Region 09, Cincinnati, Ohio |
 | American Postal Workers Union (United States Postal Service) | [10-CB-370384](/case/10-CB-370384) | 07/30/2025 | Open | 1 | Birmingham, AL | Region 10, Atlanta, Georgia |
