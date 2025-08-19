@@ -44,7 +44,6 @@
 | American Postal Workers Union (United States Postal Service) | [10-CB-371346](/case/10-CB-371346) | 08/14/2025 | Open | 100 | Homewood, AL | Region 10, Atlanta, Georgia |
 | Ryder Logistics | [10-CA-371356](/case/10-CA-371356) | 08/14/2025 | Open | 200 | Spring Hill, TN | Region 10, Atlanta, Georgia |
 | Greco Steel Products, Inc. | [06-CA-371353](/case/06-CA-371353) | 08/14/2025 | Open | 20 | Springdale, PA | Region 06, Pittsburgh, Pennsylvania |
-| amazon.com | [04-CA-371316](/case/04-CA-371316) | 08/14/2025 | Open | 1000 | Middletown, DE | Region 04, Philadelphia, Pennsylvania |
 | BCTGM Local 1 (Ferrero USA, North America) | [13-CB-371357](/case/13-CB-371357) | 08/14/2025 | Open | 300 | Franklin Park, IL | Region 13, Chicago, Illinois |
 | Communication Workers of America (AT&T) | [10-CB-371359](/case/10-CB-371359) | 08/14/2025 | Open | 50 | Hoover, AL | Region 10, Atlanta, Georgia |
 | Local 501 (Servi-Tek) | [31-CB-371349](/case/31-CB-371349) | 08/14/2025 | Open | 2 | Los Angeles, CA | Region 31, Los Angeles, California |
@@ -74,7 +73,6 @@
 | The Ritz Carlton Oahu, Turtle Bay Resort | [20-CA-371388](/case/20-CA-371388) | 08/14/2025 | Open | 100 | Kahuku, HI | Region 20, San Francisco, California |
 | Starbucks Corporation | [19-CA-371408](/case/19-CA-371408) | 08/14/2025 | Open | 25 | Seattle, WA | Region 19, Seattle, Washington |
 | National Organization of Legal Services Workers UAWLocal2320:Brennan Center United (Brennan Center for Justice) | [02-CB-371430](/case/02-CB-371430) | 08/14/2025 | Open | 150 | New York, NY | Region 02, New York, New York |
-| United States Postal Service | [27-CA-371432](/case/27-CA-371432) | 08/14/2025 | Open | 100 | Greenwood Village, CO | Region 27, Denver, Colorado |
 | United States Postal Service | [12-CA-371323](/case/12-CA-371323) | 08/14/2025 | Open | 10 | San Sebastian, PR | Region 12, Tampa, Florida |
 | Edgewood Sierra Hills | [27-CA-371442](/case/27-CA-371442) | 08/14/2025 | Open | 40 | Cheyenne, WY | Region 27, Denver, Colorado |
 | Hillside Operator, LLC d/b/a Hillside Rehab and Healthcare Center | [14-RC-371352](/case/14-RC-371352) | 08/14/2025 | Open | 5 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
@@ -85,6 +83,8 @@
 | Internation longshoremen's Association, Local 1416(Port of Miami terminal Operating Company(POMTOC) | [12-CB-371451](/case/12-CB-371451) | 08/14/2025 | Open | 500 | Ives Estates, FL | Region 12, Tampa, Florida |
 | Barnard College | [02-CA-371457](/case/02-CA-371457) | 08/14/2025 | Open | 25 | New York, NY | Region 02, New York, New York |
 | Mercy Health New Life Hospice by Compassus | [08-CA-371370](/case/08-CA-371370) | 08/14/2025 | Open | 42 | Lorain, OH | Region 08, Cleveland, Ohio |
+| United States Postal Service | [27-CA-371432](/case/27-CA-371432) | 08/14/2025 | Open | 100 | Greenwood Village, CO | Region 27, Denver, Colorado |
+| amazon.com | [04-CA-371316](/case/04-CA-371316) | 08/14/2025 | Open | 1000 | Middletown, DE | Region 04, Philadelphia, Pennsylvania |
 | IAMAW Local Lodge 850 (Akima Range Readiness Operations) | [14-CB-371232](/case/14-CB-371232) | 08/13/2025 | Open | 50 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
 | Irving Oil Terminals Inc. | [01-CA-371273](/case/01-CA-371273) | 08/13/2025 | Open | 5 | Revere, MA | Region 01, Boston, Massachusetts |
 | Viking Plastics | [06-CA-371244](/case/06-CA-371244) | 08/13/2025 | Open | 60 | Corry, PA | Region 06, Pittsburgh, Pennsylvania |
