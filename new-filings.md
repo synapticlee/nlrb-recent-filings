@@ -6,8 +6,8 @@
 | United States Postal Service | [04-CA-371745](/case/04-CA-371745) | 08/21/2025 | Open | 300 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
 | Walt Disney Parks and Resorts US Inc | [12-CA-371753](/case/12-CA-371753) | 08/21/2025 | Open | 2400 | Kissimmee, FL | Region 12, Tampa, Florida |
 | Valhalla Resort Hotel | [10-CA-371757](/case/10-CA-371757) | 08/21/2025 | Open | 30 | Helen, GA | Region 10, Atlanta, Georgia |
-| Multi Color Corporation | [03-RC-371756](/case/03-RC-371756) | 08/21/2025 | Open | 9 | Rochester, NY | Region 03, Buffalo, New York |
 | UNITE HERE New England Joint Board Local 687T (Dyno Nobel Inc.) | [01-CB-371752](/case/01-CB-371752) | 08/21/2025 | Open | 123 | Simsbury, CT | Region 01, Boston, Massachusetts |
+| Multi Color Corporation | [03-RC-371756](/case/03-RC-371756) | 08/21/2025 | Open | 9 | Rochester, NY | Region 03, Buffalo, New York |
 | Ironworkers Local 17 (Various) | [08-CB-371742](/case/08-CB-371742) | 08/21/2025 | Open | 100 | Cleveland, OH | Region 08, Cleveland, Ohio |
 | AT&T | [10-CA-371764](/case/10-CA-371764) | 08/21/2025 | Open | 50 | North Charleston, SC | Region 10, Atlanta, Georgia |
 | OshKosh AeroTech, LLC | [01-RC-371760](/case/01-RC-371760) | 08/21/2025 | Open | 10 | Warwick, RI | Region 01, Boston, Massachusetts |
@@ -32,8 +32,8 @@
 | USPS | [03-CA-371713](/case/03-CA-371713) | 08/20/2025 | Open | 700 | Albany, NY | Region 03, Buffalo, New York |
 | Macklin, Inc. | [25-CA-371717](/case/25-CA-371717) | 08/20/2025 | Open | 8 | Rochelle, IL | Region 25, Indianapolis, Indiana |
 | BJ's Restaurant and Brewhouse | [32-RC-371664](/case/32-RC-371664) | 08/20/2025 | Open | 50 | Modesto, CA | Region 32, Oakland, California |
-| Republic Services | [32-RD-371691](/case/32-RD-371691) | 08/20/2025 | Open | 36 | Salinas, CA | Region 32, Oakland, California |
 | K. K. Mechanical, Inc. | [27-RC-371720](/case/27-RC-371720) | 08/20/2025 | Open | 48 | Ogden, UT | Region 27, Denver, Colorado |
+| Republic Services | [32-RD-371691](/case/32-RD-371691) | 08/20/2025 | Open | 36 | Salinas, CA | Region 32, Oakland, California |
 | SEIU Local 49 (ABM Industries) | [19-CB-371723](/case/19-CB-371723) | 08/20/2025 | Open | 1000 | Portland, OR | Region 19, Seattle, Washington |
 | United Parcel Service | [10-CA-371704](/case/10-CA-371704) | 08/20/2025 | Open | 1000 | West Columbia, SC | Region 10, Atlanta, Georgia |
 | CWA (Comcast) | [06-CB-371725](/case/06-CB-371725) | 08/20/2025 | Open | 1 | Pittsburgh, PA | Region 06, Pittsburgh, Pennsylvania |
@@ -45,11 +45,11 @@
 | National Nordic Museum | [19-RC-371685](/case/19-RC-371685) | 08/20/2025 | Open | 21 | Seattle, WA | Region 19, Seattle, Washington |
 | Republic Waste Services of Southern California, LLC | [21-CA-371755](/case/21-CA-371755) | 08/20/2025 | Open | 50 | Anaheim, CA | Region 21, Los Angeles, California |
 | Trump Village Section IV | [29-CA-371751](/case/29-CA-371751) | 08/20/2025 | Open | 30 | Brooklyn, NY | Region 29, Brooklyn, New York |
-| Starbucks Corporation | [08-CA-371730](/case/08-CA-371730) | 08/20/2025 | Open | 18 | Cuyahoga Falls, OH | Region 08, Cleveland, Ohio |
-| Willow Woods | [08-CA-371732](/case/08-CA-371732) | 08/20/2025 | Open | 52 | North Lima, OH | Region 08, Cleveland, Ohio |
+| CBRE, Inc. | [32-RC-371763](/case/32-RC-371763) | 08/20/2025 | Open | 20 | Fremont, CA | Region 32, Oakland, California |
 | Vistra Corp. | [08-CA-371740](/case/08-CA-371740) | 08/20/2025 | Open | 100 | Perry, OH | Region 08, Cleveland, Ohio |
 | Vistra Corp. | [08-CA-371737](/case/08-CA-371737) | 08/20/2025 | Open | 100 | Perry, OH | Region 08, Cleveland, Ohio |
-| CBRE, Inc. | [32-RC-371763](/case/32-RC-371763) | 08/20/2025 | Open | 20 | Fremont, CA | Region 32, Oakland, California |
+| Starbucks Corporation | [08-CA-371730](/case/08-CA-371730) | 08/20/2025 | Open | 18 | Cuyahoga Falls, OH | Region 08, Cleveland, Ohio |
+| Willow Woods | [08-CA-371732](/case/08-CA-371732) | 08/20/2025 | Open | 52 | North Lima, OH | Region 08, Cleveland, Ohio |
 | APWU Local 72 (United States Postal Service) | [08-CB-371761](/case/08-CB-371761) | 08/20/2025 | Open | 500 | Cleveland, OH | Region 08, Cleveland, Ohio |
 | Point Management LLC d.b.a. Shangri La | [14-RD-371765](/case/14-RD-371765) | 08/20/2025 | Open | 15 | Columbia, MO | Region 14, Saint Louis, Missouri |
 | Hermanson LLC | [14-CA-371750](/case/14-CA-371750) | 08/20/2025 | Open | 250 | De Soto, KS | Region 14, Saint Louis, Missouri |
@@ -59,8 +59,8 @@
 | Apwu local 390(USPS) | [03-CB-371564](/case/03-CB-371564) | 08/19/2025 | Open | 100 | Albany, NY | Region 03, Buffalo, New York |
 | AGL Services Company | [10-CA-371579](/case/10-CA-371579) | 08/19/2025 | Open | 54 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | Disneyland Resort | [21-CA-371570](/case/21-CA-371570) | 08/19/2025 | Open | 31000 | Anaheim, CA | Region 21, Los Angeles, California |
-| General Dynamics Mission Systems | [10-CA-371580](/case/10-CA-371580) | 08/19/2025 | Open | 500 | Greensboro, NC | Region 10, Atlanta, Georgia |
 | Union Gastronomica Local 610 UNITE HERE (Fairmont Hotel San Juan) | [12-CB-371567](/case/12-CB-371567) | 08/19/2025 | Open | 20 | San Juan, PR | Region 12, Tampa, Florida |
+| General Dynamics Mission Systems | [10-CA-371580](/case/10-CA-371580) | 08/19/2025 | Open | 500 | Greensboro, NC | Region 10, Atlanta, Georgia |
 | International Alliance of Theatrical Stage Employees Local 347 (Colonial Life Arena) | [10-CB-371553](/case/10-CB-371553) | 08/19/2025 | Open | 10 | Columbia, SC | Region 10, Atlanta, Georgia |
 | Brindlee Fire Scquisition Sub LLC | [10-CA-371557](/case/10-CA-371557) | 08/19/2025 | Open | 20 | Chattanooga, TN | Region 10, Atlanta, Georgia |
 | Steuben Center | [03-CA-371584](/case/03-CA-371584) | 08/19/2025 | Open | 62 | Bath, NY | Region 03, Buffalo, New York |
@@ -75,20 +75,20 @@
 | Keurig Dr. Pepper | [21-CA-371614](/case/21-CA-371614) | 08/19/2025 | Open | 50 | Vernon, CA | Region 21, Los Angeles, California |
 | Lamb Weston | [27-RD-371616](/case/27-RD-371616) | 08/19/2025 | Open | 683 | American Falls, ID | Region 27, Denver, Colorado |
 | Ameron Pole Products LLC | [31-CA-371617](/case/31-CA-371617) | 08/19/2025 | Open | 2 | Fillmore, CA | Region 31, Los Angeles, California |
+| United States Postal Service | [13-CA-371633](/case/13-CA-371633) | 08/19/2025 | Open | 160 | Glenview, IL | Region 13, Chicago, Illinois |
 | United Parcel Service | [10-CA-371632](/case/10-CA-371632) | 08/19/2025 | Open | 300 | West Columbia, SC | Region 10, Atlanta, Georgia |
 | United Parcel Service | [10-CA-371639](/case/10-CA-371639) | 08/19/2025 | Open | 200 | Roanoke, VA | Region 10, Atlanta, Georgia |
 | Anthony L. Jordan Health Center | [03-CA-371627](/case/03-CA-371627) | 08/19/2025 | Open | 285 | Rochester, NY | Region 03, Buffalo, New York |
 | Hermanson Company | [14-CA-371606](/case/14-CA-371606) | 08/19/2025 | Open | 250 | De Soto, KS | Region 14, Saint Louis, Missouri |
 | O'Connell Electric | [03-CA-371654](/case/03-CA-371654) | 08/19/2025 | Open | 100 | Lancaster, NY | Region 03, Buffalo, New York |
-| United States Postal Service | [13-CA-371633](/case/13-CA-371633) | 08/19/2025 | Open | 160 | Glenview, IL | Region 13, Chicago, Illinois |
 | Blessing Hospital | [14-CA-371613](/case/14-CA-371613) | 08/19/2025 | Open | 585 | Quincy, IL | Region 14, Saint Louis, Missouri |
 | Stockton Maintenance Group, LLC | [05-RM-371663](/case/05-RM-371663) | 08/19/2025 | Open | 65 | Vienna, VA | Region 05, Baltimore, Maryland |
 | Laborers' International Union of North America, Local 559 (Vulcan Industries Contractors Co., LLC) | [10-CB-371657](/case/10-CB-371657) | 08/19/2025 | Open | 300 | Birmingham, AL | Region 10, Atlanta, Georgia |
 | Vulcan Industries Contractors Co., LLC | [10-CA-371640](/case/10-CA-371640) | 08/19/2025 | Open | 300 | Birmingham, AL | Region 10, Atlanta, Georgia |
 | United States Postal Service | [13-CA-371635](/case/13-CA-371635) | 08/19/2025 | Open | 160 | Glenview, IL | Region 13, Chicago, Illinois |
 | Inspire Kids | [02-CA-371665](/case/02-CA-371665) | 08/19/2025 | Open | 200 | Newburgh, NY | Region 02, New York, New York |
-| Hotel & Gaming Trades Council(Del Lago Resort and Casino) | [03-CB-371669](/case/03-CB-371669) | 08/19/2025 | Open | 55 | Waterloo, NY | Region 03, Buffalo, New York |
 | Starbucks Corporation | [13-CA-371667](/case/13-CA-371667) | 08/19/2025 | Open | 70000 | Chicago, IL | Region 13, Chicago, Illinois |
+| Hotel & Gaming Trades Council(Del Lago Resort and Casino) | [03-CB-371669](/case/03-CB-371669) | 08/19/2025 | Open | 55 | Waterloo, NY | Region 03, Buffalo, New York |
 | Teamsters, Local 597(TravelKuz) | [03-CB-371661](/case/03-CB-371661) | 08/19/2025 | Open | 13 | Brattleboro, VT | Region 03, Buffalo, New York |
 | MultiCare Health System d/b/a MultiCare Good Samaritan Emergency Parkland | [19-CA-371675](/case/19-CA-371675) | 08/19/2025 | Open | 75 | Tacoma, WA | Region 19, Seattle, Washington |
 | National Association of Letter Carriers (United States Post Office) | [01-CB-371650](/case/01-CB-371650) | 08/19/2025 | Open | 25 | Rockland, MA | Region 01, Boston, Massachusetts |
@@ -97,6 +97,6 @@
 | Federal Express Corporation | [18-CA-371653](/case/18-CA-371653) | 08/19/2025 | Open | 1000 | Sioux City, IA | Region 18, Minneapolis, Minnesota |
 | Darktrace | [14-CA-371610](/case/14-CA-371610) | 08/19/2025 | Open | 3000 | El Dorado, KS | Region 14, Saint Louis, Missouri |
 | American Postal Workers Union (United States Postal Service) | [31-CB-371697](/case/31-CB-371697) | 08/19/2025 | Open | 2 | Glendale, CA | Region 31, Los Angeles, California |
-| Teamsters Local 771 (Lancaster Behavioral Health Hospital) | [04-CB-371703](/case/04-CB-371703) | 08/19/2025 | Open | 325 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
 | French Bread LLC dba Pastis and Starr Restaurant Organization, LP | [05-CA-371699](/case/05-CA-371699) | 08/19/2025 | Open | 100 | Washington, DC | Region 05, Baltimore, Maryland |
 | Cove Haven Resort (Packard Pacifica INC) | [04-CA-371706](/case/04-CA-371706) | 08/19/2025 | Open | 80 | Lakeville, PA | Region 04, Philadelphia, Pennsylvania |
+| MCPOU (Howard University) | [05-CB-371710](/case/05-CB-371710) | 08/19/2025 | Open | 25 | Washington, DC | Region 05, Baltimore, Maryland |
