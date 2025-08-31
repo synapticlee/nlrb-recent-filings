@@ -1,102 +1,102 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
+| United States Postal Service | [14-CA-372345](/case/14-CA-372345) | 08/29/2025 | Open | 25 | Des Peres, MO | Region 14, Saint Louis, Missouri |
+| Propak Logistics | [14-CA-372330](/case/14-CA-372330) | 08/29/2025 | Open | 20 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
+| American Postal Workers Union Local 303 (United States Postal Service) | [10-CB-372349](/case/10-CB-372349) | 08/29/2025 | Open | 1 | Birmingham, AL | Region 10, Atlanta, Georgia |
+| Giant Eagle, Inc. | [08-CA-372332](/case/08-CA-372332) | 08/29/2025 | Open | 34000 | Auburn, OH | Region 08, Cleveland, Ohio |
+| NALC Branch 343 (United States Postal Service) | [14-CB-372346](/case/14-CB-372346) | 08/29/2025 | Open | 25 | Des Peres, MO | Region 14, Saint Louis, Missouri |
+| ASA Fort Dix MSTC- Contract under Phoenix Defense | [04-RD-372356](/case/04-RD-372356) | 08/29/2025 | Open | 5 | Fort Dix, NJ | Region 04, Philadelphia, Pennsylvania |
+| United States Postal Service | [14-CA-372351](/case/14-CA-372351) | 08/29/2025 | Open | 25 | Hennessey, OK | Region 14, Saint Louis, Missouri |
+| ALMAG Aluminum and Aerotek (Joint Employers) | [04-CA-372344](/case/04-CA-372344) | 08/29/2025 | Open | 50 | Pennsauken, NJ | Region 04, Philadelphia, Pennsylvania |
+| United States Postal Service | [15-CA-372342](/case/15-CA-372342) | 08/29/2025 | Open | 1500 | Memphis, TN | Region 15, New Orleans, Louisiana |
+| The Purple Eagle LLC d/b/a The Video Game Cavern | [10-CA-372368](/case/10-CA-372368) | 08/29/2025 | Open | 6 | Taylors, SC | Region 10, Atlanta, Georgia |
+| SEIU6 Property Services NW (Securitas Security Services USA) | [19-CB-372367](/case/19-CB-372367) | 08/29/2025 | Open | 10 | Seattle, WA | Region 19, Seattle, Washington |
+| Teamsters Local 107 (DHL Express) | [04-CB-372369](/case/04-CB-372369) | 08/29/2025 | Open | 0 | West Deptford, NJ | Region 04, Philadelphia, Pennsylvania |
+| The American Postal Workers Union Puerto Rico Local Area 1070 (United States Postal Service) | [12-CB-372361](/case/12-CB-372361) | 08/29/2025 | Open | 100 | Carolina, PR | Region 12, Tampa, Florida |
+| United Safety and Survivability Corporation | [04-CA-372375](/case/04-CA-372375) | 08/29/2025 | Open | 80 | Exton, PA | Region 04, Philadelphia, Pennsylvania |
+| Amalgamated Transit Union, Local 1700 (Greyhound Lines Inc.) | [15-CB-372376](/case/15-CB-372376) | 08/29/2025 | Open | 25 | Baton Rouge, LA | Region 15, New Orleans, Louisiana |
+| PCSI, LLC | [05-CA-372377](/case/05-CA-372377) | 08/29/2025 | Open | 170 | Portsmouth, VA | Region 05, Baltimore, Maryland |
+| Memphis Symphony Orchestra | [15-CA-372381](/case/15-CA-372381) | 08/29/2025 | Open | 8 | Memphis, TN | Region 15, New Orleans, Louisiana |
+| Phelps Memorial Hospital Northwell Health | [02-CA-372359](/case/02-CA-372359) | 08/29/2025 | Open | 420 | Sleepy Hollow, NY | Region 02, New York, New York |
+| United States Postal Service | [21-CA-372378](/case/21-CA-372378) | 08/29/2025 | Open | 1000 | San Diego, CA | Region 21, Los Angeles, California |
+| United States Postal Service | [21-CA-372373](/case/21-CA-372373) | 08/29/2025 | Open | 1000 | San Diego, CA | Region 21, Los Angeles, California |
+| Kaldi's Coffee | [14-CA-372390](/case/14-CA-372390) | 08/29/2025 | Open | 16 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
+| United Safety and Survivability Corporation | [04-CA-372347](/case/04-CA-372347) | 08/29/2025 | Open | 80 | Exton, PA | Region 04, Philadelphia, Pennsylvania |
+| Disneyland Resort | [21-CA-372389](/case/21-CA-372389) | 08/29/2025 | Open | 15 | Anaheim, CA | Region 21, Los Angeles, California |
+| Unite Here Local 11 (Disneyland Resort) | [21-CB-372391](/case/21-CB-372391) | 08/29/2025 | Open | 15 | Anaheim, CA | Region 21, Los Angeles, California |
+| ALDI Incorporated California, LLC; ALDI Distribution Center | [21-CA-372401](/case/21-CA-372401) | 08/29/2025 | Open | 200 | Moreno Valley, CA | Region 21, Los Angeles, California |
+| Starbucks Corporation | [20-RC-372380](/case/20-RC-372380) | 08/29/2025 | Open | 12 | San Francisco, CA | Region 20, San Francisco, California |
+| One Vision | [18-CA-372407](/case/18-CA-372407) | 08/29/2025 | Open | 50 | Clear Lake, IA | Region 18, Minneapolis, Minnesota |
+| IBEW Local 1547 (Chugach Electric) | [19-CB-372409](/case/19-CB-372409) | 08/29/2025 | Open | 50 | Anchorage, AK | Region 19, Seattle, Washington |
+| Industrial Workers of the World General Headquarters | [13-CA-372252](/case/13-CA-372252) | 08/28/2025 | Open | 4 | Chicago, IL | Region 13, Chicago, Illinois |
 | Super Asphalt Pavement Corp | [12-CA-372262](/case/12-CA-372262) | 08/28/2025 | Open | 30 | Guaynabo, PR | Region 12, Tampa, Florida |
 | Heartland Rural Electric Cooperative, Inc. | [14-CA-372248](/case/14-CA-372248) | 08/28/2025 | Open | 50 | Girard, KS | Region 14, Saint Louis, Missouri |
 | Breakthru Beverage IL | [13-CA-372251](/case/13-CA-372251) | 08/28/2025 | Open | 127 | Cicero, IL | Region 13, Chicago, Illinois |
 | Teamsters Local 107 (DHL Express) | [04-CB-372268](/case/04-CB-372268) | 08/28/2025 | Open | 0 | West Deptford, NJ | Region 04, Philadelphia, Pennsylvania |
 | Old Dominion Jobcorps Center | [10-CA-372278](/case/10-CA-372278) | 08/28/2025 | Open | 50 | Monroe, VA | Region 10, Atlanta, Georgia |
-| United Safety and Survivability Corporation | [04-RC-372277](/case/04-RC-372277) | 08/28/2025 | Open | 80 | Exton, PA | Region 04, Philadelphia, Pennsylvania |
-| International United Auto Workers (John Deere Harvester Works) | [25-CB-372286](/case/25-CB-372286) | 08/28/2025 | Open | 1100 | East Moline, IL | Region 25, Indianapolis, Indiana |
+| LXG CHICAGO LLC dba Holiday Inn and Suites Chicago-Downtown | [13-CA-372334](/case/13-CA-372334) | 08/28/2025 | Open | 9 | Chicago, IL | Region 13, Chicago, Illinois |
+| United States Postal Service | [19-CA-372317](/case/19-CA-372317) | 08/28/2025 | Open | 50 | Eugene, OR | Region 19, Seattle, Washington |
+| Teamsters Local 107 (DHL Express) | [04-CB-372343](/case/04-CB-372343) | 08/28/2025 | Open | 0 | West Deptford, NJ | Region 04, Philadelphia, Pennsylvania |
+| Lesley University | [01-CA-372341](/case/01-CA-372341) | 08/28/2025 | Open | 20 | Cambridge, MA | Region 01, Boston, Massachusetts |
+| United States Postal Service South Bend, IN P&DC | [25-CA-372321](/case/25-CA-372321) | 08/28/2025 | Open | 200 | South Bend, IN | Region 25, Indianapolis, Indiana |
+| International Brother of Teamsters, Local 414 (Universal Dedicated of Fort Wayne, LLC) | [25-CB-372348](/case/25-CB-372348) | 08/28/2025 | Open | 320 | Roanoke, IN | Region 25, Indianapolis, Indiana |
 | Teamsters Local 771 (Lancaster Behavioral Health Hospital) | [04-CB-372290](/case/04-CB-372290) | 08/28/2025 | Open | 325 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
-| EUROCARIBE | [12-CA-372259](/case/12-CA-372259) | 08/28/2025 | Open | 125 | Vega Baja, PR | Region 12, Tampa, Florida |
-| Industrial Workers of the World General Headquarters | [13-CA-372252](/case/13-CA-372252) | 08/28/2025 | Open | 4 | Chicago, IL | Region 13, Chicago, Illinois |
-| Green Thumb Industries d/b/a Rise Dispensary | [05-CA-372294](/case/05-CA-372294) | 08/28/2025 | Open | 9 | York, PA | Region 05, Baltimore, Maryland |
-| Dairy Workers Association, Inc. (Cream-o-Land Dairy, Inc.) | [04-CB-372296](/case/04-CB-372296) | 08/28/2025 | Open | 0 | Florence, NJ | Region 04, Philadelphia, Pennsylvania |
+| C & W Services | [08-CA-372335](/case/08-CA-372335) | 08/28/2025 | Open | 40 | Elyria, OH | Region 08, Cleveland, Ohio |
+| International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 12 | [08-CA-372331](/case/08-CA-372331) | 08/28/2025 | Open | 12 | Toledo, OH | Region 08, Cleveland, Ohio |
+| Baylor Scott and White Health Center | [16-CA-372352](/case/16-CA-372352) | 08/28/2025 | Open | 49000 | Temple, TX | Region 16, Fort Worth, Texas |
+| United States Postal Service | [14-CA-372329](/case/14-CA-372329) | 08/28/2025 | Open | 700 | Hazelwood, MO | Region 14, Saint Louis, Missouri |
+| United Safety and Survivability Corporation | [04-RC-372277](/case/04-RC-372277) | 08/28/2025 | Open | 80 | Exton, PA | Region 04, Philadelphia, Pennsylvania |
+| First Student, Inc. | [01-RD-372295](/case/01-RD-372295) | 08/28/2025 | Open | 45 | Waterford, CT | Region 01, Boston, Massachusetts |
+| Lassonde Pappas | [15-CA-372363](/case/15-CA-372363) | 08/28/2025 | Open | 72 | Springdale, AR | Region 15, New Orleans, Louisiana |
+| Dr. Killigan's, Inc. | [16-CA-372360](/case/16-CA-372360) | 08/28/2025 | Open | 1 | San Marcos, TX | Region 16, Fort Worth, Texas |
+| Inspire Event Technologies, LLC | [20-CA-372318](/case/20-CA-372318) | 08/28/2025 | Open | 25 | Napa, CA | Region 20, San Francisco, California |
+| Marguis Health Consulting Services, LLC d/b/a Highland Park Rehabilitation and Healthcare Center | [01-CA-372371](/case/01-CA-372371) | 08/28/2025 | Open | 95 | Chelsea, MA | Region 01, Boston, Massachusetts |
+| Teamsters Local 439 (UNFI) | [32-CB-372372](/case/32-CB-372372) | 08/28/2025 | Open | 50 | Stockton, CA | Region 32, Oakland, California |
+| APWU (United States Postal Service) | [25-CB-372370](/case/25-CB-372370) | 08/28/2025 | Open | 1 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
+| Starbucks Corporation | [13-RC-372310](/case/13-RC-372310) | 08/28/2025 | Open | 18 | Chicago, IL | Region 13, Chicago, Illinois |
 | National Rural Letter Carriers' Association (United States Postal Service) | [10-CB-372299](/case/10-CB-372299) | 08/28/2025 | Open | 1 | Alpharetta, GA | Region 10, Atlanta, Georgia |
+| America Postal Workers Union(United States Postal Service) | [10-CB-372327](/case/10-CB-372327) | 08/28/2025 | Open | 50 | Birmingham, AL | Region 10, Atlanta, Georgia |
+| Segerstrom Center For The Arts | [21-CA-372315](/case/21-CA-372315) | 08/28/2025 | Open | 45 | Costa Mesa, CA | Region 21, Los Angeles, California |
+| MBM Logistics | [12-CA-372309](/case/12-CA-372309) | 08/28/2025 | Open | 115 | Orlando, FL | Region 12, Tampa, Florida |
+| M1 SUPPORT SERVICES LP | [05-RC-372338](/case/05-RC-372338) | 08/28/2025 | Open | 177 | Norfolk, VA | Region 05, Baltimore, Maryland |
+| Eurocaribe | [12-CA-372259](/case/12-CA-372259) | 08/28/2025 | Open | 125 | Vega Baja, PR | Region 12, Tampa, Florida |
 | Huntington Ingalls Inc & Newport News Shipbuilding | [05-CA-372298](/case/05-CA-372298) | 08/28/2025 | Open | 2500 | Hadensville, VA | Region 05, Baltimore, Maryland |
 | First Student, Inc. Zachary | [15-CA-372301](/case/15-CA-372301) | 08/28/2025 | Open | 155 | Slaughter, LA | Region 15, New Orleans, Louisiana |
 | Messer North America Inc. | [04-CA-372304](/case/04-CA-372304) | 08/28/2025 | Open | 100 | Claymont, DE | Region 04, Philadelphia, Pennsylvania |
-| First Student, Inc. | [01-RD-372295](/case/01-RD-372295) | 08/28/2025 | Open | 45 | Waterford, CT | Region 01, Boston, Massachusetts |
 | AmeriGas, L.P. | [13-CA-372306](/case/13-CA-372306) | 08/28/2025 | Open | 10 | Lansing, IL | Region 13, Chicago, Illinois |
 | Acadia Coach Lines, Inc. | [15-CA-372308](/case/15-CA-372308) | 08/28/2025 | Open | 50 | Kenner, LA | Region 15, New Orleans, Louisiana |
 | International Alliance of Theatrical Stage Employees (IATSE) including Local 768 TWU (Theatrical Wardrobe Union (under trusteeship)) (Center Theatre Group (CTG-Ahmanson Theatre)) | [21-CB-372300](/case/21-CB-372300) | 08/28/2025 | Open | 5 | Burbank, CA | Region 21, Los Angeles, California |
-| Segerstrom Center For The Arts | [21-CA-372315](/case/21-CA-372315) | 08/28/2025 | Open | 45 | Costa Mesa, CA | Region 21, Los Angeles, California |
 | Rabanco, LTD | [19-RC-372316](/case/19-RC-372316) | 08/28/2025 | Open | 2 | Lacey, WA | Region 19, Seattle, Washington |
-| MBM Logistics | [12-CA-372309](/case/12-CA-372309) | 08/28/2025 | Open | 115 | Orlando, FL | Region 12, Tampa, Florida |
+| Green Thumb Industries d/b/a Rise Dispensary | [05-CA-372294](/case/05-CA-372294) | 08/28/2025 | Open | 9 | York, PA | Region 05, Baltimore, Maryland |
+| International United Auto Workers (John Deere Harvester Works) | [25-CB-372286](/case/25-CB-372286) | 08/28/2025 | Open | 1100 | East Moline, IL | Region 25, Indianapolis, Indiana |
+| Hunt Military Communities | [10-CA-372319](/case/10-CA-372319) | 08/28/2025 | Open | 30 | Camp Lejeune, NC | Region 10, Atlanta, Georgia |
+| Ace warehouse distribution center | [03-CA-372320](/case/03-CA-372320) | 08/28/2025 | Open | 250 | Glens Falls, NY | Region 03, Buffalo, New York |
+| Kiewit | [10-CA-372323](/case/10-CA-372323) | 08/28/2025 | Open | 1400 | Cumberland City, TN | Region 10, Atlanta, Georgia |
+| John Deere Harvester Works | [25-CA-372325](/case/25-CA-372325) | 08/28/2025 | Open | 5000 | Moline, IL | Region 25, Indianapolis, Indiana |
+| Ecology Services Curbside Collection Services, LLC | [05-CA-372324](/case/05-CA-372324) | 08/28/2025 | Open | 90 | Columbia, MD | Region 05, Baltimore, Maryland |
+| Pan American Grain Company Inc. | [12-CA-372326](/case/12-CA-372326) | 08/28/2025 | Open | 140 | Guaynabo, PR | Region 12, Tampa, Florida |
+| United Parcel Service | [06-CA-372336](/case/06-CA-372336) | 08/28/2025 | Open | 85 | Washington, PA | Region 06, Pittsburgh, Pennsylvania |
+| Jones Lang LaSalle Americas, Inc. | [01-CA-372383](/case/01-CA-372383) | 08/28/2025 | Open | 20 | Boston, MA | Region 01, Boston, Massachusetts |
+| Unite Here Local 26 (The Ritz Carlton Hotel) | [01-CB-372382](/case/01-CB-372382) | 08/28/2025 | Open | 25 | Boston, MA | Region 01, Boston, Massachusetts |
+| Starbucks Corporation | [18-RC-372357](/case/18-RC-372357) | 08/28/2025 | Open | 19 | Wayzata, MN | Region 18, Minneapolis, Minnesota |
+| Dairy Workers Association, Inc. (Cream-o-Land Dairy, Inc.) | [04-CB-372296](/case/04-CB-372296) | 08/28/2025 | Open | 0 | Florence, NJ | Region 04, Philadelphia, Pennsylvania |
+| Cedars-Sinai Medical Center | [31-CA-372396](/case/31-CA-372396) | 08/28/2025 | Open | 2 | Los Angeles, CA | Region 31, Los Angeles, California |
+| United States Postal Service | [18-CA-372395](/case/18-CA-372395) | 08/28/2025 | Open | 100 | Sioux City, IA | Region 18, Minneapolis, Minnesota |
+| Hormel Foods | [18-CA-372399](/case/18-CA-372399) | 08/28/2025 | Open | 220 | Knoxville, IA | Region 18, Minneapolis, Minnesota |
+| Allina Health Mercy Campus | [18-CA-372398](/case/18-CA-372398) | 08/28/2025 | Open | 1170 | Minneapolis, MN | Region 18, Minneapolis, Minnesota |
+| Tuality Healthcare dba Hillsboro Medical Center | [19-RC-372402](/case/19-RC-372402) | 08/28/2025 | Open | 12 | Hillsboro, OR | Region 19, Seattle, Washington |
+| Hormel Foods | [18-CA-372403](/case/18-CA-372403) | 08/28/2025 | Open | 220 | Knoxville, IA | Region 18, Minneapolis, Minnesota |
+| ASPIRUS Wausau Hospital | [18-CA-372405](/case/18-CA-372405) | 08/28/2025 | Open | 3500 | Wausau, WI | Region 18, Minneapolis, Minnesota |
+| UNFI | [32-CA-372406](/case/32-CA-372406) | 08/28/2025 | Open | 300 | Stockton, CA | Region 32, Oakland, California |
 | Sharp Chula Vista Medical Center | [21-RD-372311](/case/21-RD-372311) | 08/28/2025 | Open | 39 | Chula Vista, CA | Region 21, Los Angeles, California |
-| Inspire Event Technologies, LLC | [20-CA-372318](/case/20-CA-372318) | 08/28/2025 | Open | 25 | Napa, CA | Region 20, San Francisco, California |
-| United States Postal Service | [19-CA-372317](/case/19-CA-372317) | 08/28/2025 | Open | 50 | Eugene, OR | Region 19, Seattle, Washington |
-| Starbucks Corporation | [13-RC-372310](/case/13-RC-372310) | 08/28/2025 | Open | 18 | Chicago, IL | Region 13, Chicago, Illinois |
-| American Postal Workers Union, Local 83 (United States Postal Service) | [15-CB-372190](/case/15-CB-372190) | 08/27/2025 | Open | 400 | New Orleans, LA | Region 15, New Orleans, Louisiana |
-| Owens Corning | [12-CA-372198](/case/12-CA-372198) | 08/27/2025 | Open | 84 | Jacksonville, FL | Region 12, Tampa, Florida |
-| Treasure Coast Homeless Services Council, Inc. | [12-CA-372211](/case/12-CA-372211) | 08/27/2025 | Open | 50 | Vero Beach, FL | Region 12, Tampa, Florida |
-| Treasure Coast Homeless Services, Inc. | [12-CA-372210](/case/12-CA-372210) | 08/27/2025 | Open | 50 | Vero Beach, FL | Region 12, Tampa, Florida |
-| Amelie Coffee | [10-CA-372141](/case/10-CA-372141) | 08/27/2025 | Open | 6 | Owens Cross Roads, AL | Region 10, Atlanta, Georgia |
-| Providence Centralia Hospital | [19-RC-372233](/case/19-RC-372233) | 08/27/2025 | Open | 12 | Centralia, WA | Region 19, Seattle, Washington |
-| 1199 SEIU United Healthcare Workers East | [02-CA-372267](/case/02-CA-372267) | 08/27/2025 | Open | 800 | Manhattan, NY | Region 02, New York, New York |
-| UNFI | [05-CA-372271](/case/05-CA-372271) | 08/27/2025 | Open | 300 | Mechanicsville, VA | Region 05, Baltimore, Maryland |
-| Rare Bird Coffee LLC d/b/a Rare Bird Coffee Roasters | [05-RD-372273](/case/05-RD-372273) | 08/27/2025 | Open | 21 | Falls Church, VA | Region 05, Baltimore, Maryland |
-| Fort Amanda Specialties | [08-CA-372275](/case/08-CA-372275) | 08/27/2025 | Open | 28 | Lima, OH | Region 08, Cleveland, Ohio |
-| UFCW Local 3000 | [19-CB-372270](/case/19-CB-372270) | 08/27/2025 | Open | 19 | Seattle, WA | Region 19, Seattle, Washington |
-| Danone North America | [05-CA-372280](/case/05-CA-372280) | 08/27/2025 | Open | 550 | Mount Crawford, VA | Region 05, Baltimore, Maryland |
-| BOSTON UNIVERSITY | [01-CA-372285](/case/01-CA-372285) | 08/27/2025 | Open | 1000 | Boston, MA | Region 01, Boston, Massachusetts |
-| MaxSent | [05-CA-372284](/case/05-CA-372284) | 08/27/2025 | Open | 20 | Washington, DC | Region 05, Baltimore, Maryland |
-| UNFI | [05-CA-372288](/case/05-CA-372288) | 08/27/2025 | Open | 300 | Mechanicsville, VA | Region 05, Baltimore, Maryland |
-| American Postal Workers Union (United States Postal Service) | [10-CB-372154](/case/10-CB-372154) | 08/27/2025 | Open | 10 | Birmingham, AL | Region 10, Atlanta, Georgia |
-| United Parcel Service | [05-CA-372176](/case/05-CA-372176) | 08/27/2025 | Open | 1000 | Landover, MD | Region 05, Baltimore, Maryland |
-| Apwu local 390 (USPS) | [03-CB-372178](/case/03-CB-372178) | 08/27/2025 | Open | 500 | Albany, NY | Region 03, Buffalo, New York |
+| Costco Wholesale | [19-CA-372408](/case/19-CA-372408) | 08/28/2025 | Open | 10000 | Issaquah, WA | Region 19, Seattle, Washington |
 | OshKosh AeroTech, LLC | [01-CA-372191](/case/01-CA-372191) | 08/27/2025 | Open | 10 | Warwick, RI | Region 01, Boston, Massachusetts |
 | 1199 National Benefit Fund | [02-CA-372185](/case/02-CA-372185) | 08/27/2025 | Open | 500 | New York, NY | Region 02, New York, New York |
-| Mid Atlantic Event Group | [04-CA-372215](/case/04-CA-372215) | 08/27/2025 | Open | 15 | Langhorne, PA | Region 04, Philadelphia, Pennsylvania |
-| Magnolia Electric Power | [15-CA-372218](/case/15-CA-372218) | 08/27/2025 | Open | 4 | Summit, MS | Region 15, New Orleans, Louisiana |
+| Owens Corning | [12-CA-372198](/case/12-CA-372198) | 08/27/2025 | Open | 84 | Jacksonville, FL | Region 12, Tampa, Florida |
+| Treasure Coast Homeless Services, Inc. | [12-CA-372210](/case/12-CA-372210) | 08/27/2025 | Open | 50 | Vero Beach, FL | Region 12, Tampa, Florida |
+| Treasure Coast Homeless Services Council, Inc. | [12-CA-372211](/case/12-CA-372211) | 08/27/2025 | Open | 50 | Vero Beach, FL | Region 12, Tampa, Florida |
+| Unite Here Local 11 (Disney Grand Hotel) | [21-CB-372230](/case/21-CB-372230) | 08/27/2025 | Open | 100 | Anaheim, CA | Region 21, Los Angeles, California |
 | Local 107 (DHL Express) | [04-CB-372226](/case/04-CB-372226) | 08/27/2025 | Open | 88 | Sharon Hill, PA | Region 04, Philadelphia, Pennsylvania |
 | WIS International | [27-CA-372228](/case/27-CA-372228) | 08/27/2025 | Open | 15 | Grand Junction, CO | Region 27, Denver, Colorado |
-| Unite Here Local 11 (Disney Grand Hotel) | [21-CB-372230](/case/21-CB-372230) | 08/27/2025 | Open | 100 | Anaheim, CA | Region 21, Los Angeles, California |
 | SEIU Local 2015 (Riverside Healthcare & Wellness Centre, LLC dba Alta Vista Healthcare & Wellness Centre) | [21-CB-372232](/case/21-CB-372232) | 08/27/2025 | Open | 120 | Riverside, CA | Region 21, Los Angeles, California |
 | Teamsters Local 107 (DHL Express) | [04-CB-372245](/case/04-CB-372245) | 08/27/2025 | Open | 0 | Sharon Hill, PA | Region 04, Philadelphia, Pennsylvania |
-| GE APPLIANCES A HAIER COMPANY | [09-CA-372221](/case/09-CA-372221) | 08/27/2025 | Open | 5200 | Louisville, KY | Region 09, Cincinnati, Ohio |
-| Starbucks Corporation | [10-RC-372246](/case/10-RC-372246) | 08/27/2025 | Open | 14 | Madisonville, KY | Region 10, Atlanta, Georgia |
-| United States Postal Service | [18-CA-372157](/case/18-CA-372157) | 08/27/2025 | Open | 300 | Des Moines, IA | Region 18, Minneapolis, Minnesota |
-| Starbucks Corporation | [10-RC-372247](/case/10-RC-372247) | 08/27/2025 | Open | 17 | Paducah, KY | Region 10, Atlanta, Georgia |
-| Clear Choice Dental Implant Centers | [16-CA-372250](/case/16-CA-372250) | 08/27/2025 | Open | 51 | Houston, TX | Region 16, Fort Worth, Texas |
-| Starbucks Corporation | [14-CA-372197](/case/14-CA-372197) | 08/27/2025 | Open | 26 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
-| The Westin Charlotte/Starwood | [10-CA-372257](/case/10-CA-372257) | 08/27/2025 | Open | 300 | Charlotte, NC | Region 10, Atlanta, Georgia |
-| National Association of Letter Carriers Region 9, nba office | [10-CB-372260](/case/10-CB-372260) | 08/27/2025 | Open | 1 | Hickory, NC | Region 10, Atlanta, Georgia |
-| Verizon Washington, D.C., Inc.; Verizon Maryland LLC.; Verizon Virginia LLC; Verizon Services Corp.; Verizon Advanced Data, Inc.; Verizon South, Inc. (Virginia); and Verizon Corporate Services Corp. | [05-CA-372292](/case/05-CA-372292) | 08/27/2025 | Open | 1000 | Cockeysville, MD | Region 05, Baltimore, Maryland |
-| Bricklayers and Allied Craftworkers (BAC) Local 8 Southeast (Lovell's Masonry, Inc.) | [10-CB-372293](/case/10-CB-372293) | 08/27/2025 | Open | 12 | Nashville, TN | Region 10, Atlanta, Georgia |
-| Fort Amanda Specialties | [08-CA-372276](/case/08-CA-372276) | 08/27/2025 | Open | 28 | Lima, OH | Region 08, Cleveland, Ohio |
-| Pillar Property Management | [02-CA-372289](/case/02-CA-372289) | 08/27/2025 | Open | 3 | Manhattan, NY | Region 02, New York, New York |
-| South Street Seaport Museum | [02-CA-372283](/case/02-CA-372283) | 08/27/2025 | Open | 40 | New York, NY | Region 02, New York, New York |
-| GE AEROSPACE | [09-CA-372297](/case/09-CA-372297) | 08/27/2025 | Open | 25 | Evendale, OH | Region 09, Cincinnati, Ohio |
-| International Brotherhood of Electrical Workers, Local 500 (CPS Energy) | [16-CB-372281](/case/16-CB-372281) | 08/27/2025 | Open | 500 | San Antonio, TX | Region 16, Fort Worth, Texas |
-| United States Postal Service | [16-CA-372254](/case/16-CA-372254) | 08/27/2025 | Open | 30 | New Caney, TX | Region 16, Fort Worth, Texas |
-| Meow Wolf | [16-CA-372307](/case/16-CA-372307) | 08/27/2025 | Open | 500 | Grapevine, TX | Region 16, Fort Worth, Texas |
-| MEINEKE CAR CARE | [09-RC-372212](/case/09-RC-372212) | 08/27/2025 | Open | 4 | New Albany, IN | Region 09, Cincinnati, Ohio |
-| Dark House Entertainment INC d/b/a The Basement:  A Live Escape Room Experience | [31-CA-372265](/case/31-CA-372265) | 08/27/2025 | Open | 15 | Sylmar, CA | Region 31, Los Angeles, California |
-| United States Postal Service | [21-CA-372234](/case/21-CA-372234) | 08/27/2025 | Open | 130 | Irvine, CA | Region 21, Los Angeles, California |
-| Westinghouse Electric Company | [31-CA-372312](/case/31-CA-372312) | 08/27/2025 | Open | 500 | Avila Beach, CA | Region 31, Los Angeles, California |
-| First Steps For Kids, Inc.-Alhambra/East Los Angeles | [21-RC-372263](/case/21-RC-372263) | 08/27/2025 | Open | 74 | Alhambra, CA | Region 21, Los Angeles, California |
-| Ohio Local News Initiative dba Signal Ohio | [08-RC-372272](/case/08-RC-372272) | 08/27/2025 | Open | 19 | Cleveland, OH | Region 08, Cleveland, Ohio |
-| UNITE HERE, Local 11 (Fairmont Century Plaza) | [31-CB-372291](/case/31-CB-372291) | 08/27/2025 | Open | 100 | Century City, CA | Region 31, Los Angeles, California |
-| Sunnyside Dispensary - Cresco Labs | [04-RC-372169](/case/04-RC-372169) | 08/27/2025 | Open | 16 | Wyomissing, PA | Region 04, Philadelphia, Pennsylvania |
-| J & A Glass and Mirror | [18-RD-372313](/case/18-RD-372313) | 08/27/2025 | Open | 7 | Rogers, MN | Region 18, Minneapolis, Minnesota |
-| Northeast Beverage Corp. of Connecticut | [01-CA-372048](/case/01-CA-372048) | 08/26/2025 | Open | 36 | Orange, CT | Region 01, Boston, Massachusetts |
-| University of Vermont Medical Center | [03-RC-372108](/case/03-RC-372108) | 08/26/2025 | Open | 8 | Burlington, VT | Region 03, Buffalo, New York |
-| SEIU Local 32BJ (Collins Building Services (CBS)) | [02-CB-372159](/case/02-CB-372159) | 08/26/2025 | Open | 100 | New York, NY | Region 02, New York, New York |
-| UNITED STATES POSTAL SERVICE | [01-CA-372111](/case/01-CA-372111) | 08/26/2025 | Open | 200 | Providence, RI | Region 01, Boston, Massachusetts |
-| Chicago & Midwest Regional Joint Board, Workers United, an Affiliate of S.E.I.U. | [13-CA-372165](/case/13-CA-372165) | 08/26/2025 | Open | 12 | Chicago, IL | Region 13, Chicago, Illinois |
-| IMPERIAL BAG & PAPER CO., LLC D/B/A IMPERIAL DADE | [01-CA-372181](/case/01-CA-372181) | 08/26/2025 | Open | 51 | Franklin, MA | Region 01, Boston, Massachusetts |
-| GMR DBA AMR Ambulance | [20-CA-372140](/case/20-CA-372140) | 08/26/2025 | Open | 150 | Aiea, HI | Region 20, San Francisco, California |
-| 1199 United Healthcare Workers East SEIU (Phelps Memorial Hospital Northwell Health) | [02-CB-372102](/case/02-CB-372102) | 08/26/2025 | Open | 155 | Sleepy Hollow, NY | Region 02, New York, New York |
-| American Postal Workers Union (United States Postal Service) | [10-CB-372096](/case/10-CB-372096) | 08/26/2025 | Open | 50 | Hope Mills, NC | Region 10, Atlanta, Georgia |
-| Aramark | [01-CA-372087](/case/01-CA-372087) | 08/26/2025 | Open | 1000 | West Hartford, CT | Region 01, Boston, Massachusetts |
-| Beecher Manor Nursing and Rehabilitation Center, LLC | [13-CA-372104](/case/13-CA-372104) | 08/26/2025 | Open | 45 | Chicago, IL | Region 13, Chicago, Illinois |
-| Pacific Gas and Electric | [32-CA-372122](/case/32-CA-372122) | 08/26/2025 | Open | 20000 | Hayward, CA | Region 32, Oakland, California |
-| Mercedes Benz of Chicago | [13-CA-372117](/case/13-CA-372117) | 08/26/2025 | Open | 20 | Chicago, IL | Region 13, Chicago, Illinois |
-| Gold Strike Casino Resort | [15-CA-372127](/case/15-CA-372127) | 08/26/2025 | Open | 1000 | Tunica Resorts, MS | Region 15, New Orleans, Louisiana |
-| IBEW Local 1245 (Pacific Gas and Electric) | [32-CB-372133](/case/32-CB-372133) | 08/26/2025 | Open | 50 | Hayward, CA | Region 32, Oakland, California |
-| Dynamik Learning LLC | [10-CA-372107](/case/10-CA-372107) | 08/26/2025 | Open | 7 | Rocky Mount, NC | Region 10, Atlanta, Georgia |
-| Safeway, Inc. | [19-CA-372136](/case/19-CA-372136) | 08/26/2025 | Open | 14 | Maple Valley, WA | Region 19, Seattle, Washington |
-| Hawaii Teamsters and Allied Workers Local 996 (Kapiolani Medical Center for Women and Children) | [20-CB-372139](/case/20-CB-372139) | 08/26/2025 | Open | 1500 | Honolulu, HI | Region 20, San Francisco, California |
-| United States Postal Service | [15-CA-372079](/case/15-CA-372079) | 08/26/2025 | Open | 200 | Memphis, TN | Region 15, New Orleans, Louisiana |
-| United States Postal Service, Kansas-Missouri District | [14-CA-372150](/case/14-CA-372150) | 08/26/2025 | Open | 900 | Kansas City, MO | Region 14, Saint Louis, Missouri |
