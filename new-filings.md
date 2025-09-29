@@ -87,7 +87,6 @@
 | Caver Sand & Gravel, a subsidiary of Heidelberg Materials Northeast LLC | [03-CA-373890](/case/03-CA-373890) | 09/24/2025 | Closed | 5 | Ravena, NY | Region 03, Buffalo, New York |
 | Amazon.com Services LLC DCB8 Facility | [01-CA-373958](/case/01-CA-373958) | 09/24/2025 | Open | 200 | Bellingham, MA | Region 01, Boston, Massachusetts |
 | NATIONAL POSTAL MAILHANDLERS UNION (NPMHU) (United States Postal Service) | [09-CB-373973](/case/09-CB-373973) | 09/24/2025 | Open | 25 | Louisville, KY | Region 09, Cincinnati, Ohio |
-| SEIU Healthcare (West Suburban Nursing and Rehabilitation Center) | [13-CB-373975](/case/13-CB-373975) | 09/24/2025 | Open | 50 | Chicago, IL | Region 13, Chicago, Illinois |
 | Milwaukee Symphony Orchestra Inc. | [18-RC-373970](/case/18-RC-373970) | 09/24/2025 | Open | 2 | Milwaukee, WI | Region 18, Minneapolis, Minnesota |
 | Harvard Street Neighborhood Health Center | [01-CA-373889](/case/01-CA-373889) | 09/24/2025 | Open | 25 | Dorchester, MA | Region 01, Boston, Massachusetts |
 | AFSCME Local 4911 (AMR of Southern California) | [21-CB-373935](/case/21-CB-373935) | 09/24/2025 | Open | 50 | Riverside, CA | Region 21, Los Angeles, California |
@@ -100,3 +99,4 @@
 | United States Postal Service | [04-CA-373921](/case/04-CA-373921) | 09/24/2025 | Open | 260 | Camden, NJ | Region 04, Philadelphia, Pennsylvania |
 | United States Postal Service | [02-CA-374011](/case/02-CA-374011) | 09/24/2025 | Open | 200 | Manhattan, NY | Region 02, New York, New York |
 | Hamlet at Chagrin Falls | [08-CA-373967](/case/08-CA-373967) | 09/24/2025 | Open | 100 | Chagrin Falls, OH | Region 08, Cleveland, Ohio |
+| MultiCare Valley Hospital | [19-CA-373989](/case/19-CA-373989) | 09/24/2025 | Open | 707 | Spokane Valley, WA | Region 19, Seattle, Washington |
