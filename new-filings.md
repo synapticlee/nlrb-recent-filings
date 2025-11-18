@@ -7,7 +7,6 @@
 | Honey Bucket, Inc. | [10-RC-374477](/case/10-RC-374477) | 11/14/2025 | Open | 15 | McDonough, GA | Region 10, Atlanta, Georgia |
 | Sam’s Distribution Center | [10-CA-374489](/case/10-CA-374489) | 11/14/2025 | Open | 250 | Lithia Springs, GA | Region 10, Atlanta, Georgia |
 | Quality Beverage | [01-RC-374480](/case/01-RC-374480) | 11/14/2025 | Open | 63 | Taunton, MA | Region 01, Boston, Massachusetts |
-| The Center for the Performing Arts, Inc. d/b/a Allied Solutions Center | [25-RM-374499](/case/25-RM-374499) | 11/14/2025 | Open | 15 | Carmel, IN | Region 25, Indianapolis, Indiana |
 | ServeXO | [27-RC-374515](/case/27-RC-374515) | 11/14/2025 | Open | 6 | Colorado Springs, CO | Region 27, Denver, Colorado |
 | Senspex | [19-RC-374512](/case/19-RC-374512) | 11/14/2025 | Open | 14 | Yakima, WA | Region 19, Seattle, Washington |
 | Avis Budget Group, Inc. | [27-RC-374523](/case/27-RC-374523) | 11/14/2025 | Open | 28 | Denver, CO | Region 27, Denver, Colorado |
@@ -17,6 +16,8 @@
 | United States Postal Service | [10-CA-374466](/case/10-CA-374466) | 11/14/2025 | Open | 600 | Nashville, TN | Region 10, Atlanta, Georgia |
 | United States Postal Service | [10-CA-374473](/case/10-CA-374473) | 11/14/2025 | Open | 600 | Nashville, TN | Region 10, Atlanta, Georgia |
 | Advanced Chemical Transport LLC  dba ACTenviro | [32-RM-374458](/case/32-RM-374458) | 11/14/2025 | Open | 16 | San Jose, CA | Region 32, Oakland, California |
+| The Center for the Performing Arts, Inc. d/b/a Allied Solutions Center | [25-RM-374499](/case/25-RM-374499) | 11/14/2025 | Open | 15 | Carmel, IN | Region 25, Indianapolis, Indiana |
+| Westinghouse Arts Academy Charter School | [06-CA-374545](/case/06-CA-374545) | 11/14/2025 | Open | 42 | Wilmerding, PA | Region 06, Pittsburgh, Pennsylvania |
 | American Postal Workers Union, EMCAL (United States Postal Service) | [04-CB-374359](/case/04-CB-374359) | 11/13/2025 | Open | 0 | Plymouth Meeting, PA | Region 04, Philadelphia, Pennsylvania |
 | International Longshoreman Association Local 1423 (Various Employers) | [10-CB-374368](/case/10-CB-374368) | 11/13/2025 | Open | 1 | Brunswick, GA | Region 10, Atlanta, Georgia |
 | Teamsters Local 728 (Electric Owls Studios) | [10-CB-374365](/case/10-CB-374365) | 11/13/2025 | Open | 40 | Stone Mountain, GA | Region 10, Atlanta, Georgia |
@@ -34,11 +35,14 @@
 | Prysmian Cable and Systems USA, LLC | [14-CA-374521](/case/14-CA-374521) | 11/13/2025 | Open | 40 | Du Quoin, IL | Region 14, Saint Louis, Missouri |
 | Imperial Beach Community Clinic | [21-RC-374483](/case/21-RC-374483) | 11/13/2025 | Open | 25 | Imperial Beach, CA | Region 21, Los Angeles, California |
 | St. Rose Hospital | [32-RC-374494](/case/32-RC-374494) | 11/13/2025 | Open | 18 | Hayward, CA | Region 32, Oakland, California |
+| CCL Container | [06-CA-374542](/case/06-CA-374542) | 11/13/2025 | Open | 300 | Hermitage, PA | Region 06, Pittsburgh, Pennsylvania |
+| CCL Container | [06-CA-374543](/case/06-CA-374543) | 11/13/2025 | Open | 300 | Hermitage, PA | Region 06, Pittsburgh, Pennsylvania |
 | National Association of Social Workers | [05-CA-374453](/case/05-CA-374453) | 11/12/2025 | Open | 200 | Washington, DC | Region 05, Baltimore, Maryland |
 | Illinois College of Optometry | [13-RC-374462](/case/13-RC-374462) | 11/12/2025 | Open | 4 | Chicago, IL | Region 13, Chicago, Illinois |
 | IATSE Local 190 | [14-CB-374517](/case/14-CB-374517) | 11/12/2025 | Open | 50 | Wichita, KS | Region 14, Saint Louis, Missouri |
 | Museum Associates d/b/a Los Angeles County Museum of Art | [31-RM-374492](/case/31-RM-374492) | 11/12/2025 | Open | 284 | Los Angeles, CA | Region 31, Los Angeles, California |
 | CalPortland Company | [32-RD-374509](/case/32-RD-374509) | 11/12/2025 | Open | 17 | Fresno, CA | Region 32, Oakland, California |
+| Corelle Brands LLC | [06-CA-374544](/case/06-CA-374544) | 11/12/2025 | Open | 300 | Charleroi, PA | Region 06, Pittsburgh, Pennsylvania |
 | United States Postal Service | [14-CA-374479](/case/14-CA-374479) | 11/11/2025 | Open | 700 | Hazelwood, MO | Region 14, Saint Louis, Missouri |
 | Continental Fabricators Inc. | [14-CA-374520](/case/14-CA-374520) | 11/11/2025 | Open | 30 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
 | GardaWorld Security Services | [14-CA-374481](/case/14-CA-374481) | 11/11/2025 | Open | 20 | Liberty, MO | Region 14, Saint Louis, Missouri |
@@ -52,6 +56,10 @@
 | Electric Supply Center | [01-RC-374425](/case/01-RC-374425) | 11/07/2025 | Open | 22 | Woburn, MA | Region 01, Boston, Massachusetts |
 | UPMC Presbyterian | [06-RD-374375](/case/06-RD-374375) | 11/07/2025 | Open | 3 | Pittsburgh, PA | Region 06, Pittsburgh, Pennsylvania |
 | Smith Power Products, Inc. | [27-RD-374501](/case/27-RD-374501) | 11/06/2025 | Open | 47 | Salt Lake City, UT | Region 27, Denver, Colorado |
+| Wabtec Corporation | [06-CA-374535](/case/06-CA-374535) | 11/06/2025 | Open | 1200 | Erie, PA | Region 06, Pittsburgh, Pennsylvania |
+| Channellock, Inc. | [06-CA-374530](/case/06-CA-374530) | 11/04/2025 | Open | 250 | Meadville, PA | Region 06, Pittsburgh, Pennsylvania |
+| Channellock, Inc. | [06-CA-374531](/case/06-CA-374531) | 11/04/2025 | Open | 250 | Meadville, PA | Region 06, Pittsburgh, Pennsylvania |
+| Shell Chemicals | [06-CA-374533](/case/06-CA-374533) | 11/04/2025 | Open | 220 | Monaca, PA | Region 06, Pittsburgh, Pennsylvania |
 | National Association of Letter Carriers (NALC) Branch 685 (United States Postal Service) | [05-CB-374447](/case/05-CB-374447) | 11/03/2025 | Open | 50 | Fredericksburg, VA | Region 05, Baltimore, Maryland |
 | Colonial Williamsburg Company | [05-CA-374460](/case/05-CA-374460) | 11/03/2025 | Open | 320 | Williamsburg, VA | Region 05, Baltimore, Maryland |
 | Ethyl Corporation | [16-RD-374495](/case/16-RD-374495) | 11/03/2025 | Open | 6 | Pasadena, TX | Region 16, Fort Worth, Texas |
@@ -74,6 +82,8 @@
 | Laborers Heavy and General Construction Locals 172 & 472 (LGP Contracting, LLC) | [04-CB-374421](/case/04-CB-374421) | 10/27/2025 | Open | 5 | Clementon, NJ | Region 04, Philadelphia, Pennsylvania |
 | Swedish Health Services d/b/a Swedish Medical Group | [19-RC-374510](/case/19-RC-374510) | 10/27/2025 | Open | 110 | Seattle, WA | Region 19, Seattle, Washington |
 | Omni Refrigeration Services, Inc. | [14-CA-374522](/case/14-CA-374522) | 10/27/2025 | Open | 6 | Brentwood, MO | Region 14, Saint Louis, Missouri |
+| Warren General Hospital | [06-CA-374532](/case/06-CA-374532) | 10/27/2025 | Open | 500 | Warren, PA | Region 06, Pittsburgh, Pennsylvania |
+| Mauser Packaging Solutions | [06-CA-374534](/case/06-CA-374534) | 10/27/2025 | Open | 50 | Warren, PA | Region 06, Pittsburgh, Pennsylvania |
 | California Nurses Association (Keck Medial Center of USC) | [21-CG-374397](/case/21-CG-374397) | 10/24/2025 | Open | 4000 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Premier Beverage Co.d/b/a Breakthru Beverage FL | [12-RD-374423](/case/12-RD-374423) | 10/24/2025 | Open | 210 | Jacksonville, FL | Region 12, Tampa, Florida |
 | Tigon Golf Carts | [04-CA-374411](/case/04-CA-374411) | 10/23/2025 | Open | 68 | Hatfield, PA | Region 04, Philadelphia, Pennsylvania |
@@ -90,13 +100,3 @@
 | United Food & Commercial Workers International Union, Local 1167, AFL-CIO (Cardenas Markets LLC) | [21-CB-374406](/case/21-CB-374406) | 10/21/2025 | Open | 1000 | Ontario, CA | Region 21, Los Angeles, California |
 | Atlantic Windows | [05-RC-374415](/case/05-RC-374415) | 10/20/2025 | Open | 18 | Fort Washington, MD | Region 05, Baltimore, Maryland |
 | Sutter Valley Hospitals dba Sutter Roseville Medical Center | [20-RM-374403](/case/20-RM-374403) | 10/20/2025 | Open | 108 | Roseville, CA | Region 20, San Francisco, California |
-| Montage Laguna Beach | [21-CA-374511](/case/21-CA-374511) | 10/20/2025 | Open | 665 | Laguna Beach, CA | Region 21, Los Angeles, California |
-| Sodexo c/o Lehigh University | [04-CA-374440](/case/04-CA-374440) | 10/17/2025 | Open | 280 | Bethlehem, PA | Region 04, Philadelphia, Pennsylvania |
-| Rochester General Hospital (RGH) | [03-CA-374461](/case/03-CA-374461) | 10/17/2025 | Open | 1050 | Rochester, NY | Region 03, Buffalo, New York |
-| Allied Universal | [05-RC-374430](/case/05-RC-374430) | 10/17/2025 | Open | 39 | Washington, DC | Region 05, Baltimore, Maryland |
-| Lucile Salter Packard Children's Hospital D/B/A Stanford Children's Health | [32-RC-374456](/case/32-RC-374456) | 10/17/2025 | Open | 60 | Palo Alto, CA | Region 32, Oakland, California |
-| InDyne, Inc. | [19-UC-374516](/case/19-UC-374516) | 10/17/2025 | Open | 83 | Anderson, AK | Region 19, Seattle, Washington |
-| Deel US LLC and Nuitee Travel Limited, as joint employers | [20-CA-374526](/case/20-CA-374526) | 10/17/2025 | Open | 1 | Makawao, HI | Region 20, San Francisco, California |
-| National Laundry | [19-RD-374446](/case/19-RD-374446) | 10/16/2025 | Open | 8 | Great Falls, MT | Region 19, Seattle, Washington |
-| Electric Supply Center | [01-RM-374378](/case/01-RM-374378) | 10/15/2025 | Open | 22 | Woburn, MA | Region 01, Boston, Massachusetts |
-| The Quartz Corp | [10-CA-374439](/case/10-CA-374439) | 10/15/2025 | Open | 40 | Spruce Pine, NC | Region 10, Atlanta, Georgia |
