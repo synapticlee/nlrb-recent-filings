@@ -7,7 +7,6 @@
 | The Royal Group | [13-CA-375757](/case/13-CA-375757) | 11/28/2025 | Open | 200 | Cicero, IL | Region 13, Chicago, Illinois |
 | ISS Guickenheimer | [14-CA-375755](/case/14-CA-375755) | 11/28/2025 | Open | 20 | Papillion, NE | Region 14, Saint Louis, Missouri |
 | APWU (United States Postal Service) | [13-CB-375750](/case/13-CB-375750) | 11/28/2025 | Open | 100 | Forest Park, IL | Region 13, Chicago, Illinois |
-| Onsite Police | [05-RM-375776](/case/05-RM-375776) | 11/28/2025 | Open | 4 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | Ozinga Transportation Inc. | [13-CA-375784](/case/13-CA-375784) | 11/28/2025 | Open | 2500 | Mokena, IL | Region 13, Chicago, Illinois |
 | Hotel & Trading Games Council (Del Lago Resort and Casino) | [03-CB-375797](/case/03-CB-375797) | 11/28/2025 | Open | 100 | Waterloo, NY | Region 03, Buffalo, New York |
 | United States Postal Service | [13-CA-375749](/case/13-CA-375749) | 11/28/2025 | Open | 35 | Riverdale, IL | Region 13, Chicago, Illinois |
@@ -17,6 +16,7 @@
 | Northwest Eye Clinic, LLC | [18-CA-375818](/case/18-CA-375818) | 11/28/2025 | Open | 50 | Golden Valley, MN | Region 18, Minneapolis, Minnesota |
 | United States Postal Service | [13-CA-375808](/case/13-CA-375808) | 11/28/2025 | Open | 24 | Hampshire, IL | Region 13, Chicago, Illinois |
 | UFLEOS-PBA (Providence St. Peter Hospital) | [19-CB-375817](/case/19-CB-375817) | 11/28/2025 | Open | 36 | Olympia, WA | Region 19, Seattle, Washington |
+| Onsite Police | [05-RM-375776](/case/05-RM-375776) | 11/28/2025 | Open | 4 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | Laborer Local 66 (Renu Energy Solutions) | [29-CB-375689](/case/29-CB-375689) | 11/26/2025 | Open | 12 | Central Islip, NY | Region 29, Brooklyn, New York |
 | United States Postal Service | [14-CA-375652](/case/14-CA-375652) | 11/26/2025 | Open | 400 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | Smyrna Ready Mix Concrete, LLC d/b/a SRM Concrete | [10-CA-375662](/case/10-CA-375662) | 11/26/2025 | Open | 8 | Glasgow, KY | Region 10, Atlanta, Georgia |
