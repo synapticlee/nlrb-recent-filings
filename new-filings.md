@@ -50,7 +50,6 @@
 | Prometric Inc. | [21-CA-377687](/case/21-CA-377687) | 12/22/2025 | Open | 2500 | San Diego, CA | Region 21, Los Angeles, California |
 | Code for America | [32-CA-377695](/case/32-CA-377695) | 12/22/2025 | Open | 54 | Oakland, CA | Region 32, Oakland, California |
 | Chedraui USA, Smart & Final Logistics, LLC d/b/a Smart & Final, Commerce Distribution Co., LLC d/b/a Smart & Final, and Bodega Latina Corp. d/b/a El Super, as a single employer and/or joint employers | [31-CA-377674](/case/31-CA-377674) | 12/22/2025 | Open | 1000 | Rancho Cucamonga, CA | Region 31, Los Angeles, California |
-| Beeson Mechanical Service | [25-CA-377702](/case/25-CA-377702) | 12/22/2025 | Open | 50 | Whiteland, IN | Region 25, Indianapolis, Indiana |
 | Aciata at Oakfield | [12-CA-377701](/case/12-CA-377701) | 12/22/2025 | Open | 100 | Brandon, FL | Region 12, Tampa, Florida |
 | United States Postal Service | [21-CA-377627](/case/21-CA-377627) | 12/22/2025 | Open | 1000 | San Diego, CA | Region 21, Los Angeles, California |
 | Veolia Water Technologies & Solutions | [31-CA-377650](/case/31-CA-377650) | 12/22/2025 | Open | 15 | Bakersfield, CA | Region 31, Los Angeles, California |
@@ -100,3 +99,4 @@
 | Service Employees International Union - United Service Workers West (ABM) | [31-CB-377788](/case/31-CB-377788) | 12/22/2025 | Open | 45 | Los Angeles, CA | Region 31, Los Angeles, California |
 | New York Uniform Inc. | [29-RM-377771](/case/29-RM-377771) | 12/22/2025 | Open | 1 | Queens, NY | Region 29, Brooklyn, New York |
 | Hawai’i Works Inc | [20-CA-377699](/case/20-CA-377699) | 12/22/2025 | Open | 10 | Honolulu, HI | Region 20, San Francisco, California |
+| JS FOLSOM AUTOMOTIVE DBA FOLSOM BUICK GMC | [20-CA-377799](/case/20-CA-377799) | 12/22/2025 | Open | 45 | Folsom, CA | Region 20, San Francisco, California |
