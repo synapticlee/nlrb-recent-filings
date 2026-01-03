@@ -61,13 +61,13 @@
 | Delaware North d/b/a Wheeling Island Casino | [06-CA-378080](/case/06-CA-378080) | 12/30/2025 | Open | 500 | Wheeling, WV | Region 06, Pittsburgh, Pennsylvania |
 | Hertz Car Sales | [14-RC-378073](/case/14-RC-378073) | 12/30/2025 | Open | 2 | Florissant, MO | Region 14, Saint Louis, Missouri |
 | United States Postal Service | [10-CA-378059](/case/10-CA-378059) | 12/30/2025 | Open | 60 | Kannapolis, NC | Region 10, Atlanta, Georgia |
-| European Wax Center | [16-CA-378096](/case/16-CA-378096) | 12/30/2025 | Open | 5 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Thunderbird Stamping LLC | [14-CA-378046](/case/14-CA-378046) | 12/30/2025 | Open | 25 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
 | Peraton, Inc | [14-CA-378048](/case/14-CA-378048) | 12/30/2025 | Open | 300 | Topeka, KS | Region 14, Saint Louis, Missouri |
 | UNITED STATES POSTAL SERVICE | [16-CA-378077](/case/16-CA-378077) | 12/30/2025 | Open | 150 | Houston, TX | Region 16, Fort Worth, Texas |
 | United States Postal Service | [19-CA-378112](/case/19-CA-378112) | 12/30/2025 | Open | 150 | Great Falls, MT | Region 19, Seattle, Washington |
 | Providence Health and Services dba Providence Portland Medical Center | [19-CA-378113](/case/19-CA-378113) | 12/30/2025 | Open | 1000 | Portland, OR | Region 19, Seattle, Washington |
 | United States Postal Service | [20-CA-378100](/case/20-CA-378100) | 12/30/2025 | Open | 80 | Honolulu, HI | Region 20, San Francisco, California |
+| European Wax Center | [16-CA-378096](/case/16-CA-378096) | 12/30/2025 | Open | 5 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Teamsters Local 743 (TEK Systems Global Services, LLC) | [13-CB-377845](/case/13-CB-377845) | 12/29/2025 | Open | 46 | Chicago, IL | Region 13, Chicago, Illinois |
 | 1199SEIU (Utica Rehab and Nursing) | [03-CB-377863](/case/03-CB-377863) | 12/29/2025 | Open | 300 | Utica, NY | Region 03, Buffalo, New York |
 | Delaware River Waterfront Corporation | [04-CA-377836](/case/04-CA-377836) | 12/29/2025 | Open | 15 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
@@ -97,6 +97,6 @@
 | Glaziers, Architectural Metal and Glass Workers Local 740 (SteelEncounters, Inc.) | [27-CB-378020](/case/27-CB-378020) | 12/29/2025 | Open | 39 | Boise, ID | Region 27, Denver, Colorado |
 | National Association of Letter Carriers (United States Postal Service) | [05-CB-378008](/case/05-CB-378008) | 12/29/2025 | Open | 100 | Washington, DC | Region 05, Baltimore, Maryland |
 | Spanish Peaks Healthcare Systems/Health Solutions | [27-CA-378023](/case/27-CA-378023) | 12/29/2025 | Open | 500 | Pueblo, CO | Region 27, Denver, Colorado |
-| Teamsters Local 856 (Graniterock) | [32-CB-378025](/case/32-CB-378025) | 12/29/2025 | Open | 50 | Seaside, CA | Region 32, Oakland, California |
 | NFFE (Geo Group) | [31-CB-378029](/case/31-CB-378029) | 12/29/2025 | Open | 50 | Bakersfield, CA | Region 31, Los Angeles, California |
 | Geo Group | [31-CA-378026](/case/31-CA-378026) | 12/29/2025 | Open | 50 | Bakersfield, CA | Region 31, Los Angeles, California |
+| Southern Nuclear Operating Company | [10-RD-377864](/case/10-RD-377864) | 12/29/2025 | Open | 250 | Waynesboro, GA | Region 10, Atlanta, Georgia |
