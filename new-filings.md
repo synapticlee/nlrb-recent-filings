@@ -11,7 +11,6 @@
 | NewYork-Presbyterian Queens | [29-RC-378130](/case/29-RC-378130) | 01/02/2026 | Open | 95 | Flushing, NY | Region 29, Brooklyn, New York |
 | United States Postal Service | [14-CA-378122](/case/14-CA-378122) | 01/02/2026 | Open | 70 | Fenton, MO | Region 14, Saint Louis, Missouri |
 | Changing Homelessness Inc. | [12-CA-378148](/case/12-CA-378148) | 01/02/2026 | Open | 50 | Jacksonville, FL | Region 12, Tampa, Florida |
-| APWU Local 298 (United States Postal Service) | [19-CB-378150](/case/19-CB-378150) | 01/02/2026 | Open | 10 | Tacoma, WA | Region 19, Seattle, Washington |
 | Teamsters Local 683 (Transdev) | [21-CB-378142](/case/21-CB-378142) | 01/02/2026 | Open | 50 | Chula Vista, CA | Region 21, Los Angeles, California |
 | National Association of Letter Carriers - Branch 132 (United States Postal Service) | [16-CB-378151](/case/16-CB-378151) | 01/02/2026 | Open | 54 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Workers United Local 1426 (Amcor Flexibles) | [25-CB-378146](/case/25-CB-378146) | 01/02/2026 | Open | 500 | Terre Haute, IN | Region 25, Indianapolis, Indiana |
@@ -23,6 +22,7 @@
 | lnlandboatmen's Union of the Pacific (Foss Maritime Company) | [19-CB-378157](/case/19-CB-378157) | 01/02/2026 | Open | 500 | Seattle, WA | Region 19, Seattle, Washington |
 | Mad Moose Cafe Enterprises, LLC | [27-CA-378162](/case/27-CA-378162) | 01/02/2026 | Open | 18 | Eden, UT | Region 27, Denver, Colorado |
 | Teamsters Local 683 (Transdev) | [21-CB-378143](/case/21-CB-378143) | 01/02/2026 | Open | 50 | El Cajon, CA | Region 21, Los Angeles, California |
+| APWU Local 298 (United States Postal Service) | [19-CB-378150](/case/19-CB-378150) | 01/02/2026 | Open | 10 | Tacoma, WA | Region 19, Seattle, Washington |
 | TerrAscend USA Services LLC | [05-CA-378083](/case/05-CA-378083) | 12/31/2025 | Open | 40 | Salisbury, MD | Region 05, Baltimore, Maryland |
 | Iron Mountain | [10-CA-378038](/case/10-CA-378038) | 12/31/2025 | Open | 300 | Fairfield, AL | Region 10, Atlanta, Georgia |
 | AT&T | [10-CA-378036](/case/10-CA-378036) | 12/31/2025 | Open | 44 | Birmingham, AL | Region 10, Atlanta, Georgia |
@@ -31,13 +31,11 @@
 | Starbucks Corporation | [16-RC-378075](/case/16-RC-378075) | 12/31/2025 | Open | 20 | Houston, TX | Region 16, Fort Worth, Texas |
 | UAW Local 751 (Caterpillar) | [25-CB-378085](/case/25-CB-378085) | 12/31/2025 | Open | 50 | Decatur, IL | Region 25, Indianapolis, Indiana |
 | Caterpillar | [25-CA-378097](/case/25-CA-378097) | 12/31/2025 | Open | 2000 | Decatur, IL | Region 25, Indianapolis, Indiana |
-| Teamsters Local 315 (Auto Warehousing Company) | [32-CB-378088](/case/32-CB-378088) | 12/31/2025 | Open | 85 | Richmond, CA | Region 32, Oakland, California |
 | Tulane University | [15-CA-378098](/case/15-CA-378098) | 12/31/2025 | Open | 300 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | Blank Street, Inc. | [01-RM-378087](/case/01-RM-378087) | 12/31/2025 | Open | 25 | South Boston, MA | Region 01, Boston, Massachusetts |
 | Westport Linen Services | [15-CA-378101](/case/15-CA-378101) | 12/31/2025 | Open | 60 | Scott, LA | Region 15, New Orleans, Louisiana |
 | American Postal Workers Union (APWU), Local 732 | [16-CA-378104](/case/16-CA-378104) | 12/31/2025 | Open | 40 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Al Otro Lado, Inc. | [21-CA-378109](/case/21-CA-378109) | 12/31/2025 | Open | 33 | San Ysidro, CA | Region 21, Los Angeles, California |
-| California Community Foundation | [21-CA-378103](/case/21-CA-378103) | 12/31/2025 | Open | 90 | Los Angeles, CA | Region 21, Los Angeles, California |
 | American Postal Workers Union (United States Postal Service) | [10-CB-378115](/case/10-CB-378115) | 12/31/2025 | Open | 50 | Toccoa, GA | Region 10, Atlanta, Georgia |
 | Pizza Hut joint employer with Flynn Group | [15-CA-378044](/case/15-CA-378044) | 12/31/2025 | Open | 15 | Sherwood, AR | Region 15, New Orleans, Louisiana |
 | SEIU District 1199 (Aventura Assumption Village) | [08-CB-378124](/case/08-CB-378124) | 12/31/2025 | Open | 100 | North Lima, OH | Region 08, Cleveland, Ohio |
@@ -56,6 +54,8 @@
 | UNITE HERE Local 5 (Hilton Hawaiian Village) | [20-CB-378152](/case/20-CB-378152) | 12/31/2025 | Open | 25 | Honolulu, HI | Region 20, San Francisco, California |
 | Hollywood Presbyterian Medical Center | [31-CA-378158](/case/31-CA-378158) | 12/31/2025 | Open | 250 | Los Angeles, CA | Region 31, Los Angeles, California |
 | Hawaii Pacific Health / Kapi’olani Medical Center for Women & Children | [20-CA-378163](/case/20-CA-378163) | 12/31/2025 | Open | 680 | Honolulu, HI | Region 20, San Francisco, California |
+| California Community Foundation | [21-CA-378103](/case/21-CA-378103) | 12/31/2025 | Open | 90 | Los Angeles, CA | Region 21, Los Angeles, California |
+| Teamsters Local 315 (Auto Warehousing Company) | [32-CB-378088](/case/32-CB-378088) | 12/31/2025 | Open | 85 | Richmond, CA | Region 32, Oakland, California |
 | Transport Workers Union of America, Local 260 (MV Transportation) | [16-CB-377987](/case/16-CB-377987) | 12/30/2025 | Open | 10 | Houston, TX | Region 16, Fort Worth, Texas |
 | Custom Awards, Inc. | [13-CA-377997](/case/13-CA-377997) | 12/30/2025 | Open | 5 | Glenview, IL | Region 13, Chicago, Illinois |
 | National Association of Letter Carriers Branch 217 (United States Postal Service) | [15-CB-378005](/case/15-CB-378005) | 12/30/2025 | Open | 25 | Jackson, MS | Region 15, New Orleans, Louisiana |
