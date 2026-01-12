@@ -6,7 +6,6 @@
 | United States Postal Service | [03-CA-378604](/case/03-CA-378604) | 01/09/2026 | Open | 700 | Albany, NY | Region 03, Buffalo, New York |
 | Southern California Gas Company (SoCalGas) | [21-CA-378610](/case/21-CA-378610) | 01/09/2026 | Open | 1000 | Los Angeles, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [03-CA-378593](/case/03-CA-378593) | 01/09/2026 | Open | 700 | Albany, NY | Region 03, Buffalo, New York |
-| Cabelas/Bass Pro | [19-CA-378632](/case/19-CA-378632) | 01/09/2026 | Open | 19100 | Anchorage, AK | Region 19, Seattle, Washington |
 | United States Postal Service | [10-CA-378634](/case/10-CA-378634) | 01/09/2026 | Open | 400 | Duluth, GA | Region 10, Atlanta, Georgia |
 | Mission Conversion Service Alliance | [10-RC-378629](/case/10-RC-378629) | 01/09/2026 | Open | 8 | Kevil, KY | Region 10, Atlanta, Georgia |
 | United States Postal Service | [10-CA-378637](/case/10-CA-378637) | 01/09/2026 | Open | 300 | Knoxville, TN | Region 10, Atlanta, Georgia |
@@ -21,7 +20,6 @@
 | United States Postal Service | [16-CA-378663](/case/16-CA-378663) | 01/09/2026 | Open | 65 | Houston, TX | Region 16, Fort Worth, Texas |
 | Bucks County Courier Times | [04-RC-378651](/case/04-RC-378651) | 01/09/2026 | Open | 10 | Levittown, PA | Region 04, Philadelphia, Pennsylvania |
 | United States Postal Service | [15-CA-378658](/case/15-CA-378658) | 01/09/2026 | Open | 80 | Fort Walton Beach, FL | Region 15, New Orleans, Louisiana |
-| United States Postal Service | [15-CA-378660](/case/15-CA-378660) | 01/09/2026 | Open | 80 | Fort Walton Beach, FL | Region 15, New Orleans, Louisiana |
 | Local IBT 500 (SEPTA) | [04-CB-378670](/case/04-CB-378670) | 01/09/2026 | Open | 5000 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
 | United States Postal Service | [15-CA-378673](/case/15-CA-378673) | 01/09/2026 | Open | 100 | Baton Rouge, LA | Region 15, New Orleans, Louisiana |
 | Seattle Children's Hospital | [19-CA-378666](/case/19-CA-378666) | 01/09/2026 | Open | 2200 | Seattle, WA | Region 19, Seattle, Washington |
@@ -30,14 +28,16 @@
 | FEEST (Food Empowerment Education & Sustainability Team) | [19-CA-378678](/case/19-CA-378678) | 01/09/2026 | Open | 12 | White Center, WA | Region 19, Seattle, Washington |
 | Southern California Gas Company (SoCalGas) | [21-CA-378609](/case/21-CA-378609) | 01/09/2026 | Open | 1000 | Los Angeles, CA | Region 21, Los Angeles, California |
 | The Bay Clubs Company, LLC d/b/a ProClub Bellevue | [19-CA-378674](/case/19-CA-378674) | 01/09/2026 | Open | 100 | Bellevue, WA | Region 19, Seattle, Washington |
-| Caravan Facilities Management, LLC | [25-CA-378511](/case/25-CA-378511) | 01/08/2026 | Open | 120 | Roanoke, IN | Region 25, Indianapolis, Indiana |
-| MV Transportation | [16-CA-378517](/case/16-CA-378517) | 01/08/2026 | Open | 500 | Houston, TX | Region 16, Fort Worth, Texas |
-| United Food and Commercial Workers 1776 (River View Nursing and Rehab) | [04-CB-378519](/case/04-CB-378519) | 01/08/2026 | Open | 44 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
+| Cabelas/Bass Pro | [19-CA-378632](/case/19-CA-378632) | 01/09/2026 | Open | 19100 | Anchorage, AK | Region 19, Seattle, Washington |
+| United States Postal Service | [15-CA-378660](/case/15-CA-378660) | 01/09/2026 | Open | 80 | Fort Walton Beach, FL | Region 15, New Orleans, Louisiana |
 | Floss Dental, Minesh Patel PPLC | [16-CA-378495](/case/16-CA-378495) | 01/08/2026 | Open | 10 | Sugar Land, TX | Region 16, Fort Worth, Texas |
 | Geo Group, Inc | [16-CA-378499](/case/16-CA-378499) | 01/08/2026 | Open | 85 | San Antonio, TX | Region 16, Fort Worth, Texas |
 | Flo Dentistry | [16-CA-378501](/case/16-CA-378501) | 01/08/2026 | Open | 10 | Houston, TX | Region 16, Fort Worth, Texas |
 | United Parcel Service | [16-RC-378505](/case/16-RC-378505) | 01/08/2026 | Open | 6 | Dallas, TX | Region 16, Fort Worth, Texas |
 | National Postal Mail Handlers Union, A Division of Laborers’ International Union of North America, AFL-CIO (United States Postal Service) | [14-CB-378506](/case/14-CB-378506) | 01/08/2026 | Open | 50 | Gardner, KS | Region 14, Saint Louis, Missouri |
+| Caravan Facilities Management, LLC | [25-CA-378511](/case/25-CA-378511) | 01/08/2026 | Open | 120 | Roanoke, IN | Region 25, Indianapolis, Indiana |
+| MV Transportation | [16-CA-378517](/case/16-CA-378517) | 01/08/2026 | Open | 500 | Houston, TX | Region 16, Fort Worth, Texas |
+| United Food and Commercial Workers 1776 (River View Nursing and Rehab) | [04-CB-378519](/case/04-CB-378519) | 01/08/2026 | Open | 44 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Food For Life Baking Company, Inc. | [21-CA-378528](/case/21-CA-378528) | 01/08/2026 | Open | 60 | Corona, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [16-CA-378534](/case/16-CA-378534) | 01/08/2026 | Open | 30000 | San Antonio, TX | Region 16, Fort Worth, Texas |
 | Starbucks Corporation | [14-CA-378509](/case/14-CA-378509) | 01/08/2026 | Open | 10 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
@@ -46,7 +46,6 @@
 | Teamsters, Local 781 (Hertz Corporation) | [13-CB-378545](/case/13-CB-378545) | 01/08/2026 | Open | 100 | Chicago, IL | Region 13, Chicago, Illinois |
 | Local 74 Union-Plumbers and Pipefitters Delaware (Local 74 Plumbers and Pipefitters Union Delaware) | [04-CB-378552](/case/04-CB-378552) | 01/08/2026 | Open | 500 | Newark, DE | Region 04, Philadelphia, Pennsylvania |
 | Local 1 SEIU (Security Logistics Group) | [13-CB-378473](/case/13-CB-378473) | 01/08/2026 | Open | 50 | Crestwood, IL | Region 13, Chicago, Illinois |
-| NALC Branch 1414 (United States Postal Service) | [19-CB-378560](/case/19-CB-378560) | 01/08/2026 | Open | 100 | Bremerton, WA | Region 19, Seattle, Washington |
 | Teamsters Local 771 (Lancaster Behavioral Health Hospital) | [04-CG-378567](/case/04-CG-378567) | 01/08/2026 | Open | 325 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
 | Sunset Foods | [13-CA-378549](/case/13-CA-378549) | 01/08/2026 | Open | 25 | Winnetka, IL | Region 13, Chicago, Illinois |
 | Berks Packing Company, Inc. | [04-RC-378569](/case/04-RC-378569) | 01/08/2026 | Open | 8 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
@@ -57,7 +56,6 @@
 | Suncoast Searchlight | [12-CA-378575](/case/12-CA-378575) | 01/08/2026 | Open | 7 | Sarasota, FL | Region 12, Tampa, Florida |
 | Carpenter Latrobe Specialty Metals | [06-CA-378570](/case/06-CA-378570) | 01/08/2026 | Open | 450 | Latrobe, PA | Region 06, Pittsburgh, Pennsylvania |
 | CORE At Hillcrest Healthcare & Rehabilitation Center | [06-CA-378592](/case/06-CA-378592) | 01/08/2026 | Open | 10 | Lower Burrell, PA | Region 06, Pittsburgh, Pennsylvania |
-| Ratp Dev | [05-CA-378591](/case/05-CA-378591) | 01/08/2026 | Open | 130 | Forestville, MD | Region 05, Baltimore, Maryland |
 | Common Spirit, Virginia Mason Franciscan Health, Franciscan Medical Group, Vascular Associates | [19-RC-378564](/case/19-RC-378564) | 01/08/2026 | Open | 24 | Tacoma, WA | Region 19, Seattle, Washington |
 | United States Postal Service | [10-CA-378583](/case/10-CA-378583) | 01/08/2026 | Open | 12 | Hampton, SC | Region 10, Atlanta, Georgia |
 | United Steelworkers, Local 819 (Sonoco Products Company) | [32-CB-378599](/case/32-CB-378599) | 01/08/2026 | Open | 50 | Merced, CA | Region 32, Oakland, California |
@@ -94,9 +92,11 @@
 | Sealed Air | [01-RC-378633](/case/01-RC-378633) | 01/08/2026 | Open | 58 | Ayer, MA | Region 01, Boston, Massachusetts |
 | Amalgamated Transit Union local 1756 (First Student Inc.) | [21-CB-378580](/case/21-CB-378580) | 01/08/2026 | Open | 50 | Riverside, CA | Region 21, Los Angeles, California |
 | Eddy House | [32-RC-378550](/case/32-RC-378550) | 01/08/2026 | Open | 45 | Reno, NV | Region 32, Oakland, California |
-| United States Postal Service | [05-CA-378475](/case/05-CA-378475) | 01/07/2026 | Open | 150 | Charlottesville, VA | Region 05, Baltimore, Maryland |
-| Baltimore Gas and Electric | [05-CA-378518](/case/05-CA-378518) | 01/07/2026 | Open | 1500 | Baltimore, MD | Region 05, Baltimore, Maryland |
-| United States Postal Service | [12-CA-378424](/case/12-CA-378424) | 01/07/2026 | Open | 25 | Luquillo, PR | Region 12, Tampa, Florida |
-| UNITED STATES POSTAL SERVICE | [09-CA-378502](/case/09-CA-378502) | 01/07/2026 | Open | 300 | Lexington-Fayette, KY | Region 09, Cincinnati, Ohio |
-| Gentiva Hospice, LLC | [10-CA-378526](/case/10-CA-378526) | 01/07/2026 | Open | 15 | Washington, NC | Region 10, Atlanta, Georgia |
-| UNFI | [12-CA-378523](/case/12-CA-378523) | 01/07/2026 | Open | 250 | Pompano Beach, FL | Region 12, Tampa, Florida |
+| Ratp Dev | [05-CA-378591](/case/05-CA-378591) | 01/08/2026 | Open | 130 | Forestville, MD | Region 05, Baltimore, Maryland |
+| NALC Branch 1414 (United States Postal Service) | [19-CB-378560](/case/19-CB-378560) | 01/08/2026 | Open | 100 | Bremerton, WA | Region 19, Seattle, Washington |
+| iQor | [16-CA-378484](/case/16-CA-378484) | 01/07/2026 | Open | 2 | Houston, TX | Region 16, Fort Worth, Texas |
+| Timber Ridge SNF Operations LLC d/b/a River View Nursing and Rehabilitation Center | [04-CA-378485](/case/04-CA-378485) | 01/07/2026 | Open | 58 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
+| Terrabis | [14-RD-378379](/case/14-RD-378379) | 01/07/2026 | Open | 19 | Grayville, IL | Region 14, Saint Louis, Missouri |
+| Timber Ridge SNF Operations LLC d/b/a River View Nursing and Rehabilitation Center | [04-CA-378492](/case/04-CA-378492) | 01/07/2026 | Open | 58 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
+| APWU Union (United States Postal Service) | [14-CB-378478](/case/14-CB-378478) | 01/07/2026 | Open | 100 | Kansas City, MO | Region 14, Saint Louis, Missouri |
+| Republic Services | [12-CA-378507](/case/12-CA-378507) | 01/07/2026 | Open | 9 | Brunswick, GA | Region 12, Tampa, Florida |
