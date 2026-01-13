@@ -30,14 +30,14 @@
 | The Bay Clubs Company, LLC d/b/a ProClub Bellevue | [19-CA-378674](/case/19-CA-378674) | 01/09/2026 | Open | 100 | Bellevue, WA | Region 19, Seattle, Washington |
 | Cabelas/Bass Pro | [19-CA-378632](/case/19-CA-378632) | 01/09/2026 | Open | 19100 | Anchorage, AK | Region 19, Seattle, Washington |
 | United States Postal Service | [15-CA-378660](/case/15-CA-378660) | 01/09/2026 | Open | 80 | Fort Walton Beach, FL | Region 15, New Orleans, Louisiana |
+| Caravan Facilities Management, LLC | [25-CA-378511](/case/25-CA-378511) | 01/08/2026 | Open | 120 | Roanoke, IN | Region 25, Indianapolis, Indiana |
+| MV Transportation | [16-CA-378517](/case/16-CA-378517) | 01/08/2026 | Open | 500 | Houston, TX | Region 16, Fort Worth, Texas |
+| United Food and Commercial Workers 1776 (River View Nursing and Rehab) | [04-CB-378519](/case/04-CB-378519) | 01/08/2026 | Open | 44 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Floss Dental, Minesh Patel PPLC | [16-CA-378495](/case/16-CA-378495) | 01/08/2026 | Open | 10 | Sugar Land, TX | Region 16, Fort Worth, Texas |
 | Geo Group, Inc | [16-CA-378499](/case/16-CA-378499) | 01/08/2026 | Open | 85 | San Antonio, TX | Region 16, Fort Worth, Texas |
 | Flo Dentistry | [16-CA-378501](/case/16-CA-378501) | 01/08/2026 | Open | 10 | Houston, TX | Region 16, Fort Worth, Texas |
 | United Parcel Service | [16-RC-378505](/case/16-RC-378505) | 01/08/2026 | Open | 6 | Dallas, TX | Region 16, Fort Worth, Texas |
 | National Postal Mail Handlers Union, A Division of Laborers’ International Union of North America, AFL-CIO (United States Postal Service) | [14-CB-378506](/case/14-CB-378506) | 01/08/2026 | Open | 50 | Gardner, KS | Region 14, Saint Louis, Missouri |
-| Caravan Facilities Management, LLC | [25-CA-378511](/case/25-CA-378511) | 01/08/2026 | Open | 120 | Roanoke, IN | Region 25, Indianapolis, Indiana |
-| MV Transportation | [16-CA-378517](/case/16-CA-378517) | 01/08/2026 | Open | 500 | Houston, TX | Region 16, Fort Worth, Texas |
-| United Food and Commercial Workers 1776 (River View Nursing and Rehab) | [04-CB-378519](/case/04-CB-378519) | 01/08/2026 | Open | 44 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Food For Life Baking Company, Inc. | [21-CA-378528](/case/21-CA-378528) | 01/08/2026 | Open | 60 | Corona, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [16-CA-378534](/case/16-CA-378534) | 01/08/2026 | Open | 30000 | San Antonio, TX | Region 16, Fort Worth, Texas |
 | Starbucks Corporation | [14-CA-378509](/case/14-CA-378509) | 01/08/2026 | Open | 10 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
@@ -45,7 +45,6 @@
 | United Food and Commercial Workers 1776 (River View Nursing and Rehab) | [04-CB-378540](/case/04-CB-378540) | 01/08/2026 | Open | 99 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Teamsters, Local 781 (Hertz Corporation) | [13-CB-378545](/case/13-CB-378545) | 01/08/2026 | Open | 100 | Chicago, IL | Region 13, Chicago, Illinois |
 | Local 74 Union-Plumbers and Pipefitters Delaware (Local 74 Plumbers and Pipefitters Union Delaware) | [04-CB-378552](/case/04-CB-378552) | 01/08/2026 | Open | 500 | Newark, DE | Region 04, Philadelphia, Pennsylvania |
-| Local 1 SEIU (Security Logistics Group) | [13-CB-378473](/case/13-CB-378473) | 01/08/2026 | Open | 50 | Crestwood, IL | Region 13, Chicago, Illinois |
 | Teamsters Local 771 (Lancaster Behavioral Health Hospital) | [04-CG-378567](/case/04-CG-378567) | 01/08/2026 | Open | 325 | Lancaster, PA | Region 04, Philadelphia, Pennsylvania |
 | Sunset Foods | [13-CA-378549](/case/13-CA-378549) | 01/08/2026 | Open | 25 | Winnetka, IL | Region 13, Chicago, Illinois |
 | Berks Packing Company, Inc. | [04-RC-378569](/case/04-RC-378569) | 01/08/2026 | Open | 8 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
@@ -94,9 +93,10 @@
 | Eddy House | [32-RC-378550](/case/32-RC-378550) | 01/08/2026 | Open | 45 | Reno, NV | Region 32, Oakland, California |
 | Ratp Dev | [05-CA-378591](/case/05-CA-378591) | 01/08/2026 | Open | 130 | Forestville, MD | Region 05, Baltimore, Maryland |
 | NALC Branch 1414 (United States Postal Service) | [19-CB-378560](/case/19-CB-378560) | 01/08/2026 | Open | 100 | Bremerton, WA | Region 19, Seattle, Washington |
-| iQor | [16-CA-378484](/case/16-CA-378484) | 01/07/2026 | Open | 2 | Houston, TX | Region 16, Fort Worth, Texas |
-| Timber Ridge SNF Operations LLC d/b/a River View Nursing and Rehabilitation Center | [04-CA-378485](/case/04-CA-378485) | 01/07/2026 | Open | 58 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
-| Terrabis | [14-RD-378379](/case/14-RD-378379) | 01/07/2026 | Open | 19 | Grayville, IL | Region 14, Saint Louis, Missouri |
-| Timber Ridge SNF Operations LLC d/b/a River View Nursing and Rehabilitation Center | [04-CA-378492](/case/04-CA-378492) | 01/07/2026 | Open | 58 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
-| APWU Union (United States Postal Service) | [14-CB-378478](/case/14-CB-378478) | 01/07/2026 | Open | 100 | Kansas City, MO | Region 14, Saint Louis, Missouri |
-| Republic Services | [12-CA-378507](/case/12-CA-378507) | 01/07/2026 | Open | 9 | Brunswick, GA | Region 12, Tampa, Florida |
+| Local 1 SEIU (Security Logistics Group) | [13-CB-378473](/case/13-CB-378473) | 01/08/2026 | Open | 50 | Crestwood, IL | Region 13, Chicago, Illinois |
+| ZENITH LOGISTICS, INC. | [09-RM-378681](/case/09-RM-378681) | 01/08/2026 | Open | 30 | Louisville, KY | Region 09, Cincinnati, Ohio |
+| United States Postal Service | [05-CA-378475](/case/05-CA-378475) | 01/07/2026 | Open | 150 | Charlottesville, VA | Region 05, Baltimore, Maryland |
+| Baltimore Gas and Electric | [05-CA-378518](/case/05-CA-378518) | 01/07/2026 | Open | 1500 | Baltimore, MD | Region 05, Baltimore, Maryland |
+| United States Postal Service | [12-CA-378424](/case/12-CA-378424) | 01/07/2026 | Open | 25 | Luquillo, PR | Region 12, Tampa, Florida |
+| UNITED STATES POSTAL SERVICE | [09-CA-378502](/case/09-CA-378502) | 01/07/2026 | Open | 300 | Lexington-Fayette, KY | Region 09, Cincinnati, Ohio |
+| Gentiva Hospice, LLC | [10-CA-378526](/case/10-CA-378526) | 01/07/2026 | Open | 15 | Washington, NC | Region 10, Atlanta, Georgia |
