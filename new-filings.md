@@ -13,13 +13,15 @@
 | Bakery, Confectionery, Tobacco Workers & Grain Millers International Union, Local 68 (H&S Bakery) | [05-CB-379234](/case/05-CB-379234) | 01/16/2026 | Open | 50 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | American Postal Workers Union (APWU) Northwest Illinois Area Local #7140 (United States Postal Service) | [13-CB-379235](/case/13-CB-379235) | 01/16/2026 | Open | 25 | Palatine, IL | Region 13, Chicago, Illinois |
 | Paramount EO | [13-CA-379225](/case/13-CA-379225) | 01/16/2026 | Open | 24 | Woodridge, IL | Region 13, Chicago, Illinois |
-| National Association of Letter Carriers Local 197 (United States Postal Service) | [15-CB-379231](/case/15-CB-379231) | 01/16/2026 | Open | 40 | Shreveport, LA | Region 15, New Orleans, Louisiana |
 | East Lake Management | [13-CA-379236](/case/13-CA-379236) | 01/16/2026 | Open | 400 | Chicago, IL | Region 13, Chicago, Illinois |
 | Nexus of Forest Edge | [13-CA-379238](/case/13-CA-379238) | 01/16/2026 | Open | 200 | Chicago, IL | Region 13, Chicago, Illinois |
 | Lonza | [20-RC-379224](/case/20-RC-379224) | 01/16/2026 | Open | 36 | Vacaville, CA | Region 20, San Francisco, California |
 | UNITE HERE Local 11 (Marriott International Hotel) | [21-CB-379239](/case/21-CB-379239) | 01/16/2026 | Open | 1100 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Sofidel America | [19-RC-379241](/case/19-RC-379241) | 01/16/2026 | Open | 7 | Lewiston, ID | Region 19, Seattle, Washington |
 | Akima | [19-RC-379232](/case/19-RC-379232) | 01/16/2026 | Open | 10 | Fort Lewis, WA | Region 19, Seattle, Washington |
+| National Association of Letter Carriers Local 197 (United States Postal Service) | [15-CB-379231](/case/15-CB-379231) | 01/16/2026 | Open | 40 | Shreveport, LA | Region 15, New Orleans, Louisiana |
+| Solado Isolation Mining Contractors (SIMCO) | [28-CA-379246](/case/28-CA-379246) | 01/16/2026 | Open | 380 | Carlsbad, NM | Region 28, Phoenix, Arizona |
+| Transdev | [28-CA-379247](/case/28-CA-379247) | 01/16/2026 | Open | 2500 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Open Doors | [14-CA-379019](/case/14-CA-379019) | 01/15/2026 | Open | 20 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | Sysco Lincoln, Inc. | [14-CA-379091](/case/14-CA-379091) | 01/15/2026 | Open | 400 | Lincoln, NE | Region 14, Saint Louis, Missouri |
 | United States Postal Service | [25-CA-379162](/case/25-CA-379162) | 01/15/2026 | Open | 900 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
@@ -70,7 +72,6 @@
 | United States Postal Service | [10-CA-379217](/case/10-CA-379217) | 01/15/2026 | Open | 60 | Kannapolis, NC | Region 10, Atlanta, Georgia |
 | NRLCA (National Rural Letter Carrier Association) (United States Postal Service) | [10-CB-379215](/case/10-CB-379215) | 01/15/2026 | Open | 1 | Kinston, NC | Region 10, Atlanta, Georgia |
 | Transdev | [01-CA-379214](/case/01-CA-379214) | 01/15/2026 | Open | 100 | East Hartford, CT | Region 01, Boston, Massachusetts |
-| International Brotherhood of Electrical Workers, Local 474 (International Organization, International Brotherhood of Electrical Workers) | [15-CB-379132](/case/15-CB-379132) | 01/15/2026 | Open | 200 | Memphis, TN | Region 15, New Orleans, Louisiana |
 | SEIU Local 32bj (SMG/ Service Management Group) | [01-CB-379222](/case/01-CB-379222) | 01/15/2026 | Open | 25 | New Haven, CT | Region 01, Boston, Massachusetts |
 | INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL UNION 653 (Ocean Spray Cranberries) | [01-CB-379194](/case/01-CB-379194) | 01/15/2026 | Open | 25 | Middleborough, MA | Region 01, Boston, Massachusetts |
 | Amalgamated Transit Union, Local 1763 (Transdev) | [01-CB-379223](/case/01-CB-379223) | 01/15/2026 | Open | 100 | East Hartford, CT | Region 01, Boston, Massachusetts |
@@ -80,6 +81,8 @@
 | AFT Washington | [19-RC-379182](/case/19-RC-379182) | 01/15/2026 | Open | 1 | Renton, WA | Region 19, Seattle, Washington |
 | The Boeing Company | [19-CA-379229](/case/19-CA-379229) | 01/15/2026 | Open | 30000 | Everett, WA | Region 19, Seattle, Washington |
 | West Anaheim Medical Center | [21-CA-379184](/case/21-CA-379184) | 01/15/2026 | Open | 700 | Anaheim, CA | Region 21, Los Angeles, California |
+| International Brotherhood of Electrical Workers, Local 474 (International Organization, International Brotherhood of Electrical Workers) | [15-CB-379132](/case/15-CB-379132) | 01/15/2026 | Open | 200 | Memphis, TN | Region 15, New Orleans, Louisiana |
+| Keolis Transit | [28-CA-379245](/case/28-CA-379245) | 01/15/2026 | Open | 700 | Tempe, AZ | Region 28, Phoenix, Arizona |
 | American Federation of Teachers - Pennsylvania | [04-CA-378892](/case/04-CA-378892) | 01/14/2026 | Open | 4 | Plymouth Meeting, PA | Region 04, Philadelphia, Pennsylvania |
 | Cayuga Nursing & Rehabilitation Center | [03-CA-378939](/case/03-CA-378939) | 01/14/2026 | Open | 85 | Ithaca, NY | Region 03, Buffalo, New York |
 | Bucks County Courier Times | [04-RC-378935](/case/04-RC-378935) | 01/14/2026 | Open | 10 | Langhorne, PA | Region 04, Philadelphia, Pennsylvania |
@@ -97,6 +100,3 @@
 | United States Postal Service | [05-CA-379161](/case/05-CA-379161) | 01/14/2026 | Open | 150 | Fredericksburg, VA | Region 05, Baltimore, Maryland |
 | Eleanor Green Robert’s | [10-CA-379035](/case/10-CA-379035) | 01/14/2026 | Open | 15 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | New England Healthcare Employees Union District 1199 (Journey Found) | [01-CB-379164](/case/01-CB-379164) | 01/14/2026 | Open | 20 | Norwich, CT | Region 01, Boston, Massachusetts |
-| Harvard University | [01-CA-379172](/case/01-CA-379172) | 01/14/2026 | Open | 507 | Boston, MA | Region 01, Boston, Massachusetts |
-| Gray Local Media, Inc. d/b/a KCTV and KSMO-TV | [14-CA-378933](/case/14-CA-378933) | 01/14/2026 | Open | 10 | Fairway, KS | Region 14, Saint Louis, Missouri |
-| Berklee College of Music | [01-CA-378931](/case/01-CA-378931) | 01/14/2026 | Open | 1500 | Boston, MA | Region 01, Boston, Massachusetts |
