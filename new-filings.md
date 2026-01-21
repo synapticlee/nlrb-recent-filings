@@ -22,12 +22,12 @@
 | National Association of Letter Carriers Local 197 (United States Postal Service) | [15-CB-379231](/case/15-CB-379231) | 01/16/2026 | Open | 40 | Shreveport, LA | Region 15, New Orleans, Louisiana |
 | Solado Isolation Mining Contractors (SIMCO) | [28-CA-379246](/case/28-CA-379246) | 01/16/2026 | Open | 380 | Carlsbad, NM | Region 28, Phoenix, Arizona |
 | Transdev | [28-CA-379247](/case/28-CA-379247) | 01/16/2026 | Open | 2500 | Las Vegas, NV | Region 28, Phoenix, Arizona |
+| Degen Excavating Company | [08-CA-379249](/case/08-CA-379249) | 01/16/2026 | Open | 3 | Lima, OH | Region 08, Cleveland, Ohio |
 | PolyPipe | [10-CA-379020](/case/10-CA-379020) | 01/15/2026 | Open | 32 | Erwin, TN | Region 10, Atlanta, Georgia |
 | Open Doors | [14-CA-379019](/case/14-CA-379019) | 01/15/2026 | Open | 20 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | UAW Local 1178 (Stellantis) | [13-CB-379040](/case/13-CB-379040) | 01/15/2026 | Open | 300 | Naperville (Township), IL | Region 13, Chicago, Illinois |
 | Aramark | [14-CA-379057](/case/14-CA-379057) | 01/15/2026 | Open | 100 | Berkeley, MO | Region 14, Saint Louis, Missouri |
 | Stepping Stones Before and Aftercare | [13-CA-379064](/case/13-CA-379064) | 01/15/2026 | Open | 20 | Chicago, IL | Region 13, Chicago, Illinois |
-| Transdev | [01-CA-379214](/case/01-CA-379214) | 01/15/2026 | Open | 100 | East Hartford, CT | Region 01, Boston, Massachusetts |
 | SEIU Local 32bj (SMG/ Service Management Group) | [01-CB-379222](/case/01-CB-379222) | 01/15/2026 | Open | 25 | New Haven, CT | Region 01, Boston, Massachusetts |
 | INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL UNION 653 (Ocean Spray Cranberries) | [01-CB-379194](/case/01-CB-379194) | 01/15/2026 | Open | 25 | Middleborough, MA | Region 01, Boston, Massachusetts |
 | United States Postal Service | [10-CA-379083](/case/10-CA-379083) | 01/15/2026 | Open | 200 | Birmingham, AL | Region 10, Atlanta, Georgia |
@@ -67,13 +67,10 @@
 | Titan Security Group | [13-CA-379170](/case/13-CA-379170) | 01/15/2026 | Open | 15 | Chicago, IL | Region 13, Chicago, Illinois |
 | John Deere Harvester Works | [25-CA-379197](/case/25-CA-379197) | 01/15/2026 | Open | 5000 | East Moline, IL | Region 25, Indianapolis, Indiana |
 | Americold Logistics | [01-CA-379122](/case/01-CA-379122) | 01/15/2026 | Open | 50 | Plainville, CT | Region 01, Boston, Massachusetts |
-| Mid-America Carpenters Regional Council (SunPeak Construction, Inc.) | [13-CD-379173](/case/13-CD-379173) | 01/15/2026 | Open | 10 | Chicago, IL | Region 13, Chicago, Illinois |
 | Teamsters Local 727 (PepsiCo Beverages of North America) | [13-CB-379168](/case/13-CB-379168) | 01/15/2026 | Open | 500 | Chicago, IL | Region 13, Chicago, Illinois |
 | International Brotherhood of Teamsters, Local 542(Transdev Services, Inc.) | [21-CB-379199](/case/21-CB-379199) | 01/15/2026 | Open | 50 | El Centro, CA | Region 21, Los Angeles, California |
 | Sheraton Boston | [01-RC-379163](/case/01-RC-379163) | 01/15/2026 | Open | 2 | Boston, MA | Region 01, Boston, Massachusetts |
 | Transit Management of Charlotte | [10-CA-379152](/case/10-CA-379152) | 01/15/2026 | Open | 600 | Charlotte, NC | Region 10, Atlanta, Georgia |
-| United States Postal Service | [10-CA-379213](/case/10-CA-379213) | 01/15/2026 | Open | 100 | Greensboro, NC | Region 10, Atlanta, Georgia |
-| United States Postal Service | [10-CA-379217](/case/10-CA-379217) | 01/15/2026 | Open | 60 | Kannapolis, NC | Region 10, Atlanta, Georgia |
 | NRLCA (National Rural Letter Carrier Association) (United States Postal Service) | [10-CB-379215](/case/10-CB-379215) | 01/15/2026 | Open | 1 | Kinston, NC | Region 10, Atlanta, Georgia |
 | AT&T | [32-CA-379198](/case/32-CA-379198) | 01/15/2026 | Open | 2 | Pleasanton, CA | Region 32, Oakland, California |
 | AT&T | [32-CA-379201](/case/32-CA-379201) | 01/15/2026 | Open | 50 | San Jose, CA | Region 32, Oakland, California |
@@ -83,6 +80,10 @@
 | International Brotherhood of Electrical Workers, Local 474 (International Organization, International Brotherhood of Electrical Workers) | [15-CB-379132](/case/15-CB-379132) | 01/15/2026 | Open | 200 | Memphis, TN | Region 15, New Orleans, Louisiana |
 | Keolis Transit | [28-CA-379245](/case/28-CA-379245) | 01/15/2026 | Open | 700 | Tempe, AZ | Region 28, Phoenix, Arizona |
 | Ethos Risk Services | [15-CA-379200](/case/15-CA-379200) | 01/15/2026 | Open | 1 | Denham Springs, LA | Region 15, New Orleans, Louisiana |
+| Mid-America Carpenters Regional Council (SunPeak Construction, Inc.) | [13-CD-379173](/case/13-CD-379173) | 01/15/2026 | Open | 10 | Chicago, IL | Region 13, Chicago, Illinois |
+| Transdev | [01-CA-379214](/case/01-CA-379214) | 01/15/2026 | Open | 100 | East Hartford, CT | Region 01, Boston, Massachusetts |
+| United States Postal Service | [10-CA-379213](/case/10-CA-379213) | 01/15/2026 | Open | 100 | Greensboro, NC | Region 10, Atlanta, Georgia |
+| United States Postal Service | [10-CA-379217](/case/10-CA-379217) | 01/15/2026 | Open | 60 | Kannapolis, NC | Region 10, Atlanta, Georgia |
 | Volvo Group north American | [15-CA-378941](/case/15-CA-378941) | 01/14/2026 | Open | 525 | Byhalia, MS | Region 15, New Orleans, Louisiana |
 | Union Rights for Security Officers (Centerra a Constellis Company) | [05-CB-379028](/case/05-CB-379028) | 01/14/2026 | Open | 25 | Washington, DC | Region 05, Baltimore, Maryland |
 | United Steel Workers, Local 1356 (Domtar Paper Company) | [10-CB-379024](/case/10-CB-379024) | 01/14/2026 | Open | 600 | Plymouth, NC | Region 10, Atlanta, Georgia |
@@ -98,5 +99,4 @@
 | California Nurses Association (The Permanente Medical Group, Inc.) | [32-CB-379048](/case/32-CB-379048) | 01/14/2026 | Open | 50 | Modesto, CA | Region 32, Oakland, California |
 | United Parcel Service | [05-CA-379044](/case/05-CA-379044) | 01/14/2026 | Open | 900 | Laurel, MD | Region 05, Baltimore, Maryland |
 | Baylor Scott & White at Texas Spine and Joint Hospital | [16-CA-379050](/case/16-CA-379050) | 01/14/2026 | Open | 250 | Tyler, TX | Region 16, Fort Worth, Texas |
-| Windber Woods Living Center and Rehabilitation | [06-CA-378975](/case/06-CA-378975) | 01/14/2026 | Open | 200 | Windber, PA | Region 06, Pittsburgh, Pennsylvania |
 | UAW International Union (John Deere) | [25-CB-378980](/case/25-CB-378980) | 01/14/2026 | Open | 1100 | Moline, IL | Region 25, Indianapolis, Indiana |
