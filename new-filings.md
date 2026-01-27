@@ -87,12 +87,10 @@
 | United Parcel Service | [21-CA-379485](/case/21-CA-379485) | 01/21/2026 | Open | 10 | March Air Reserve Base, CA | Region 21, Los Angeles, California |
 | Brattleboro Memorial Hospital | [03-CA-379487](/case/03-CA-379487) | 01/21/2026 | Open | 25 | Brattleboro, VT | Region 03, Buffalo, New York |
 | Molinos de Puerto Rico, LLC | [12-CA-379489](/case/12-CA-379489) | 01/21/2026 | Open | 80 | Guaynabo, PR | Region 12, Tampa, Florida |
-| Alaska Airlines, Inc | [28-CA-379488](/case/28-CA-379488) | 01/21/2026 | Open | 110 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Pan American Grain Company, Inc. | [12-CA-379492](/case/12-CA-379492) | 01/21/2026 | Open | 30 | Guaynabo, PR | Region 12, Tampa, Florida |
 | SDH Services West, LLC, a subsidiary of Sodexo, Inc. | [03-CA-379500](/case/03-CA-379500) | 01/21/2026 | Open | 20 | Buffalo, NY | Region 03, Buffalo, New York |
 | International Union of Painters and Allied Trades District Council No. 21 (Atlantic Exposition Services, LLC) | [04-CB-379503](/case/04-CB-379503) | 01/21/2026 | Open | 15 | Egg Harbor Township, NJ | Region 04, Philadelphia, Pennsylvania |
 | Atlantic Exposition Services, LLC | [04-CA-379499](/case/04-CA-379499) | 01/21/2026 | Open | 15 | Egg Harbor Township, NJ | Region 04, Philadelphia, Pennsylvania |
-| Teamsters Local 63 (UPS) | [21-CB-379483](/case/21-CB-379483) | 01/21/2026 | Open | 50 | March Air Reserve Base, CA | Region 21, Los Angeles, California |
 | Central General de Trabajadores (Consolidated Waste Services, LLC) | [12-CB-379504](/case/12-CB-379504) | 01/21/2026 | Open | 100 | San Juan, PR | Region 12, Tampa, Florida |
 | United States Postal Service | [10-CA-379399](/case/10-CA-379399) | 01/21/2026 | Open | 30 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | The Administrators of the Tulane Educational Fund | [15-UC-379423](/case/15-UC-379423) | 01/21/2026 | Open | 309 | New Orleans, LA | Region 15, New Orleans, Louisiana |
@@ -100,3 +98,5 @@
 | RBL Security of Georgia LLC d/b/a Signal 88 Security of Central Atlanta | [10-CA-379511](/case/10-CA-379511) | 01/21/2026 | Open | 15 | Dunwoody, GA | Region 10, Atlanta, Georgia |
 | United States Postal Service | [21-CA-379477](/case/21-CA-379477) | 01/21/2026 | Open | 50 | Los Angeles, CA | Region 21, Los Angeles, California |
 | UNS Gas, Inc. | [28-CA-379518](/case/28-CA-379518) | 01/21/2026 | Open | 200 | Tucson, AZ | Region 28, Phoenix, Arizona |
+| Duke University Health System | [10-CA-379558](/case/10-CA-379558) | 01/21/2026 | Open | 5000 | Durham, NC | Region 10, Atlanta, Georgia |
+| Amentum | [28-CA-379549](/case/28-CA-379549) | 01/21/2026 | Open | 180 | Las Vegas, NV | Region 28, Phoenix, Arizona |
