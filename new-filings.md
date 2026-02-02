@@ -43,8 +43,8 @@
 | Mauser Packaging Solutions | [13-CA-380226](/case/13-CA-380226) | 01/30/2026 | Open | 140 | Chicago, IL | Region 13, Chicago, Illinois |
 | The Home Depot | [28-CA-380250](/case/28-CA-380250) | 01/30/2026 | Open | 150 | Tempe, AZ | Region 28, Phoenix, Arizona |
 | Mauser Packaging Solutions | [13-CA-380227](/case/13-CA-380227) | 01/30/2026 | Open | 140 | Chicago, IL | Region 13, Chicago, Illinois |
-| Trane Technologies | [15-CA-380254](/case/15-CA-380254) | 01/30/2026 | Open | 250 | Fort Smith, AR | Region 15, New Orleans, Louisiana |
 | National Postal Mail Handlers Union Local 299 (United States Postal Service) | [20-CB-380263](/case/20-CB-380263) | 01/30/2026 | Open | 10 | Honolulu, HI | Region 20, San Francisco, California |
+| Trane Technologies | [15-CA-380254](/case/15-CA-380254) | 01/30/2026 | Open | 250 | Fort Smith, AR | Region 15, New Orleans, Louisiana |
 | Jiffy Lube/SLB Management | [14-CA-380024](/case/14-CA-380024) | 01/29/2026 | Open | 6 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
 | Premier Midwest Beer & Beverage LLC | [14-CA-380066](/case/14-CA-380066) | 01/29/2026 | Open | 49 | Omaha, NE | Region 14, Saint Louis, Missouri |
 | United Government Security Officers of America and its Local No. 12 (Constellation Nuclear Security LLC) | [04-CB-380135](/case/04-CB-380135) | 01/29/2026 | Open | 104 | Pottstown, PA | Region 04, Philadelphia, Pennsylvania |
