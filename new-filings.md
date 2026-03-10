@@ -13,7 +13,6 @@
 | Macy's | [19-CA-382416](/case/19-CA-382416) | 03/06/2026 | Open | 4 | Tukwila, WA | Region 19, Seattle, Washington |
 | Jones Lang LaSalle | [32-RC-382415](/case/32-RC-382415) | 03/06/2026 | Open | 6 | San Jose, CA | Region 32, Oakland, California |
 | Service Employees International Union – United Healthcare Workers West | [21-CA-382414](/case/21-CA-382414) | 03/06/2026 | Open | 221 | Los Angeles, CA | Region 21, Los Angeles, California |
-| Keolis Transit | [28-CA-382417](/case/28-CA-382417) | 03/06/2026 | Open | 770 | Tempe, AZ | Region 28, Phoenix, Arizona |
 | Fouts & Morgan CPAs, P.C. | [15-CA-382401](/case/15-CA-382401) | 03/06/2026 | Open | 27 | Memphis, TN | Region 15, New Orleans, Louisiana |
 | Woodward, Inc. | [13-CA-382408](/case/13-CA-382408) | 03/06/2026 | Open | 825 | Niles, IL | Region 13, Chicago, Illinois |
 | Woodward, Inc. | [13-CA-382407](/case/13-CA-382407) | 03/06/2026 | Open | 825 | Niles, IL | Region 13, Chicago, Illinois |
@@ -21,6 +20,12 @@
 | Addus | [14-CA-382393](/case/14-CA-382393) | 03/06/2026 | Open | 80 | Charleston, IL | Region 14, Saint Louis, Missouri |
 | Woodward, Inc. | [13-CA-382403](/case/13-CA-382403) | 03/06/2026 | Open | 825 | Niles, IL | Region 13, Chicago, Illinois |
 | Woodward, Inc. | [13-CA-382405](/case/13-CA-382405) | 03/06/2026 | Open | 825 | Niles, IL | Region 13, Chicago, Illinois |
+| Republic Services | [08-CA-382418](/case/08-CA-382418) | 03/06/2026 | Open | 80 | Massillon, OH | Region 08, Cleveland, Ohio |
+| Republic Services | [08-CA-382419](/case/08-CA-382419) | 03/06/2026 | Open | 80 | Massillon, OH | Region 08, Cleveland, Ohio |
+| Menlo Park Academy | [08-CA-382420](/case/08-CA-382420) | 03/06/2026 | Open | 26 | Cleveland, OH | Region 08, Cleveland, Ohio |
+| United States Postal Service | [08-CA-382421](/case/08-CA-382421) | 03/06/2026 | Open | 30 | Findlay, OH | Region 08, Cleveland, Ohio |
+| Keolis Transit | [28-CA-382417](/case/28-CA-382417) | 03/06/2026 | Open | 770 | Tempe, AZ | Region 28, Phoenix, Arizona |
+| Transcat | [08-RC-382422](/case/08-RC-382422) | 03/06/2026 | Open | 14 | Mentor, OH | Region 08, Cleveland, Ohio |
 | United Food and Commercial Workers Local 1996 (Kroger) | [10-CB-382267](/case/10-CB-382267) | 03/05/2026 | Open | 300 | Suwanee, GA | Region 10, Atlanta, Georgia |
 | SEIU 775 (Catholic Community Services) | [19-CB-382280](/case/19-CB-382280) | 03/05/2026 | Open | 10 | Shelton, WA | Region 19, Seattle, Washington |
 | National Postal Mailhandlers Union Local 310 (United States Postal Service) | [10-CB-382296](/case/10-CB-382296) | 03/05/2026 | Open | 500 | Fairburn, GA | Region 10, Atlanta, Georgia |
@@ -95,8 +100,3 @@
 | Deco Logistics Inc. d/b/a Container Connection; Universal Intermodal Services; Southern Counties Express; Universal Logistics Holdings Inc.; and Universal Management Services, as a single employer | [21-CA-382295](/case/21-CA-382295) | 03/04/2026 | Open | 100 | Riverside, CA | Region 21, Los Angeles, California |
 | Aspire Learning Center | [01-CA-382229](/case/01-CA-382229) | 03/04/2026 | Open | 47 | Beverly, MA | Region 01, Boston, Massachusetts |
 | UNFI Wholesale, Inc. | [25-RC-382281](/case/25-RC-382281) | 03/04/2026 | Open | 23 | Champaign, IL | Region 25, Indianapolis, Indiana |
-| United States Postal Service | [15-CA-382279](/case/15-CA-382279) | 03/04/2026 | Open | 75 | Collierville, TN | Region 15, New Orleans, Louisiana |
-| United States Postal Service | [25-CA-382293](/case/25-CA-382293) | 03/04/2026 | Open | 50 | Fishers, IN | Region 25, Indianapolis, Indiana |
-| United States Postal Service | [25-CA-382307](/case/25-CA-382307) | 03/04/2026 | Open | 50 | Franklin, IN | Region 25, Indianapolis, Indiana |
-| Utah Medical Association | [27-CA-382315](/case/27-CA-382315) | 03/04/2026 | Open | 7 | Midvale, UT | Region 27, Denver, Colorado |
-| Teamsters Local 396 (Republic Services) | [21-CB-382287](/case/21-CB-382287) | 03/04/2026 | Open | 50 | Santa Ana, CA | Region 21, Los Angeles, California |
