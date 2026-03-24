@@ -16,6 +16,7 @@
 | Hospital San Carlos, Inc. d/b/a Hospital San Carlos Borromeo | [12-UD-383304](/case/12-UD-383304) | 03/20/2026 | Open | 19 | Moca, PR | Region 12, Tampa, Florida |
 | Presbyterian Healthcare Services | [28-CA-383303](/case/28-CA-383303) | 03/20/2026 | Open | 13000 | Albuquerque, NM | Region 28, Phoenix, Arizona |
 | National Postal Mail Handlers Union, Local 306 (United States Postal Service) | [13-CB-383263](/case/13-CB-383263) | 03/20/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
+| Vital Pilates and Wellness | [08-CA-383317](/case/08-CA-383317) | 03/20/2026 | Open | 15 | Lakewood, OH | Region 08, Cleveland, Ohio |
 | Goodyear Tire & Rubber Company | [01-CA-383158](/case/01-CA-383158) | 03/19/2026 | Open | 25 | Stoneham, MA | Region 01, Boston, Massachusetts |
 | First Call Ambulance | [10-CA-383185](/case/10-CA-383185) | 03/19/2026 | Open | 20 | Nashville, TN | Region 10, Atlanta, Georgia |
 | Graphic Packaging International, LLC | [22-RM-383179](/case/22-RM-383179) | 03/19/2026 | Open | 5 | Wayne, NJ | Region 22, Newark, New Jersey |
@@ -24,8 +25,6 @@
 | Peak Event Services | [01-RC-383233](/case/01-RC-383233) | 03/19/2026 | Open | 33 | Warwick, RI | Region 01, Boston, Massachusetts |
 | Transit Management of Charlotte, Inc. / Charlotte Transit System | [10-CA-383273](/case/10-CA-383273) | 03/19/2026 | Open | 1000 | Charlotte, NC | Region 10, Atlanta, Georgia |
 | American Postal Workers Union Reno Local 936 (United States Postal Service) | [32-CB-383271](/case/32-CB-383271) | 03/19/2026 | Open | 100 | Sparks, NV | Region 32, Oakland, California |
-| United States Postal Service | [10-CA-383216](/case/10-CA-383216) | 03/19/2026 | Open | 40 | Greensboro, NC | Region 10, Atlanta, Georgia |
-| KBI Biopharma | [10-CA-383277](/case/10-CA-383277) | 03/19/2026 | Open | 300 | Durham, NC | Region 10, Atlanta, Georgia |
 | Simons Rock at Bard College | [01-CA-383261](/case/01-CA-383261) | 03/19/2026 | Open | 2 | Great Barrington, MA | Region 01, Boston, Massachusetts |
 | Transit Management of Charlotte, Inc./ Charlotte Transit System | [10-CA-383289](/case/10-CA-383289) | 03/19/2026 | Open | 1000 | Charlotte, NC | Region 10, Atlanta, Georgia |
 | American University | [05-CA-383284](/case/05-CA-383284) | 03/19/2026 | Open | 25 | Washington, DC | Region 05, Baltimore, Maryland |
@@ -73,6 +72,11 @@
 | SEIU 121 RN (Providence Saint Joseph Medical Center) | [31-CB-383311](/case/31-CB-383311) | 03/19/2026 | Open | 2 | Burbank, CA | Region 31, Los Angeles, California |
 | SEIU-UHW (MSW) (Kaiser Permanente) | [20-CB-383312](/case/20-CB-383312) | 03/19/2026 | Open | 1 | Vacaville, CA | Region 20, San Francisco, California |
 | Flagship Aviation Services | [31-CA-383301](/case/31-CA-383301) | 03/19/2026 | Open | 50 | Ontario, CA | Region 31, Los Angeles, California |
+| Value Point | [08-CA-383316](/case/08-CA-383316) | 03/19/2026 | Open | 30 | Toledo, OH | Region 08, Cleveland, Ohio |
+| Ford Motor Company | [08-CA-383318](/case/08-CA-383318) | 03/19/2026 | Open | 1200 | Lima, OH | Region 08, Cleveland, Ohio |
+| UAW Local 1219 (Ford Motor Company) | [08-CB-383319](/case/08-CB-383319) | 03/19/2026 | Open | 1200 | Lima, OH | Region 08, Cleveland, Ohio |
+| United States Postal Service | [10-CA-383216](/case/10-CA-383216) | 03/19/2026 | Open | 40 | Greensboro, NC | Region 10, Atlanta, Georgia |
+| KBI Biopharma | [10-CA-383277](/case/10-CA-383277) | 03/19/2026 | Open | 300 | Durham, NC | Region 10, Atlanta, Georgia |
 | Transit Management of Charlotte, Inc. / Charlotte Transit System | [10-CA-383285](/case/10-CA-383285) | 03/19/2026 | Open | 1000 | Charlotte, NC | Region 10, Atlanta, Georgia |
 | International Alliance of Theatrical and Stage Employees, Local 7 (Various Production Companies) | [27-CB-383132](/case/27-CB-383132) | 03/18/2026 | Open | 10 | Denver, CO | Region 27, Denver, Colorado |
 | Sonoran Prevention Works | [28-CA-383130](/case/28-CA-383130) | 03/18/2026 | Open | 30 | Tucson, AZ | Region 28, Phoenix, Arizona |
@@ -96,7 +100,3 @@
 | Defense Contracting Activity (DCA) | [10-CA-383157](/case/10-CA-383157) | 03/18/2026 | Open | 55 | Durham, NC | Region 10, Atlanta, Georgia |
 | Starbucks Corporation Store No. 760 | [06-CA-383143](/case/06-CA-383143) | 03/18/2026 | Open | 20 | Bethel Park, PA | Region 06, Pittsburgh, Pennsylvania |
 | United States Postal Service | [25-CA-383115](/case/25-CA-383115) | 03/18/2026 | Open | 100 | Springfield, IL | Region 25, Indianapolis, Indiana |
-| American Postal Workers Union (United States Postal Service) | [03-CB-383152](/case/03-CB-383152) | 03/18/2026 | Open | 20 | Victor, NY | Region 03, Buffalo, New York |
-| United States Postal Service | [21-CA-383134](/case/21-CA-383134) | 03/18/2026 | Open | 14 | Spring Valley, CA | Region 21, Los Angeles, California |
-| Adirondack Beverages | [03-CB-383161](/case/03-CB-383161) | 03/18/2026 | Open | 55 | Glenville, NY | Region 03, Buffalo, New York |
-| United Roofers and Waterproofers (Southwest Specialties) | [21-CB-383160](/case/21-CB-383160) | 03/18/2026 | Open | 50 | Corona, CA | Region 21, Los Angeles, California |
