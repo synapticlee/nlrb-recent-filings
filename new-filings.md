@@ -1,7 +1,6 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
 | Inter-Con Security Systems | [13-CA-384568](/case/13-CA-384568) | 04/10/2026 | Open | 70 | Chicago, IL | Region 13, Chicago, Illinois |
-| Denver Theatrical Stage, Film and Exhibition Employees' Union, Local 7, IATSE (Various) | [27-CB-384573](/case/27-CB-384573) | 04/10/2026 | Open | 10 | Denver, CO | Region 27, Denver, Colorado |
 | UM Capital Region Medical Center | [05-RC-384581](/case/05-RC-384581) | 04/10/2026 | Open | 200 | Largo, MD | Region 05, Baltimore, Maryland |
 | PCSI | [14-RC-384584](/case/14-RC-384584) | 04/10/2026 | Open | 4 | Fort Sill, OK | Region 14, Saint Louis, Missouri |
 | Intermountain Electric | [14-CA-384588](/case/14-CA-384588) | 04/10/2026 | Open | 76 | Omaha, NE | Region 14, Saint Louis, Missouri |
@@ -17,6 +16,7 @@
 | NatureBridge | [32-RM-384618](/case/32-RM-384618) | 04/10/2026 | Open | 43 | Yosemite National Park, CA | Region 32, Oakland, California |
 | Teamsters Local 705 (Mauser Packaging Solutions) | [13-CB-384592](/case/13-CB-384592) | 04/10/2026 | Open | 140 | Chicago, IL | Region 13, Chicago, Illinois |
 | Lockheed Martin | [20-CA-384619](/case/20-CA-384619) | 04/10/2026 | Open | 80 | Ewa Beach, HI | Region 20, San Francisco, California |
+| Denver Theatrical Stage, Film and Exhibition Employees' Union, Local 7, IATSE (Various) | [27-CB-384573](/case/27-CB-384573) | 04/10/2026 | Open | 10 | Denver, CO | Region 27, Denver, Colorado |
 | Inter-Con Security Systems Inc. | [05-CA-384530](/case/05-CA-384530) | 04/09/2026 | Open | 200 | Richmond, VA | Region 05, Baltimore, Maryland |
 | Napleton Palatine Subaru | [13-RC-384519](/case/13-RC-384519) | 04/09/2026 | Open | 15 | Palatine, IL | Region 13, Chicago, Illinois |
 | CPC Retail Products LLC | [14-CA-384527](/case/14-CA-384527) | 04/09/2026 | Open | 49 | Jackson, MO | Region 14, Saint Louis, Missouri |
@@ -50,11 +50,9 @@
 | AC Hotel Pasadena | [21-RC-384537](/case/21-RC-384537) | 04/09/2026 | Open | 23 | Pasadena, CA | Region 21, Los Angeles, California |
 | JPMorgan Chase & Co. | [25-CA-384558](/case/25-CA-384558) | 04/09/2026 | Open | 500 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | REM Services, Inc. and Transdev Services, Inc. as joint employers | [16-CA-384593](/case/16-CA-384593) | 04/09/2026 | Open | 70 | Houston, TX | Region 16, Fort Worth, Texas |
-| General Trucking, LLC | [08-CA-384599](/case/08-CA-384599) | 04/09/2026 | Open | 22 | Toledo, OH | Region 08, Cleveland, Ohio |
 | United Auto Workers Local 787 (Lycoming Engines, Division of Textron) | [06-CB-384564](/case/06-CB-384564) | 04/09/2026 | Open | 500 | Williamsport, PA | Region 06, Pittsburgh, Pennsylvania |
 | SiteMinder | [16-CA-384587](/case/16-CA-384587) | 04/09/2026 | Open | 40 | Dallas, TX | Region 16, Fort Worth, Texas |
 | Starbucks Corporation | [25-RC-384572](/case/25-RC-384572) | 04/09/2026 | Open | 25 | East Peoria, IL | Region 25, Indianapolis, Indiana |
-| Eberhard Manufacturing | [08-CA-384596](/case/08-CA-384596) | 04/09/2026 | Open | 120 | Strongsville, OH | Region 08, Cleveland, Ohio |
 | K-Town Disposal | [01-CA-384534](/case/01-CA-384534) | 04/09/2026 | Open | 20 | Salem, NH | Region 01, Boston, Massachusetts |
 | INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL 633 (K-Town Disposal) | [01-CB-384566](/case/01-CB-384566) | 04/09/2026 | Open | 20 | Salem, NH | Region 01, Boston, Massachusetts |
 | Village of Streamwood | [13-WH-384602](/case/13-WH-384602) | 04/09/2026 | Open | 9 | Streamwood, IL | Region 13, Chicago, Illinois |
@@ -67,6 +65,8 @@
 | Packard Medical Group | [32-RC-384603](/case/32-RC-384603) | 04/09/2026 | Open | 114 | Palo Alto, CA | Region 32, Oakland, California |
 | International Brotherhood of Teamsters, Local 542 (Transdev North America, Inc.) | [21-CB-384559](/case/21-CB-384559) | 04/09/2026 | Open | 210 | San Diego, CA | Region 21, Los Angeles, California |
 | Hawaii Nautical | [20-CA-384590](/case/20-CA-384590) | 04/09/2026 | Open | 20 | Waianae, HI | Region 20, San Francisco, California |
+| Eberhard Manufacturing | [08-CA-384596](/case/08-CA-384596) | 04/09/2026 | Open | 120 | Strongsville, OH | Region 08, Cleveland, Ohio |
+| General Trucking, LLC | [08-CA-384599](/case/08-CA-384599) | 04/09/2026 | Open | 22 | Toledo, OH | Region 08, Cleveland, Ohio |
 | Southern Veterinary Partners LLC d/b/a Mission Pet Health/Boston Veterinary Clinic | [01-CA-384523](/case/01-CA-384523) | 04/08/2026 | Open | 50 | Wellesley, MA | Region 01, Boston, Massachusetts |
 | Service Employees International Union, Local 87 (ABM Industry Groups, LLC) | [20-CB-384475](/case/20-CB-384475) | 04/08/2026 | Open | 90 | San Francisco, CA | Region 20, San Francisco, California |
 | Gardaworld Cash Services | [07-RC-384516](/case/07-RC-384516) | 04/08/2026 | Open | 30 | Livonia, MI | Region 07, Detroit, Michigan |
