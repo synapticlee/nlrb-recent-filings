@@ -9,7 +9,6 @@
 | KENTUCKY POWER COMPANY | [09-RC-384597](/case/09-RC-384597) | 04/10/2026 | Open | 12 | Ashland, KY | Region 09, Cincinnati, Ohio |
 | Huntsman Corporation | [16-RC-384598](/case/16-RC-384598) | 04/10/2026 | Open | 26 | Freeport, TX | Region 16, Fort Worth, Texas |
 | Teamsters Local 705 (Mauser Packaging Solutions) | [13-CB-384591](/case/13-CB-384591) | 04/10/2026 | Open | 140 | Chicago, IL | Region 13, Chicago, Illinois |
-| Street Smart Rentals, LLC | [13-RC-384613](/case/13-RC-384613) | 04/10/2026 | Open | 3 | Rockdale, IL | Region 13, Chicago, Illinois |
 | UFCW Local 324 (CVS) | [21-CB-384612](/case/21-CB-384612) | 04/10/2026 | Open | 100 | Carson, CA | Region 21, Los Angeles, California |
 | Sequoia Mental Health Services, Inc. | [19-RC-384608](/case/19-RC-384608) | 04/10/2026 | Open | 110 | Beaverton, OR | Region 19, Seattle, Washington |
 | Paniq d/b/a Puzzle Break | [19-RC-384615](/case/19-RC-384615) | 04/10/2026 | Open | 9 | Seattle, WA | Region 19, Seattle, Washington |
@@ -17,6 +16,7 @@
 | Teamsters Local 705 (Mauser Packaging Solutions) | [13-CB-384592](/case/13-CB-384592) | 04/10/2026 | Open | 140 | Chicago, IL | Region 13, Chicago, Illinois |
 | Lockheed Martin | [20-CA-384619](/case/20-CA-384619) | 04/10/2026 | Open | 80 | Ewa Beach, HI | Region 20, San Francisco, California |
 | Denver Theatrical Stage, Film and Exhibition Employees' Union, Local 7, IATSE (Various) | [27-CB-384573](/case/27-CB-384573) | 04/10/2026 | Open | 10 | Denver, CO | Region 27, Denver, Colorado |
+| Street Smart Rentals, LLC | [13-RC-384613](/case/13-RC-384613) | 04/10/2026 | Open | 3 | Rockdale, IL | Region 13, Chicago, Illinois |
 | Inter-Con Security Systems Inc. | [05-CA-384530](/case/05-CA-384530) | 04/09/2026 | Open | 200 | Richmond, VA | Region 05, Baltimore, Maryland |
 | Napleton Palatine Subaru | [13-RC-384519](/case/13-RC-384519) | 04/09/2026 | Open | 15 | Palatine, IL | Region 13, Chicago, Illinois |
 | CPC Retail Products LLC | [14-CA-384527](/case/14-CA-384527) | 04/09/2026 | Open | 49 | Jackson, MO | Region 14, Saint Louis, Missouri |
@@ -46,9 +46,7 @@
 | Reach Media, LLC | [05-CA-384553](/case/05-CA-384553) | 04/09/2026 | Open | 100 | Washington, DC | Region 05, Baltimore, Maryland |
 | Brewton Iron Works | [15-CA-384549](/case/15-CA-384549) | 04/09/2026 | Open | 50 | Brewton, AL | Region 15, New Orleans, Louisiana |
 | AT&T | [12-CA-384548](/case/12-CA-384548) | 04/09/2026 | Open | 9 | Kissimmee, FL | Region 12, Tampa, Florida |
-| Hope Gas, Inc. | [06-RC-384535](/case/06-RC-384535) | 04/09/2026 | Open | 5 | Morgantown, WV | Region 06, Pittsburgh, Pennsylvania |
 | AC Hotel Pasadena | [21-RC-384537](/case/21-RC-384537) | 04/09/2026 | Open | 23 | Pasadena, CA | Region 21, Los Angeles, California |
-| JPMorgan Chase & Co. | [25-CA-384558](/case/25-CA-384558) | 04/09/2026 | Open | 500 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | REM Services, Inc. and Transdev Services, Inc. as joint employers | [16-CA-384593](/case/16-CA-384593) | 04/09/2026 | Open | 70 | Houston, TX | Region 16, Fort Worth, Texas |
 | United Auto Workers Local 787 (Lycoming Engines, Division of Textron) | [06-CB-384564](/case/06-CB-384564) | 04/09/2026 | Open | 500 | Williamsport, PA | Region 06, Pittsburgh, Pennsylvania |
 | SiteMinder | [16-CA-384587](/case/16-CA-384587) | 04/09/2026 | Open | 40 | Dallas, TX | Region 16, Fort Worth, Texas |
@@ -67,6 +65,8 @@
 | Hawaii Nautical | [20-CA-384590](/case/20-CA-384590) | 04/09/2026 | Open | 20 | Waianae, HI | Region 20, San Francisco, California |
 | Eberhard Manufacturing | [08-CA-384596](/case/08-CA-384596) | 04/09/2026 | Open | 120 | Strongsville, OH | Region 08, Cleveland, Ohio |
 | General Trucking, LLC | [08-CA-384599](/case/08-CA-384599) | 04/09/2026 | Open | 22 | Toledo, OH | Region 08, Cleveland, Ohio |
+| JPMorgan Chase & Co. | [25-CA-384558](/case/25-CA-384558) | 04/09/2026 | Open | 500 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
+| Hope Gas, Inc. | [06-RC-384535](/case/06-RC-384535) | 04/09/2026 | Open | 5 | Morgantown, WV | Region 06, Pittsburgh, Pennsylvania |
 | Southern Veterinary Partners LLC d/b/a Mission Pet Health/Boston Veterinary Clinic | [01-CA-384523](/case/01-CA-384523) | 04/08/2026 | Open | 50 | Wellesley, MA | Region 01, Boston, Massachusetts |
 | Service Employees International Union, Local 87 (ABM Industry Groups, LLC) | [20-CB-384475](/case/20-CB-384475) | 04/08/2026 | Open | 90 | San Francisco, CA | Region 20, San Francisco, California |
 | Gardaworld Cash Services | [07-RC-384516](/case/07-RC-384516) | 04/08/2026 | Open | 30 | Livonia, MI | Region 07, Detroit, Michigan |
@@ -79,7 +79,6 @@
 | Cushman & Wakefield Facility Services, Inc. | [01-RM-384430](/case/01-RM-384430) | 04/08/2026 | Open | 16 | Boston, MA | Region 01, Boston, Massachusetts |
 | HF Sinclair Puget Sound Refinery | [19-CA-384517](/case/19-CA-384517) | 04/08/2026 | Open | 300 | Anacortes, WA | Region 19, Seattle, Washington |
 | ATI Flat Rolled Products Holdings, LLC | [06-CA-384515](/case/06-CA-384515) | 04/08/2026 | Open | 250 | Vandergrift, PA | Region 06, Pittsburgh, Pennsylvania |
-| Loeber Motors | [13-CA-384511](/case/13-CA-384511) | 04/08/2026 | Open | 50 | Lincolnwood, IL | Region 13, Chicago, Illinois |
 | United Food & Commercial Workers Union, Local 480 (Foodland Super Market, Ltd.) | [20-CB-384479](/case/20-CB-384479) | 04/08/2026 | Open | 250 | Honolulu, HI | Region 20, San Francisco, California |
 | United States Postal Service (USPS) | [01-CA-384453](/case/01-CA-384453) | 04/08/2026 | Open | 250 | Hampden, ME | Region 01, Boston, Massachusetts |
 | Sysco Foods | [16-CA-384538](/case/16-CA-384538) | 04/08/2026 | Open | 75000 | Houston, TX | Region 16, Fort Worth, Texas |
@@ -100,3 +99,4 @@
 | General Porpoise LLC d/b/a Jeffry's Huitrerie LLC d/b/a Walrus and the Carpenter and Barnacle Bar General Porpoise Doughnuts and Coffee LLC Serra LLC Sea Creatures LLC, a single employer | [19-CA-384468](/case/19-CA-384468) | 04/08/2026 | Open | 200 | Seattle, WA | Region 19, Seattle, Washington |
 | Safeway/Albertsons | [19-CA-384476](/case/19-CA-384476) | 04/08/2026 | Open | 52 | Clackamas, OR | Region 19, Seattle, Washington |
 | S&R Subway, Inc. d/b/a Subway | [31-CA-384460](/case/31-CA-384460) | 04/08/2026 | Open | 50 | Los Angeles, CA | Region 31, Los Angeles, California |
+| Alaska Power and Telephone Company | [19-UC-384477](/case/19-UC-384477) | 04/08/2026 | Open | 8 | Klawock, AK | Region 19, Seattle, Washington |
