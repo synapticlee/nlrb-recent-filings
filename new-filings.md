@@ -4,7 +4,6 @@
 | Kroger | [25-CA-384989](/case/25-CA-384989) | 04/17/2026 | Open | 250 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | Procision Heating, Cooling & Refrigeration, Inc. | [13-CA-384997](/case/13-CA-384997) | 04/17/2026 | Open | 7 | Alsip, IL | Region 13, Chicago, Illinois |
 | Huntsman Corporation | [16-RC-385010](/case/16-RC-385010) | 04/17/2026 | Open | 26 | Freeport, TX | Region 16, Fort Worth, Texas |
-| GoDaddy | [10-CA-384998](/case/10-CA-384998) | 04/17/2026 | Open | 1 | Columbus, GA | Region 10, Atlanta, Georgia |
 | Walt Disney Co | [21-CA-385013](/case/21-CA-385013) | 04/17/2026 | Open | 36000 | Anaheim, CA | Region 21, Los Angeles, California |
 | Amrize | [13-CA-385000](/case/13-CA-385000) | 04/17/2026 | Open | 34 | Chicago, IL | Region 13, Chicago, Illinois |
 | NALC Branch 518 (United States Postal Service) | [05-CB-385016](/case/05-CB-385016) | 04/17/2026 | Open | 25 | Charlottesville, VA | Region 05, Baltimore, Maryland |
@@ -28,6 +27,7 @@
 | Denver Processing, Inc. | [27-CA-385042](/case/27-CA-385042) | 04/17/2026 | Open | 200 | Denver, CO | Region 27, Denver, Colorado |
 | Omya, Inc | [31-RC-385034](/case/31-RC-385034) | 04/17/2026 | Open | 34 | Lucerne Valley, CA | Region 31, Los Angeles, California |
 | Allied Universal Security Services | [04-RC-384999](/case/04-RC-384999) | 04/17/2026 | Open | 30 | Wilmington, DE | Region 04, Philadelphia, Pennsylvania |
+| GoDaddy | [10-CA-384998](/case/10-CA-384998) | 04/17/2026 | Open | 1 | Columbus, GA | Region 10, Atlanta, Georgia |
 | The Children's Doctor | [05-CA-384893](/case/05-CA-384893) | 04/16/2026 | Open | 25 | Hagerstown, MD | Region 05, Baltimore, Maryland |
 | Howard University Hospital | [05-CA-384940](/case/05-CA-384940) | 04/16/2026 | Open | 2200 | Washington, DC | Region 05, Baltimore, Maryland |
 | Schnellecke Logistics USA LLC | [10-CA-384950](/case/10-CA-384950) | 04/16/2026 | Open | 350 | Chattanooga, TN | Region 10, Atlanta, Georgia |
@@ -76,7 +76,6 @@
 | Endeavor Health Services (Mid Erie Mental health services inc.) | [03-CA-384942](/case/03-CA-384942) | 04/16/2026 | Open | 3 | Buffalo, NY | Region 03, Buffalo, New York |
 | Lockheed Martin | [28-RC-384996](/case/28-RC-384996) | 04/16/2026 | Open | 65 | Luke Air Force Base, AZ | Region 28, Phoenix, Arizona |
 | NABET-CWA Local 41 (Fox Corporation aka FOX32/WFLD-WPWR) | [13-CB-384866](/case/13-CB-384866) | 04/15/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
-| Conco Companies/CRH | [14-RD-384889](/case/14-RD-384889) | 04/15/2026 | Open | 2 | Springfield, MO | Region 14, Saint Louis, Missouri |
 | Patriots Environmental Services, Inc. | [21-CA-384904](/case/21-CA-384904) | 04/15/2026 | Open | 100 | Signal Hill, CA | Region 21, Los Angeles, California |
 | Boulder Care, Inc. | [19-RC-384872](/case/19-RC-384872) | 04/15/2026 | Open | 70 | Portland, OR | Region 19, Seattle, Washington |
 | Certified Source Performance Group | [14-CA-384903](/case/14-CA-384903) | 04/15/2026 | Open | 5 | Tulsa, OK | Region 14, Saint Louis, Missouri |
@@ -84,7 +83,6 @@
 | Local 24, UNITE HERE! (Areas USA of DTW d/b/a Piata Mediterranean Kitchen and Tavern) | [07-CB-384907](/case/07-CB-384907) | 04/15/2026 | Open | 20 | Detroit, MI | Region 07, Detroit, Michigan |
 | CANPACK | [25-CA-384953](/case/25-CA-384953) | 04/15/2026 | Open | 300 | Muncie, IN | Region 25, Indianapolis, Indiana |
 | United States Postal Service | [10-CA-384824](/case/10-CA-384824) | 04/15/2026 | Open | 700 | Duluth, GA | Region 10, Atlanta, Georgia |
-| Monarch Healthcare Management d/b/a The Estates at St. Louis Park, Excelsior, Roseville and Fridley | [18-CA-384823](/case/18-CA-384823) | 04/15/2026 | Open | 347 | Eagan, MN | Region 18, Minneapolis, Minnesota |
 | Amentum | [19-CA-384843](/case/19-CA-384843) | 04/15/2026 | Open | 200 | Silverdale, WA | Region 19, Seattle, Washington |
 | Mid-Coast Radio Project Inc. | [14-CA-384827](/case/14-CA-384827) | 04/15/2026 | Open | 4 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | Gloucester Terminals LLC | [04-CA-384853](/case/04-CA-384853) | 04/15/2026 | Open | 0 | Gloucester City, NJ | Region 04, Philadelphia, Pennsylvania |
@@ -100,3 +98,5 @@
 | UNITE HERE Local 1 (Hyatt Regency McCormick Place) | [13-CB-384912](/case/13-CB-384912) | 04/15/2026 | Open | 5 | Chicago, IL | Region 13, Chicago, Illinois |
 | ILWU, Local 56 (Patriots Environmental Services, Inc.) | [21-CB-384881](/case/21-CB-384881) | 04/15/2026 | Open | 100 | San Pedro, CA | Region 21, Los Angeles, California |
 | John Hopkins University | [05-CA-384924](/case/05-CA-384924) | 04/15/2026 | Open | 510 | Baltimore, MD | Region 05, Baltimore, Maryland |
+| Vertex Aerospace LLC. (DBA V2X Inc.) | [14-CA-384905](/case/14-CA-384905) | 04/15/2026 | Open | 44 | Fort Riley, KS | Region 14, Saint Louis, Missouri |
+| The Folger Coffee Company | [15-CA-384883](/case/15-CA-384883) | 04/15/2026 | Open | 1000 | New Orleans, LA | Region 15, New Orleans, Louisiana |
