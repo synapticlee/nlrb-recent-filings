@@ -66,7 +66,6 @@
 | Synthomer | [08-CA-386125](/case/08-CA-386125) | 04/30/2026 | Open | 85 | Beachwood, OH | Region 08, Cleveland, Ohio |
 | General Motors LLC and/or Ultium Cells LLC Ohio (a single and/or joint employer) | [08-CA-386126](/case/08-CA-386126) | 04/30/2026 | Open | 500 | Warren, OH | Region 08, Cleveland, Ohio |
 | International Union of Elevator Constructors, Local Union #5 (TK Elevator Corporation) | [04-CD-386094](/case/04-CD-386094) | 04/30/2026 | Open | 77 | King of Prussia, PA | Region 04, Philadelphia, Pennsylvania |
-| Veolia "Elemental Environmental Solutions" | [15-CA-386133](/case/15-CA-386133) | 04/30/2026 | Open | 100 | Gum Springs, AR | Region 15, New Orleans, Louisiana |
 | BFI Waste Services, LLC d/b/a Aqua-Terra Recycling & Treatment | [10-RC-385942](/case/10-RC-385942) | 04/30/2026 | Open | 4 | Oxford, GA | Region 10, Atlanta, Georgia |
 | Seaboard Triumph Foods | [18-CA-386137](/case/18-CA-386137) | 04/30/2026 | Open | 500 | Sioux City, IA | Region 18, Minneapolis, Minnesota |
 | Swire Coca-Cola | [28-RC-386078](/case/28-RC-386078) | 04/30/2026 | Open | 31 | Phoenix, AZ | Region 28, Phoenix, Arizona |
@@ -90,6 +89,7 @@
 | Commonplace Coffee | [06-RC-386069](/case/06-RC-386069) | 04/30/2026 | Open | 50 | Pittsburgh, PA | Region 06, Pittsburgh, Pennsylvania |
 | United Steelworkers (Express Scripts/Cigna) | [19-CB-386066](/case/19-CB-386066) | 04/30/2026 | Open | 10 | Liberty Lake, WA | Region 19, Seattle, Washington |
 | Fred Meyer Stores, Inc. | [19-CA-386068](/case/19-CA-386068) | 04/30/2026 | Open | 10000 | Portland, OR | Region 19, Seattle, Washington |
+| Veolia "Elemental Environmental Solutions" | [15-CA-386133](/case/15-CA-386133) | 04/30/2026 | Open | 100 | Gum Springs, AR | Region 15, New Orleans, Louisiana |
 | Wayne Sanderson Farms | [16-CA-385892](/case/16-CA-385892) | 04/29/2026 | Open | 2000 | Bryan, TX | Region 16, Fort Worth, Texas |
 | Teamsters Local 63 (Americold Logistics) | [31-CB-385896](/case/31-CB-385896) | 04/29/2026 | Open | 2 | Ontario, CA | Region 31, Los Angeles, California |
 | Intuit TurboTax | [10-CA-385919](/case/10-CA-385919) | 04/29/2026 | Open | 2 | Asheville, NC | Region 10, Atlanta, Georgia |
