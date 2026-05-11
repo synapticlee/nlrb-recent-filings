@@ -70,7 +70,6 @@
 | Medix Ambulance/Metro West Ambulance | [19-CA-386446](/case/19-CA-386446) | 05/06/2026 | Open | 37 | Centralia, WA | Region 19, Seattle, Washington |
 | American Postal Workers Union (United States Postal Service) | [13-CB-386443](/case/13-CB-386443) | 05/06/2026 | Open | 100 | Forest Park, IL | Region 13, Chicago, Illinois |
 | branch 3 (United States Postal Service) | [03-CB-386445](/case/03-CB-386445) | 05/06/2026 | Open | 50 | Buffalo, NY | Region 03, Buffalo, New York |
-| Samaritan Medical Center | [03-CA-386431](/case/03-CA-386431) | 05/06/2026 | Open | 500 | Watertown, NY | Region 03, Buffalo, New York |
 | UNITE HERE Local 1 (SSP America) | [13-CB-386444](/case/13-CB-386444) | 05/06/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
 | The Beautiful Opco, LLC d/b/a Casa Bonita | [27-CA-386456](/case/27-CA-386456) | 05/06/2026 | Open | 450 | Denver, CO | Region 27, Denver, Colorado |
 | Northern Colorado Uniserv Unit | [27-CA-386459](/case/27-CA-386459) | 05/06/2026 | Open | 2 | Greeley, CO | Region 27, Denver, Colorado |
@@ -100,3 +99,4 @@
 | Centerra Group LLC | [05-CA-386508](/case/05-CA-386508) | 05/06/2026 | Open | 150 | Herndon, VA | Region 05, Baltimore, Maryland |
 | National Rural Letter Carriers' Association (NRLCA) (United States Postal Service) | [19-CB-386514](/case/19-CB-386514) | 05/06/2026 | Open | 10 | Winlock, WA | Region 19, Seattle, Washington |
 | Entertainment Partners | [13-CA-386480](/case/13-CA-386480) | 05/06/2026 | Open | 50 | Chicago, IL | Region 13, Chicago, Illinois |
+| North Memorial Health Ambulance Service | [18-RC-386507](/case/18-RC-386507) | 05/06/2026 | Open | 450 | Brooklyn Center, MN | Region 18, Minneapolis, Minnesota |
