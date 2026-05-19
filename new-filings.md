@@ -1,7 +1,6 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
 | United States Postal Service | [12-CA-387047](/case/12-CA-387047) | 05/15/2026 | Open | 30 | San Sebastian, PR | Region 12, Tampa, Florida |
-| Triple Canopy Inc. | [05-UD-387062](/case/05-UD-387062) | 05/15/2026 | Open | 380 | Washington, DC | Region 05, Baltimore, Maryland |
 | AFP Management Corp dba Hilton Garden Inn, Chicago Downtown Riverwalk | [13-CA-387086](/case/13-CA-387086) | 05/15/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
 | Pacific Northwest Staff Union (Service Employees International Union, Local 221) | [21-CB-387090](/case/21-CB-387090) | 05/15/2026 | Open | 17 | San Diego, CA | Region 21, Los Angeles, California |
 | P1 Construction LLC | [14-CA-387092](/case/14-CA-387092) | 05/15/2026 | Open | 1000 | Lenexa, KS | Region 14, Saint Louis, Missouri |
@@ -19,6 +18,7 @@
 | Technical Safety Services, LLC | [19-RC-387104](/case/19-RC-387104) | 05/15/2026 | Open | 15 | Woodinville, WA | Region 19, Seattle, Washington |
 | Southern California Edison | [21-CA-387111](/case/21-CA-387111) | 05/15/2026 | Open | 14000 | Rosemead, CA | Region 21, Los Angeles, California |
 | The Graceful Ordinary | [13-CA-387060](/case/13-CA-387060) | 05/15/2026 | Open | 40 | Saint Charles, IL | Region 13, Chicago, Illinois |
+| Triple Canopy Inc. | [05-UD-387062](/case/05-UD-387062) | 05/15/2026 | Open | 380 | Washington, DC | Region 05, Baltimore, Maryland |
 | Shure Manufacturing Corporation | [14-CA-386948](/case/14-CA-386948) | 05/14/2026 | Open | 22 | Washington, MO | Region 14, Saint Louis, Missouri |
 | Rochester General Hospital, Inc., United Memorial Medical Center, and Unity Hospital of Rochester, as a single employer, d/b/a Rochester Regional Health | [03-CA-386971](/case/03-CA-386971) | 05/14/2026 | Open | 9000 | Rochester, NY | Region 03, Buffalo, New York |
 | Operative Plasterers & Cement Masons’ International Association Local 518 (JACOR Contracting, Inc.) | [14-CB-386939](/case/14-CB-386939) | 05/14/2026 | Open | 50 | Independence, MO | Region 14, Saint Louis, Missouri |
@@ -56,7 +56,6 @@
 | Union League Liberty Hill LLC | [04-CA-387020](/case/04-CA-387020) | 05/14/2026 | Open | 200 | Lafayette Hill, PA | Region 04, Philadelphia, Pennsylvania |
 | Ottumwa Regional Health Center | [18-CA-387025](/case/18-CA-387025) | 05/14/2026 | Open | 18 | Ottumwa, IA | Region 18, Minneapolis, Minnesota |
 | Monarch Healthcare Management dba Villa at St. Louis Park | [18-CA-387026](/case/18-CA-387026) | 05/14/2026 | Open | 130 | Saint Louis Park, MN | Region 18, Minneapolis, Minnesota |
-| Unite Here Local 30 (SSP America) | [21-CB-387027](/case/21-CB-387027) | 05/14/2026 | Open | 70 | San Diego, CA | Region 21, Los Angeles, California |
 | Sierra Ready Mix | [28-CA-387077](/case/28-CA-387077) | 05/14/2026 | Open | 34 | North Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Arbor Hills Veterinary Clinic | [07-CA-387006](/case/07-CA-387006) | 05/14/2026 | Open | 11 | Jackson, MI | Region 07, Detroit, Michigan |
 | Teamsters Local 705 (Mauser Packaging Solutions) | [13-CB-387059](/case/13-CB-387059) | 05/14/2026 | Open | 50 | Chicago, IL | Region 13, Chicago, Illinois |
@@ -65,7 +64,6 @@
 | National Association of Letter Carriers Branch 321 (United States Postal Service) | [15-CB-387089](/case/15-CB-387089) | 05/14/2026 | Open | 35 | Gulf Breeze, FL | Region 15, New Orleans, Louisiana |
 | Breakers Operations LLC d/b/a Fairmont Breakers Long Beach | [21-CA-387030](/case/21-CA-387030) | 05/14/2026 | Open | 200 | Long Beach, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [21-CA-387008](/case/21-CA-387008) | 05/14/2026 | Open | 50 | Cathedral City, CA | Region 21, Los Angeles, California |
-| Transport Workers Union of America AFL-CIO 556 (Southwest Airlines) | [28-CB-387034](/case/28-CB-387034) | 05/14/2026 | Open | 100 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Station GVR Acquisition, LLC d/b/a Green Valley Ranch Resort Spa Casino | [28-CA-387035](/case/28-CA-387035) | 05/14/2026 | Open | 850 | Henderson, NV | Region 28, Phoenix, Arizona |
 | Red Rock Resorts, Inc., as a single employer with Station Casinos LLC, NP Red Rock, LLC d/b/a Red Rock Casino Resort and Spa, and Station GVR Acquisition, LLC d/b/a Green Valley Ranch Resort Spa Casino | [28-CA-387036](/case/28-CA-387036) | 05/14/2026 | Open | 2000 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Station GVR Acquisition, LLC d/b/a Green Valley Ranch Resort Spa Casino | [28-CA-387032](/case/28-CA-387032) | 05/14/2026 | Open | 850 | Henderson, NV | Region 28, Phoenix, Arizona |
@@ -83,6 +81,8 @@
 | National Postal Mail Handlers Union, Local 311 (United States Postal Service) | [16-CB-387107](/case/16-CB-387107) | 05/14/2026 | Open | 150 | Beaumont, TX | Region 16, Fort Worth, Texas |
 | United States Postal Service | [27-CA-387061](/case/27-CA-387061) | 05/14/2026 | Open | 60 | Pueblo, CO | Region 27, Denver, Colorado |
 | Service Employees International Union, Local 2015, Region 5 (Institute on Aging) | [20-CB-387109](/case/20-CB-387109) | 05/14/2026 | Open | 100 | San Francisco, CA | Region 20, San Francisco, California |
+| Unite Here Local 30 (SSP America) | [21-CB-387027](/case/21-CB-387027) | 05/14/2026 | Open | 70 | San Diego, CA | Region 21, Los Angeles, California |
+| Transport Workers Union of America AFL-CIO 556 (Southwest Airlines) | [28-CB-387034](/case/28-CB-387034) | 05/14/2026 | Open | 100 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | International Public Terminal | [12-CA-386875](/case/12-CA-386875) | 05/13/2026 | Open | 200 | Ponce, PR | Region 12, Tampa, Florida |
 | Loomis Armored | [19-CA-386868](/case/19-CA-386868) | 05/13/2026 | Open | 16 | Ellensburg, WA | Region 19, Seattle, Washington |
 | Ascension Via Christi | [14-CA-386879](/case/14-CA-386879) | 05/13/2026 | Open | 2662 | Wichita, KS | Region 14, Saint Louis, Missouri |
