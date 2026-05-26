@@ -24,7 +24,6 @@
 | Bargersville Smoke Shop d/b/a Lazy Dayz | [25-CA-387407](/case/25-CA-387407) | 05/21/2026 | Open | 3 | Bargersville, IN | Region 25, Indianapolis, Indiana |
 | Kirby & Holloway | [05-CA-387421](/case/05-CA-387421) | 05/21/2026 | Open | 25 | Harrington, DE | Region 05, Baltimore, Maryland |
 | American Postal Workers Union Rocky Mount Local 591 (United States Postal Service) | [10-CB-387431](/case/10-CB-387431) | 05/21/2026 | Open | 40 | Rocky Mount, NC | Region 10, Atlanta, Georgia |
-| General Teamsters Local 397 (Pepsico) | [06-CB-387426](/case/06-CB-387426) | 05/21/2026 | Open | 20 | Erie, PA | Region 06, Pittsburgh, Pennsylvania |
 | Yellowstone Motor Sports LLC d/b/a Yellowstone Harley-Davidson | [19-CA-387423](/case/19-CA-387423) | 05/21/2026 | Open | 15 | Belgrade, MT | Region 19, Seattle, Washington |
 | Sharp Healthcare | [21-CA-387437](/case/21-CA-387437) | 05/21/2026 | Open | 650 | Chula Vista, CA | Region 21, Los Angeles, California |
 | International Longshore and Warehouse Union, Local 13, Allied Division (Oxbow Energy Solutions LLC) | [21-CB-387432](/case/21-CB-387432) | 05/21/2026 | Open | 31 | Long Beach, CA | Region 21, Los Angeles, California |
@@ -62,6 +61,7 @@
 | IATSE Local B-192 (NBC Universal) | [31-CB-387516](/case/31-CB-387516) | 05/21/2026 | Open | 2 | Universal City, CA | Region 31, Los Angeles, California |
 | Washington State Nurses Association (Virginia Mason Franciscan Health, formerly CHI Franciscan, DBA as Saint Joseph Medical Center) | [19-CB-387505](/case/19-CB-387505) | 05/21/2026 | Open | 1000 | Tacoma, WA | Region 19, Seattle, Washington |
 | Big River Forest Products | [15-RC-387492](/case/15-RC-387492) | 05/21/2026 | Open | 135 | Gloster, MS | Region 15, New Orleans, Louisiana |
+| General Teamsters Local 397 (Pepsico) | [06-CB-387426](/case/06-CB-387426) | 05/21/2026 | Open | 20 | Erie, PA | Region 06, Pittsburgh, Pennsylvania |
 | Teamsters Local 952 (Albertsons Company Brea Distribution Center) | [21-CB-387387](/case/21-CB-387387) | 05/20/2026 | Open | 100 | Brea, CA | Region 21, Los Angeles, California |
 | Walgreen Co. | [13-CA-387369](/case/13-CA-387369) | 05/20/2026 | Open | 40 | Chicago, IL | Region 13, Chicago, Illinois |
 | National Association of Letter Carriers, Branch 38 | [22-CB-387324](/case/22-CB-387324) | 05/20/2026 | Open | 50 | Bloomfield, NJ | Region 22, Newark, New Jersey |
