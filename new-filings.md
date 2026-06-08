@@ -59,7 +59,6 @@
 | SERVICE EMPLOYEES INTERNATIONAL UNION - 1199 (Sound Community Services, Inc.) | [01-CB-388361](/case/01-CB-388361) | 06/04/2026 | Open | 121 | New London (Town), CT | Region 01, Boston, Massachusetts |
 | Woodward, Inc. | [13-CA-388265](/case/13-CA-388265) | 06/04/2026 | Open | 825 | Niles, IL | Region 13, Chicago, Illinois |
 | United States Postal Service | [13-CA-388303](/case/13-CA-388303) | 06/04/2026 | Open | 1000 | Carol Stream, IL | Region 13, Chicago, Illinois |
-| Centerra Group, a Constellis Company | [15-RC-388329](/case/15-RC-388329) | 06/04/2026 | Open | 47 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | Volvo Truck | [15-CA-388365](/case/15-CA-388365) | 06/04/2026 | Open | 450 | Byhalia, MS | Region 15, New Orleans, Louisiana |
 | Democratic Party of Illinois | [13-CA-388305](/case/13-CA-388305) | 06/04/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
 | GFL | [15-CA-388367](/case/15-CA-388367) | 06/04/2026 | Open | 5 | Mayflower, AR | Region 15, New Orleans, Louisiana |
@@ -71,6 +70,7 @@
 | McCormick | [28-RC-388369](/case/28-RC-388369) | 06/04/2026 | Open | 15 | Las Cruces, NM | Region 28, Phoenix, Arizona |
 | JJWWS/CBRE Government & Defense Services | [20-CA-388379](/case/20-CA-388379) | 06/04/2026 | Open | 33 | Santa Rita, GU | Region 20, San Francisco, California |
 | JJWWS/CBRE Government Defense Services | [20-CA-388378](/case/20-CA-388378) | 06/04/2026 | Open | 12 | Yigo, GU | Region 20, San Francisco, California |
+| Centerra Group, a Constellis Company | [15-RC-388329](/case/15-RC-388329) | 06/04/2026 | Open | 47 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | Nichiha USA | [10-CA-388112](/case/10-CA-388112) | 06/03/2026 | Open | 150 | Macon, GA | Region 10, Atlanta, Georgia |
 | Eaton Corporation | [06-CA-388123](/case/06-CA-388123) | 06/03/2026 | Open | 350 | Beaver, PA | Region 06, Pittsburgh, Pennsylvania |
 | HomeGoods | [10-CA-388132](/case/10-CA-388132) | 06/03/2026 | Open | 44 | Columbus, GA | Region 10, Atlanta, Georgia |
