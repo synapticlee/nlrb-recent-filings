@@ -14,7 +14,6 @@
 | American Postal Workers Union Local 711 (United States Postal Service) | [10-CB-389097](/case/10-CB-389097) | 06/18/2026 | Open | 10 | Greensboro, NC | Region 10, Atlanta, Georgia |
 | Transdev Services, Inc. | [21-RC-389086](/case/21-RC-389086) | 06/18/2026 | Open | 8 | Chula Vista, CA | Region 21, Los Angeles, California |
 | Atlantic Aviation (PNE) | [04-RC-389103](/case/04-RC-389103) | 06/18/2026 | Open | 18 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
-| American Electric Power | [10-CA-389109](/case/10-CA-389109) | 06/18/2026 | Open | 16330 | Roanoke, VA | Region 10, Atlanta, Georgia |
 | Optitorque Technologies LLC and Lauter Metal Technologies LLC, a single employer | [03-CA-389105](/case/03-CA-389105) | 06/18/2026 | Open | 12 | Syracuse, NY | Region 03, Buffalo, New York |
 | Georgia Power Company | [10-RM-389062](/case/10-RM-389062) | 06/18/2026 | Open | 48 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | Vibe Cannabis | [14-RC-389087](/case/14-RC-389087) | 06/18/2026 | Open | 30 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
@@ -27,8 +26,9 @@
 | Georgia Power Company | [10-RC-389059](/case/10-RC-389059) | 06/18/2026 | Open | 44 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | APWU 0264 (United States Postal Service) | [31-CB-389121](/case/31-CB-389121) | 06/18/2026 | Open | 2 | Goleta, CA | Region 31, Los Angeles, California |
 | DVA Renal Healthcare, Inc. d/b/a DaVita San Ysidro Dialysis Center | [21-CB-389129](/case/21-CB-389129) | 06/18/2026 | Open | 40 | San Diego, CA | Region 21, Los Angeles, California |
-| Transdev Services, Inc. | [05-UC-389125](/case/05-UC-389125) | 06/18/2026 | Open | 333 | Capitol Heights, MD | Region 05, Baltimore, Maryland |
 | Starbucks Corporation | [21-RC-389132](/case/21-RC-389132) | 06/18/2026 | Open | 29 | Los Alamitos, CA | Region 21, Los Angeles, California |
+| Transdev Services, Inc. | [05-UC-389125](/case/05-UC-389125) | 06/18/2026 | Open | 333 | Capitol Heights, MD | Region 05, Baltimore, Maryland |
+| American Electric Power | [10-CA-389109](/case/10-CA-389109) | 06/18/2026 | Open | 16330 | Roanoke, VA | Region 10, Atlanta, Georgia |
 | Healthwin Specialized Care / Healthwin Health and Rehabilitation | [25-CA-389011](/case/25-CA-389011) | 06/17/2026 | Open | 500 | South Bend, IN | Region 25, Indianapolis, Indiana |
 | Wellbrooke of South Bend Trilogy Health Services | [25-CA-389012](/case/25-CA-389012) | 06/17/2026 | Open | 2000 | South Bend, IN | Region 25, Indianapolis, Indiana |
 | International Brotherhood of Electrical Workers Local 614 (PECO Energy Company) | [04-CB-388980](/case/04-CB-388980) | 06/17/2026 | Open | 55 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
@@ -41,7 +41,6 @@
 | Oil-Dri Corporation of America | [15-CA-389031](/case/15-CA-389031) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
 | United Steel Workers, Local 09-975-L (Oil-Dri Corporation of America) | [15-CB-389035](/case/15-CB-389035) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
 | American Medical Response of San Diego | [21-CA-389032](/case/21-CA-389032) | 06/17/2026 | Open | 435 | San Diego, CA | Region 21, Los Angeles, California |
-| National Postal Mail Handlers Union Local 320- (United States Postal Service) | [28-CB-389044](/case/28-CB-389044) | 06/17/2026 | Open | 1 | Avondale, AZ | Region 28, Phoenix, Arizona |
 | Oxbow Energy Solutions LLC (also known as Oxbow Carbon and Minerals LLC) | [21-CA-389041](/case/21-CA-389041) | 06/17/2026 | Open | 23 | Long Beach, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [10-CA-388979](/case/10-CA-388979) | 06/17/2026 | Open | 65 | Jonesboro, GA | Region 10, Atlanta, Georgia |
 | United States Postal Service | [10-CA-388981](/case/10-CA-388981) | 06/17/2026 | Open | 436 | Knoxville, TN | Region 10, Atlanta, Georgia |
@@ -49,7 +48,6 @@
 | United States Postal Service | [10-CA-389003](/case/10-CA-389003) | 06/17/2026 | Open | 120 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | UNITED STATES POSTAL SERVICE | [12-CA-389020](/case/12-CA-389020) | 06/17/2026 | Open | 20 | Fort Myers, FL | Region 12, Tampa, Florida |
 | United States Postal Service | [10-CA-389036](/case/10-CA-389036) | 06/17/2026 | Open | 30 | Peachtree Corners, GA | Region 10, Atlanta, Georgia |
-| Diageo | [25-CA-389056](/case/25-CA-389056) | 06/17/2026 | Open | 200 | Plainfield, IL | Region 25, Indianapolis, Indiana |
 | Teamsters Local 6 (Anheuser Busch (ABInbev) | [14-CB-389058](/case/14-CB-389058) | 06/17/2026 | Open | 19000 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
 | Leap Inc./G Star | [13-CA-389054](/case/13-CA-389054) | 06/17/2026 | Open | 7 | Chicago, IL | Region 13, Chicago, Illinois |
 | Barnes and Noble Booksellers, Inc. | [29-RC-389038](/case/29-RC-389038) | 06/17/2026 | Open | 17 | Massapequa Park, NY | Region 29, Brooklyn, New York |
@@ -71,10 +69,8 @@
 | Paper Source, LLC | [31-CA-389099](/case/31-CA-389099) | 06/17/2026 | Open | 6 | Los Angeles, CA | Region 31, Los Angeles, California |
 | Evergy | [14-CA-389039](/case/14-CA-389039) | 06/17/2026 | Open | 260 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | Mill Rock Packaging | [19-CA-389095](/case/19-CA-389095) | 06/17/2026 | Open | 21 | Renton, WA | Region 19, Seattle, Washington |
-| Vision Quest Solutions, Inc. | [15-CA-389113](/case/15-CA-389113) | 06/17/2026 | Open | 20 | Rapid City, SD | Region 15, New Orleans, Louisiana |
 | Evergy | [14-CA-389040](/case/14-CA-389040) | 06/17/2026 | Open | 260 | Kansas City, MO | Region 14, Saint Louis, Missouri |
 | National Postal Mail Handlers Union Local 314 (United States Postal Service) | [14-CB-389048](/case/14-CB-389048) | 06/17/2026 | Open | 2500 | Hazelwood, MO | Region 14, Saint Louis, Missouri |
-| SEIU - United Service Workers West (Allied Universal Security Services) | [21-CB-389108](/case/21-CB-389108) | 06/17/2026 | Open | 2 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Cotterman Company | [31-CA-389106](/case/31-CA-389106) | 06/17/2026 | Open | 50 | Bakersfield, CA | Region 31, Los Angeles, California |
 | AT&T | [08-CA-389070](/case/08-CA-389070) | 06/17/2026 | Open | 40 | Brooklyn Heights, OH | Region 08, Cleveland, Ohio |
 | Brown University | [01-CA-389102](/case/01-CA-389102) | 06/17/2026 | Open | 1000 | Providence, RI | Region 01, Boston, Massachusetts |
@@ -91,6 +87,10 @@
 | United States Postal Service | [27-CA-389128](/case/27-CA-389128) | 06/17/2026 | Open | 500 | Denver, CO | Region 27, Denver, Colorado |
 | City Of Torrance | [31-CA-389134](/case/31-CA-389134) | 06/17/2026 | Open | 500 | Torrance, CA | Region 31, Los Angeles, California |
 | MV Transportation, Inc. | [10-RC-388966](/case/10-RC-388966) | 06/17/2026 | Open | 66 | Cary, NC | Region 10, Atlanta, Georgia |
+| Diageo | [25-CA-389056](/case/25-CA-389056) | 06/17/2026 | Open | 200 | Plainfield, IL | Region 25, Indianapolis, Indiana |
+| National Postal Mail Handlers Union Local 320- (United States Postal Service) | [28-CB-389044](/case/28-CB-389044) | 06/17/2026 | Open | 1 | Avondale, AZ | Region 28, Phoenix, Arizona |
+| Vision Quest Solutions, Inc. | [15-CA-389113](/case/15-CA-389113) | 06/17/2026 | Open | 20 | Rapid City, SD | Region 15, New Orleans, Louisiana |
+| SEIU - United Service Workers West (Allied Universal Security Services) | [21-CB-389108](/case/21-CB-389108) | 06/17/2026 | Open | 2 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Beep Depot a Boost Mobile dealer | [12-CA-388894](/case/12-CA-388894) | 06/16/2026 | Open | 10 | Port Richey, FL | Region 12, Tampa, Florida |
 | UAW Local and UAW Region 4 (Woodward, Inc.) | [13-CP-388900](/case/13-CP-388900) | 06/16/2026 | Open | 824 | Niles, IL | Region 13, Chicago, Illinois |
 | United States Postal Service | [10-CA-388908](/case/10-CA-388908) | 06/16/2026 | Open | 400 | Decatur, GA | Region 10, Atlanta, Georgia |
