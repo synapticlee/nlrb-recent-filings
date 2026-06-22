@@ -17,7 +17,6 @@
 | Optitorque Technologies LLC and Lauter Metal Technologies LLC, a single employer | [03-CA-389105](/case/03-CA-389105) | 06/18/2026 | Open | 12 | Syracuse, NY | Region 03, Buffalo, New York |
 | Georgia Power Company | [10-RM-389062](/case/10-RM-389062) | 06/18/2026 | Open | 48 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | Vibe Cannabis | [14-RC-389087](/case/14-RC-389087) | 06/18/2026 | Open | 30 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
-| Legacy Health LLC | [10-CA-389111](/case/10-CA-389111) | 06/18/2026 | Open | 1 | Supply, NC | Region 10, Atlanta, Georgia |
 | Southern Glazers Wine and Spirits | [14-CA-389118](/case/14-CA-389118) | 06/18/2026 | Open | 150 | Raymore, MO | Region 14, Saint Louis, Missouri |
 | United States Postal Service | [12-CA-389107](/case/12-CA-389107) | 06/18/2026 | Open | 100 | San Juan, PR | Region 12, Tampa, Florida |
 | Bakery, Confectionery, Tobacco Workers and Grain Millers International Union Local 65 | [14-CB-389119](/case/14-CB-389119) | 06/18/2026 | Open | 150 | Oklahoma City, OK | Region 14, Saint Louis, Missouri |
@@ -29,6 +28,7 @@
 | Starbucks Corporation | [21-RC-389132](/case/21-RC-389132) | 06/18/2026 | Open | 29 | Los Alamitos, CA | Region 21, Los Angeles, California |
 | Transdev Services, Inc. | [05-UC-389125](/case/05-UC-389125) | 06/18/2026 | Open | 333 | Capitol Heights, MD | Region 05, Baltimore, Maryland |
 | American Electric Power | [10-CA-389109](/case/10-CA-389109) | 06/18/2026 | Open | 16330 | Roanoke, VA | Region 10, Atlanta, Georgia |
+| Legacy Health LLC | [10-CA-389111](/case/10-CA-389111) | 06/18/2026 | Open | 1 | Supply, NC | Region 10, Atlanta, Georgia |
 | Healthwin Specialized Care / Healthwin Health and Rehabilitation | [25-CA-389011](/case/25-CA-389011) | 06/17/2026 | Open | 500 | South Bend, IN | Region 25, Indianapolis, Indiana |
 | Wellbrooke of South Bend Trilogy Health Services | [25-CA-389012](/case/25-CA-389012) | 06/17/2026 | Open | 2000 | South Bend, IN | Region 25, Indianapolis, Indiana |
 | International Brotherhood of Electrical Workers Local 614 (PECO Energy Company) | [04-CB-388980](/case/04-CB-388980) | 06/17/2026 | Open | 55 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
@@ -38,8 +38,6 @@
 | IKEA Distribution Services, Inc. | [13-CA-389022](/case/13-CA-389022) | 06/17/2026 | Open | 200 | Joliet, IL | Region 13, Chicago, Illinois |
 | Schnellecke Logistics | [10-CA-389027](/case/10-CA-389027) | 06/17/2026 | Open | 350 | Chattanooga, TN | Region 10, Atlanta, Georgia |
 | Schnellecke Logistics | [10-CA-389028](/case/10-CA-389028) | 06/17/2026 | Open | 350 | Chattanooga, TN | Region 10, Atlanta, Georgia |
-| Oil-Dri Corporation of America | [15-CA-389031](/case/15-CA-389031) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
-| United Steel Workers, Local 09-975-L (Oil-Dri Corporation of America) | [15-CB-389035](/case/15-CB-389035) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
 | American Medical Response of San Diego | [21-CA-389032](/case/21-CA-389032) | 06/17/2026 | Open | 435 | San Diego, CA | Region 21, Los Angeles, California |
 | Oxbow Energy Solutions LLC (also known as Oxbow Carbon and Minerals LLC) | [21-CA-389041](/case/21-CA-389041) | 06/17/2026 | Open | 23 | Long Beach, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [10-CA-388979](/case/10-CA-388979) | 06/17/2026 | Open | 65 | Jonesboro, GA | Region 10, Atlanta, Georgia |
@@ -91,12 +89,14 @@
 | National Postal Mail Handlers Union Local 320- (United States Postal Service) | [28-CB-389044](/case/28-CB-389044) | 06/17/2026 | Open | 1 | Avondale, AZ | Region 28, Phoenix, Arizona |
 | Vision Quest Solutions, Inc. | [15-CA-389113](/case/15-CA-389113) | 06/17/2026 | Open | 20 | Rapid City, SD | Region 15, New Orleans, Louisiana |
 | SEIU - United Service Workers West (Allied Universal Security Services) | [21-CB-389108](/case/21-CB-389108) | 06/17/2026 | Open | 2 | Los Angeles, CA | Region 21, Los Angeles, California |
+| United Steel Workers, Local 09-975-L (Oil-Dri Corporation of America) | [15-CB-389035](/case/15-CB-389035) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
+| Oil-Dri Corporation of America | [15-CA-389031](/case/15-CA-389031) | 06/17/2026 | Open | 200 | Ripley, MS | Region 15, New Orleans, Louisiana |
 | Beep Depot a Boost Mobile dealer | [12-CA-388894](/case/12-CA-388894) | 06/16/2026 | Open | 10 | Port Richey, FL | Region 12, Tampa, Florida |
 | UAW Local and UAW Region 4 (Woodward, Inc.) | [13-CP-388900](/case/13-CP-388900) | 06/16/2026 | Open | 824 | Niles, IL | Region 13, Chicago, Illinois |
 | United States Postal Service | [10-CA-388908](/case/10-CA-388908) | 06/16/2026 | Open | 400 | Decatur, GA | Region 10, Atlanta, Georgia |
-| United States Postal Service | [14-CA-388898](/case/14-CA-388898) | 06/16/2026 | Open | 130 | Topeka, KS | Region 14, Saint Louis, Missouri |
 | AFSCME Council 13 (Luzerne County Veterans Affairs) | [04-CB-388964](/case/04-CB-388964) | 06/16/2026 | Open | 3 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Luzerne County Veterans Affairs | [04-CA-388965](/case/04-CA-388965) | 06/16/2026 | Open | 3 | Wilkes-Barre, PA | Region 04, Philadelphia, Pennsylvania |
 | Parks Garbage Service, Inc. d/b/a Hometown Disposal | [06-CA-388941](/case/06-CA-388941) | 06/16/2026 | Open | 20 | Selinsgrove, PA | Region 06, Pittsburgh, Pennsylvania |
 | United States Postal Service | [10-CA-388923](/case/10-CA-388923) | 06/16/2026 | Open | 150 | Gastonia, NC | Region 10, Atlanta, Georgia |
 | Teamsters Local 618 (General Motors) | [14-CB-388963](/case/14-CB-388963) | 06/16/2026 | Open | 0 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
+| Penn State Milton S Hershey Medical Center - Life Lion EMS | [04-CA-388927](/case/04-CA-388927) | 06/16/2026 | Open | 500 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
