@@ -45,7 +45,6 @@
 | Blue Bottle Coffee | [32-CA-389523](/case/32-CA-389523) | 06/25/2026 | Open | 12 | Oakland, CA | Region 32, Oakland, California |
 | Flora Food Sourcing US, Inc. | [14-CA-389513](/case/14-CA-389513) | 06/25/2026 | Open | 177 | New Century, KS | Region 14, Saint Louis, Missouri |
 | Disney | [12-CA-389534](/case/12-CA-389534) | 06/25/2026 | Open | 80000 | Lake Buena Vista, FL | Region 12, Tampa, Florida |
-| The Home Depot | [12-CA-389535](/case/12-CA-389535) | 06/25/2026 | Open | 200 | Largo, FL | Region 12, Tampa, Florida |
 | Clean Earth, Inc. | [32-CA-389529](/case/32-CA-389529) | 06/25/2026 | Open | 50 | Fernley, NV | Region 32, Oakland, California |
 | Glacier Northwest, Inc. d/b/a CalPortland | [19-CA-389490](/case/19-CA-389490) | 06/25/2026 | Open | 72 | Seattle, WA | Region 19, Seattle, Washington |
 | Jonson Controls, Inc. | [29-CA-389506](/case/29-CA-389506) | 06/25/2026 | Open | 78 | Queens, NY | Region 29, Brooklyn, New York |
@@ -68,6 +67,7 @@
 | United States Postal Service | [05-CA-389566](/case/05-CA-389566) | 06/25/2026 | Open | 500 | Dulles, VA | Region 05, Baltimore, Maryland |
 | Marine Engineers Beneficial Association (MEBA) (Patriot Maritime) | [32-CB-389542](/case/32-CB-389542) | 06/25/2026 | Open | 50 | Oakland, CA | Region 32, Oakland, California |
 | United Parcel Service | [32-CA-389565](/case/32-CA-389565) | 06/25/2026 | Open | 500 | San Ramon, CA | Region 32, Oakland, California |
+| The Home Depot | [12-CA-389535](/case/12-CA-389535) | 06/25/2026 | Open | 200 | Largo, FL | Region 12, Tampa, Florida |
 | Starbucks Corporation | [05-RC-389429](/case/05-RC-389429) | 06/24/2026 | Open | 19 | Suffolk, VA | Region 05, Baltimore, Maryland |
 | Blue Chip Casino Hotel Spa | [25-RC-389375](/case/25-RC-389375) | 06/24/2026 | Open | 21 | Michigan City, IN | Region 25, Indianapolis, Indiana |
 | NEW ENGLAND HEALTH CARE, DISTRICT 1199, SEIU (Yale New Haven Hospital) | [01-CB-389417](/case/01-CB-389417) | 06/24/2026 | Open | 5000 | New Haven, CT | Region 01, Boston, Massachusetts |
