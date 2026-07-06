@@ -70,7 +70,6 @@
 | IAM Local Union Lodge 4 (Vertex Aerospace, LLC DBA V2X) | [05-CB-389791](/case/05-CB-389791) | 06/30/2026 | Open | 25 | Patuxent River, MD | Region 05, Baltimore, Maryland |
 | Sea-Logix (The Pasha Group) | [21-CA-389788](/case/21-CA-389788) | 06/30/2026 | Open | 235 | Long Beach, CA | Region 21, Los Angeles, California |
 | Western States Regional Council of Carpenters (SRK Engineering Inc.) | [21-CB-389769](/case/21-CB-389769) | 06/30/2026 | Open | 65 | San Diego, CA | Region 21, Los Angeles, California |
-| Levy Restaurants/Levy Foodservice/Levy Premium | [21-CA-389796](/case/21-CA-389796) | 06/30/2026 | Open | 300 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Lawn Beauticians | [05-CA-389800](/case/05-CA-389800) | 06/30/2026 | Open | 16 | Hopewell, VA | Region 05, Baltimore, Maryland |
 | United States Postal Service | [28-CA-389767](/case/28-CA-389767) | 06/30/2026 | Open | 1 | Phoenix, AZ | Region 28, Phoenix, Arizona |
 | Cranesville Block | [03-RC-389770](/case/03-RC-389770) | 06/30/2026 | Open | 5 | Johnstown, NY | Region 03, Buffalo, New York |
@@ -98,5 +97,6 @@
 | CVS Store 971 ("CVS") | [01-CA-389806](/case/01-CA-389806) | 06/30/2026 | Open | 4 | Westerly, RI | Region 01, Boston, Massachusetts |
 | CVS Store #2065 ("CVS") | [01-CA-389779](/case/01-CA-389779) | 06/30/2026 | Open | 5 | Wakefield, RI | Region 01, Boston, Massachusetts |
 | XPO | [05-CA-389787](/case/05-CA-389787) | 06/30/2026 | Open | 400 | Carlisle, PA | Region 05, Baltimore, Maryland |
-| SEIU 1199 (MedStar Georgetown University Hospital) | [05-CB-389823](/case/05-CB-389823) | 06/30/2026 | Open | 25 | Washington, DC | Region 05, Baltimore, Maryland |
 | CVS Store 1544 | [01-CA-389838](/case/01-CA-389838) | 06/30/2026 | Open | 2 | Westerly, RI | Region 01, Boston, Massachusetts |
+| University of Chicago Medicine | [13-CA-389670](/case/13-CA-389670) | 06/30/2026 | Open | 100 | Chicago, IL | Region 13, Chicago, Illinois |
+| Unite Here Local 11 (Levy Restaurants/Levy Foodservice) | [21-CB-389850](/case/21-CB-389850) | 06/30/2026 | Open | 2 | Los Angeles, CA | Region 21, Los Angeles, California |
