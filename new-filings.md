@@ -51,7 +51,6 @@
 | United States Postal Service | [10-CA-390288](/case/10-CA-390288) | 07/09/2026 | Open | 500 | Nashville, TN | Region 10, Atlanta, Georgia |
 | MV Transportation Inc | [10-RC-390354](/case/10-RC-390354) | 07/09/2026 | Open | 11 | Augusta, GA | Region 10, Atlanta, Georgia |
 | Heidelberg Materials | [19-RC-390357](/case/19-RC-390357) | 07/09/2026 | Open | 2 | Sumner, WA | Region 19, Seattle, Washington |
-| General Dynamics Information Technology | [15-RD-390315](/case/15-RD-390315) | 07/09/2026 | Open | 3 | Panama City, FL | Region 15, New Orleans, Louisiana |
 | HONDA EAST CINCINNATI | [09-RC-390303](/case/09-RC-390303) | 07/09/2026 | Open | 18 | Cincinnati, OH | Region 09, Cincinnati, Ohio |
 | The Mockingbird Society | [19-RC-390382](/case/19-RC-390382) | 07/09/2026 | Open | 12 | Seattle, WA | Region 19, Seattle, Washington |
 | Roofer Union Local 20 (Flynn Midwest LLC) | [14-CB-390355](/case/14-CB-390355) | 07/09/2026 | Open | 50 | Raytown, MO | Region 14, Saint Louis, Missouri |
@@ -77,6 +76,7 @@
 | Asplundh Tree Expert, LLC | [27-RD-390414](/case/27-RD-390414) | 07/09/2026 | Open | 87 | Fruitland, ID | Region 27, Denver, Colorado |
 | FHMC, LLC d/b/a Instinctive Healthcare Solutions | [28-CA-390423](/case/28-CA-390423) | 07/09/2026 | Open | 50 | El Mirage, AZ | Region 28, Phoenix, Arizona |
 | Stater Bros. Market | [31-CA-390421](/case/31-CA-390421) | 07/09/2026 | Open | 8600 | San Bernardino, CA | Region 31, Los Angeles, California |
+| General Dynamics Information Technology | [15-RD-390315](/case/15-RD-390315) | 07/09/2026 | Open | 3 | Panama City, FL | Region 15, New Orleans, Louisiana |
 | International Association of Machinists and Aerospace Workers, District Lodge 2020, Zone 110 (Accent Controls, Inc) | [10-CB-390273](/case/10-CB-390273) | 07/08/2026 | Open | 500 | Havelock, NC | Region 10, Atlanta, Georgia |
 | Baltimore Gas and Electric | [05-CA-390313](/case/05-CA-390313) | 07/08/2026 | Open | 1500 | Baltimore, MD | Region 05, Baltimore, Maryland |
 | Motivate LLC | [29-CA-390310](/case/29-CA-390310) | 07/08/2026 | Open | 500 | Brooklyn, NY | Region 29, Brooklyn, New York |
