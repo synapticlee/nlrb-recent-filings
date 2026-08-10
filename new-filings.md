@@ -64,14 +64,13 @@
 | J.R. Simplot Company, LLC | [32-RC-392419](/case/32-RC-392419) | 08/06/2026 | Open | 10 | Kerman, CA | Region 32, Oakland, California |
 | Savannah Logistics Group / Big Rig Truck Repair | [10-CA-392362](/case/10-CA-392362) | 08/06/2026 | Open | 6 | Garden City, GA | Region 10, Atlanta, Georgia |
 | Culinary Workers Union Local 226 a/w UNITE HERE International Union (Signature Condominiums at MGM Grand) | [28-CB-392445](/case/28-CB-392445) | 08/06/2026 | Open | 1 | Las Vegas, NV | Region 28, Phoenix, Arizona |
-| Zrpath Behavioral Health Services | [28-CA-392448](/case/28-CA-392448) | 08/06/2026 | Open | 20 | Mesa, AZ | Region 28, Phoenix, Arizona |
 | Fountainebleau Las Vegas | [28-CA-392451](/case/28-CA-392451) | 08/06/2026 | Open | 100 | Las Vegas, NV | Region 28, Phoenix, Arizona |
 | Karns Volunteer Fire Department, Inc. | [10-RC-392402](/case/10-RC-392402) | 08/06/2026 | Open | 19 | Knoxville, TN | Region 10, Atlanta, Georgia |
+| Zrpath Behavioral Health Services | [28-CA-392448](/case/28-CA-392448) | 08/06/2026 | Open | 20 | Mesa, AZ | Region 28, Phoenix, Arizona |
 | Indianapolis Area Local, American Postal Workers Union, AFL-CIO (United States Postal Service | [25-CB-392266](/case/25-CB-392266) | 08/05/2026 | Open | 50 | Indianapolis, IN | Region 25, Indianapolis, Indiana |
 | Safe Place | [19-CA-392329](/case/19-CA-392329) | 08/05/2026 | Open | 15 | Olympia, WA | Region 19, Seattle, Washington |
 | United States Postal Service | [14-CA-392251](/case/14-CA-392251) | 08/05/2026 | Open | 8 | Walters, OK | Region 14, Saint Louis, Missouri |
 | SEIU 1199NW (Downtown Emergency Service Center) | [19-CB-392326](/case/19-CB-392326) | 08/05/2026 | Open | 10 | Seattle, WA | Region 19, Seattle, Washington |
-| American Postal Worker's Union Local 97 (United States Postal Service) | [13-CB-392311](/case/13-CB-392311) | 08/05/2026 | Open | 2 | Lake Bluff, IL | Region 13, Chicago, Illinois |
 | IBEW Local 305 (Shambaugh & Son) | [25-CB-392287](/case/25-CB-392287) | 08/05/2026 | Open | 50 | Roanoke, IN | Region 25, Indianapolis, Indiana |
 | Five Star Marketplace | [25-CA-392232](/case/25-CA-392232) | 08/05/2026 | Open | 50 | Knox, IN | Region 25, Indianapolis, Indiana |
 | United Parcel Service | [10-CA-392309](/case/10-CA-392309) | 08/05/2026 | Open | 1200 | West Columbia, SC | Region 10, Atlanta, Georgia |
@@ -100,3 +99,4 @@
 | United States Postal Service | [12-CA-392304](/case/12-CA-392304) | 08/05/2026 | Open | 500 | Fort Lauderdale, FL | Region 12, Tampa, Florida |
 | The Ritz Carlton Hotel | [01-CB-392390](/case/01-CB-392390) | 08/05/2026 | Open | 25 | Boston, MA | Region 01, Boston, Massachusetts |
 | United States Postal Service | [10-CA-392343](/case/10-CA-392343) | 08/05/2026 | Open | 150 | Columbia, SC | Region 10, Atlanta, Georgia |
+| IAM District Lodge 70 (Spirit AeroSystems, Inc. a wholly owned subsidiary of The Boeing Company) | [14-CB-392335](/case/14-CB-392335) | 08/05/2026 | Open | 6000 | Wichita, KS | Region 14, Saint Louis, Missouri |
