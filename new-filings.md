@@ -20,11 +20,11 @@
 | St. Martin's In The Pines | [10-RC-392876](/case/10-RC-392876) | 08/14/2026 | Open | 58 | Birmingham, AL | Region 10, Atlanta, Georgia |
 | Republic Services of Ohio Transportation, LLC | [08-CA-392877](/case/08-CA-392877) | 08/14/2026 | Open | 5 | Youngstown, OH | Region 08, Cleveland, Ohio |
 | United States Postal Service | [12-CA-392879](/case/12-CA-392879) | 08/14/2026 | Open | 6 | Moca, PR | Region 12, Tampa, Florida |
-| Alaska Medical Employees Association (AMEA) — Kodiak, affiliated with Teamsters Local 959 (Providence Kodiak Island Medical Center) | [19-CB-392881](/case/19-CB-392881) | 08/14/2026 | Open | 10 | Kodiak, AK | Region 19, Seattle, Washington |
 | US Foods | [32-RC-392868](/case/32-RC-392868) | 08/14/2026 | Open | 4 | Reno, NV | Region 32, Oakland, California |
 | Teamsters Local 63 (Kroger) | [21-CB-392883](/case/21-CB-392883) | 08/14/2026 | Open | 95 | Riverside, CA | Region 21, Los Angeles, California |
 | Sharp Healthcare d/b/a Sharp Mesa Vista Hospital | [21-CA-392884](/case/21-CA-392884) | 08/14/2026 | Open | 1000 | San Diego, CA | Region 21, Los Angeles, California |
 | RATP Dev, Inc. | [10-RC-392839](/case/10-RC-392839) | 08/14/2026 | Open | 85 | Asheville, NC | Region 10, Atlanta, Georgia |
+| Alaska Medical Employees Association (AMEA) — Kodiak, affiliated with Teamsters Local 959 (Providence Kodiak Island Medical Center) | [19-CB-392881](/case/19-CB-392881) | 08/14/2026 | Open | 10 | Kodiak, AK | Region 19, Seattle, Washington |
 | John Mansville | [25-CA-392765](/case/25-CA-392765) | 08/13/2026 | Open | 100 | Richmond, IN | Region 25, Indianapolis, Indiana |
 | IMI Indiana, LLC | [25-RC-392760](/case/25-RC-392760) | 08/13/2026 | Open | 13 | Fishers, IN | Region 25, Indianapolis, Indiana |
 | Ryder Truck Rental | [14-RC-392781](/case/14-RC-392781) | 08/13/2026 | Open | 3 | Wood River, IL | Region 14, Saint Louis, Missouri |
