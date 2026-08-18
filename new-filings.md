@@ -10,11 +10,9 @@
 | Volvo Group North America | [15-CA-392850](/case/15-CA-392850) | 08/14/2026 | Open | 525 | Byhalia, MS | Region 15, New Orleans, Louisiana |
 | Jones Lang LaSalle Americas, Inc. | [01-RC-392819](/case/01-RC-392819) | 08/14/2026 | Open | 3 | West Greenwich, RI | Region 01, Boston, Massachusetts |
 | 710 Seeley Hotel Partners, LLC d/b/a Hampton Inn and Suites Chicago Medical District UIC | [13-CA-392856](/case/13-CA-392856) | 08/14/2026 | Open | 25 | Chicago, IL | Region 13, Chicago, Illinois |
-| ABM | [13-CA-392861](/case/13-CA-392861) | 08/14/2026 | Open | 11 | Chicago, IL | Region 13, Chicago, Illinois |
 | UAW Local 588 (Sipi Metals Corporation) | [13-CB-392867](/case/13-CB-392867) | 08/14/2026 | Open | 100 | Chicago, IL | Region 13, Chicago, Illinois |
 | United States Postal Service | [10-CA-392863](/case/10-CA-392863) | 08/14/2026 | Open | 50 | Birmingham, AL | Region 10, Atlanta, Georgia |
 | Volvo Group North America | [15-CA-392857](/case/15-CA-392857) | 08/14/2026 | Open | 525 | Byhalia, MS | Region 15, New Orleans, Louisiana |
-| Consejo de Uniones de Trabajadores de Muelles, ILA, Local 1740( Luis Ayala Colon & Sucrs., Inc.) | [12-CB-392864](/case/12-CB-392864) | 08/14/2026 | Open | 1000 | San Juan, PR | Region 12, Tampa, Florida |
 | King David | [08-CA-392871](/case/08-CA-392871) | 08/14/2026 | Open | 530 | Beachwood, OH | Region 08, Cleveland, Ohio |
 | Luis A. Ayala Col?n K Sucrs., Inc. | [12-CA-392866](/case/12-CA-392866) | 08/14/2026 | Open | 1000 | Ponce, PR | Region 12, Tampa, Florida |
 | St. Martin's In The Pines | [10-RC-392876](/case/10-RC-392876) | 08/14/2026 | Open | 58 | Birmingham, AL | Region 10, Atlanta, Georgia |
@@ -25,6 +23,8 @@
 | Sharp Healthcare d/b/a Sharp Mesa Vista Hospital | [21-CA-392884](/case/21-CA-392884) | 08/14/2026 | Open | 1000 | San Diego, CA | Region 21, Los Angeles, California |
 | RATP Dev, Inc. | [10-RC-392839](/case/10-RC-392839) | 08/14/2026 | Open | 85 | Asheville, NC | Region 10, Atlanta, Georgia |
 | Alaska Medical Employees Association (AMEA) — Kodiak, affiliated with Teamsters Local 959 (Providence Kodiak Island Medical Center) | [19-CB-392881](/case/19-CB-392881) | 08/14/2026 | Open | 10 | Kodiak, AK | Region 19, Seattle, Washington |
+| Consejo de Uniones de Trabajadores de Muelles, ILA, Local 1740( Luis Ayala Colon & Sucrs., Inc.) | [12-CB-392864](/case/12-CB-392864) | 08/14/2026 | Open | 1000 | San Juan, PR | Region 12, Tampa, Florida |
+| ABM | [13-CA-392861](/case/13-CA-392861) | 08/14/2026 | Open | 11 | Chicago, IL | Region 13, Chicago, Illinois |
 | John Mansville | [25-CA-392765](/case/25-CA-392765) | 08/13/2026 | Open | 100 | Richmond, IN | Region 25, Indianapolis, Indiana |
 | IMI Indiana, LLC | [25-RC-392760](/case/25-RC-392760) | 08/13/2026 | Open | 13 | Fishers, IN | Region 25, Indianapolis, Indiana |
 | Ryder Truck Rental | [14-RC-392781](/case/14-RC-392781) | 08/13/2026 | Open | 3 | Wood River, IL | Region 14, Saint Louis, Missouri |
@@ -61,6 +61,7 @@
 | Camo Hospitality Inc. d/b/a CAMO Eats | [15-CA-392865](/case/15-CA-392865) | 08/13/2026 | Open | 20 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | WGMA Midgulf Division | [15-CA-392880](/case/15-CA-392880) | 08/13/2026 | Open | 1000 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | United States Postal Service | [21-CA-392840](/case/21-CA-392840) | 08/13/2026 | Open | 70 | Westminster, CA | Region 21, Los Angeles, California |
+| IUE-CWA Local 86116 | [14-CB-392886](/case/14-CB-392886) | 08/13/2026 | Open | 700 | Saint Joseph, MO | Region 14, Saint Louis, Missouri |
 | St. Michael's Medical Center | [22-RC-392696](/case/22-RC-392696) | 08/12/2026 | Open | 2 | Newark, NJ | Region 22, Newark, New Jersey |
 | International Union of Painters and Allied Trades, District Council 5 (Specialty Finishes, LLC) | [19-CB-392734](/case/19-CB-392734) | 08/12/2026 | Open | 1 | Seattle, WA | Region 19, Seattle, Washington |
 | Ascension Living at Our Lady of Peace | [03-CA-392719](/case/03-CA-392719) | 08/12/2026 | Open | 160 | Lewiston, NY | Region 03, Buffalo, New York |
@@ -97,6 +98,5 @@
 | The Electric Materials Company (TEMCO) | [06-CA-392745](/case/06-CA-392745) | 08/12/2026 | Open | 200 | North East, PA | Region 06, Pittsburgh, Pennsylvania |
 | IKEA Distribution Center | [10-CA-392743](/case/10-CA-392743) | 08/12/2026 | Open | 200 | Port Wentworth, GA | Region 10, Atlanta, Georgia |
 | CRRC Sifang America | [13-CA-392726](/case/13-CA-392726) | 08/12/2026 | Open | 50 | Chicago, IL | Region 13, Chicago, Illinois |
-| SMART Local 71 (JW Danforth) | [03-CB-392753](/case/03-CB-392753) | 08/12/2026 | Open | 50 | Buffalo, NY | Region 03, Buffalo, New York |
 | Indiana Sugars Company | [13-CA-392735](/case/13-CA-392735) | 08/12/2026 | Open | 50 | Gary, IN | Region 13, Chicago, Illinois |
 | Culinary Workers Union Local 226 a/w UNITE HERE International Union (Signature Condominiums at MGM Grand) | [28-CB-392832](/case/28-CB-392832) | 08/12/2026 | Open | 1 | Las Vegas, NV | Region 28, Phoenix, Arizona |
