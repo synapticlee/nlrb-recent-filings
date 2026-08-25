@@ -1,7 +1,6 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ambulance Billing Services | [25-CA-393301](/case/25-CA-393301) | 08/21/2026 | Open | 17 | Elkhart, IN | Region 25, Indianapolis, Indiana |
-| Teamsters Local Union 115 Drexel University) | [04-CB-393295](/case/04-CB-393295) | 08/21/2026 | Open | 88 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
 | Brightspeed | [14-CA-393319](/case/14-CA-393319) | 08/21/2026 | Open | 2 | Osage City, KS | Region 14, Saint Louis, Missouri |
 | Wieland/Chase llc. | [08-CA-393322](/case/08-CA-393322) | 08/21/2026 | Open | 300 | Holiday City, OH | Region 08, Cleveland, Ohio |
 | National Postal Mail Handlers Union (United States Postal Service) | [13-CB-393306](/case/13-CB-393306) | 08/21/2026 | Open | 25 | Forest Park, IL | Region 13, Chicago, Illinois |
@@ -28,6 +27,7 @@
 | NALC Branch 1100 (United States Postal Service) | [21-CB-393358](/case/21-CB-393358) | 08/21/2026 | Open | 50 | Mission Viejo, CA | Region 21, Los Angeles, California |
 | Payless Foods Inc. | [19-CA-393365](/case/19-CA-393365) | 08/21/2026 | Open | 30 | Freeland, WA | Region 19, Seattle, Washington |
 | San Gabriel-Pomona Valleys Developmental (dba San Gabriel/Pomona Regional Center) | [21-RC-393363](/case/21-RC-393363) | 08/21/2026 | Open | 425 | Pomona, CA | Region 21, Los Angeles, California |
+| Teamsters Local Union 115 Drexel University) | [04-CB-393295](/case/04-CB-393295) | 08/21/2026 | Open | 88 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
 | Unite Here Local 11 (Disney Grand California Hotel) | [21-CB-393280](/case/21-CB-393280) | 08/20/2026 | Open | 500 | Anaheim, CA | Region 21, Los Angeles, California |
 | Oregon Trail Electrical Cooperative | [19-CA-393283](/case/19-CA-393283) | 08/20/2026 | Open | 100 | Baker City, OR | Region 19, Seattle, Washington |
 | Electrical Industrial Company/E.I.C. (Direct Employer) and Domaco Encocorp Construction/D.E.C. (GC and Joint Respondent) | [10-CA-393226](/case/10-CA-393226) | 08/20/2026 | Open | 200 | Madison, NC | Region 10, Atlanta, Georgia |
@@ -59,7 +59,6 @@
 | Schnellecke Logistics | [10-CA-393316](/case/10-CA-393316) | 08/20/2026 | Open | 350 | Chattanooga, TN | Region 10, Atlanta, Georgia |
 | Strong Memorial Hospital | [03-RM-393266](/case/03-RM-393266) | 08/20/2026 | Open | 6 | Rochester, NY | Region 03, Buffalo, New York |
 | United States Postal Service | [14-CA-393305](/case/14-CA-393305) | 08/20/2026 | Open | 3 | Craig, NE | Region 14, Saint Louis, Missouri |
-| International Brotherhood of Electrical Workers Local 1141 | [14-CA-393307](/case/14-CA-393307) | 08/20/2026 | Open | 3 | Edmond, OK | Region 14, Saint Louis, Missouri |
 | Xanitos | [21-CA-393346](/case/21-CA-393346) | 08/20/2026 | Open | 1000 | Monterey Park, CA | Region 21, Los Angeles, California |
 | Utility Safety & Design, Inc. | [14-CA-393282](/case/14-CA-393282) | 08/20/2026 | Open | 0 | Wichita, KS | Region 14, Saint Louis, Missouri |
 | SEIU-USWW (Xanitos, Inc.) | [21-CB-393323](/case/21-CB-393323) | 08/20/2026 | Open | 1000 | Monterey Park, CA | Region 21, Los Angeles, California |
@@ -71,6 +70,7 @@
 | North Coast States Regional Council of Carpenters | [19-CA-393357](/case/19-CA-393357) | 08/20/2026 | Open | 500 | Roseburg, OR | Region 19, Seattle, Washington |
 | Hillside Animal Hospital | [14-CA-393273](/case/14-CA-393273) | 08/20/2026 | Open | 15 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
 | AMIRIZE | [15-CA-393233](/case/15-CA-393233) | 08/20/2026 | Open | 410 | Prescott, AR | Region 15, New Orleans, Louisiana |
+| International Brotherhood of Electrical Workers Local 1141 | [14-CA-393307](/case/14-CA-393307) | 08/20/2026 | Open | 3 | Edmond, OK | Region 14, Saint Louis, Missouri |
 | The Jonathan Club | [21-CA-393187](/case/21-CA-393187) | 08/19/2026 | Open | 129 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Gateway Terminals | [10-CA-393218](/case/10-CA-393218) | 08/19/2026 | Open | 1200 | Savannah, GA | Region 10, Atlanta, Georgia |
 | General Motors LLC Toledo Propulsion Systems | [08-CA-393205](/case/08-CA-393205) | 08/19/2026 | Open | 1200 | Toledo, OH | Region 08, Cleveland, Ohio |
