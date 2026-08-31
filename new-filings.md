@@ -62,7 +62,6 @@
 | ILWU Local 5 (Rose Haven) | [19-CB-393775](/case/19-CB-393775) | 08/27/2026 | Open | 25 | Portland, OR | Region 19, Seattle, Washington |
 | Ohio Aluminum Industries Inc | [08-CA-393791](/case/08-CA-393791) | 08/27/2026 | Open | 150 | Garfield Heights, OH | Region 08, Cleveland, Ohio |
 | Georgia Pacific Corrugated | [10-CA-393711](/case/10-CA-393711) | 08/27/2026 | Open | 150 | Ridgeway, VA | Region 10, Atlanta, Georgia |
-| AT&T | [14-CA-393767](/case/14-CA-393767) | 08/27/2026 | Open | 200 | Tulsa, OK | Region 14, Saint Louis, Missouri |
 | Unite HERE Local 11 (Universal Studios) | [31-CB-393745](/case/31-CB-393745) | 08/27/2026 | Open | 500 | Los Angeles, CA | Region 31, Los Angeles, California |
 | Aramark Educational Services, LLC | [28-CA-393812](/case/28-CA-393812) | 08/27/2026 | Open | 500 | Tempe, AZ | Region 28, Phoenix, Arizona |
 | Carpenter Latrobe Specialty Mentals | [06-CA-393818](/case/06-CA-393818) | 08/27/2026 | Open | 450 | Latrobe, PA | Region 06, Pittsburgh, Pennsylvania |
@@ -76,6 +75,7 @@
 | American Postal Workers Union (United States Postal Service) | [27-CB-393842](/case/27-CB-393842) | 08/27/2026 | Open | 10 | Avon, CO | Region 27, Denver, Colorado |
 | Philips North America, LLC | [19-RC-393816](/case/19-RC-393816) | 08/27/2026 | Open | 23 | Cle Elum, WA | Region 19, Seattle, Washington |
 | UNITE HERE Local 5 (Sheraton Waikiki) | [20-CB-393815](/case/20-CB-393815) | 08/27/2026 | Open | 1 | Honolulu, HI | Region 20, San Francisco, California |
+| AT&T | [14-CA-393767](/case/14-CA-393767) | 08/27/2026 | Open | 200 | Tulsa, OK | Region 14, Saint Louis, Missouri |
 | United Auto Workers, Local 194 (Hydro Aluminum Extrusion) | [25-CB-393616](/case/25-CB-393616) | 08/26/2026 | Open | 70 | North Liberty, IN | Region 25, Indianapolis, Indiana |
 | Mercedes-Benz of Birmingham | [10-CA-393629](/case/10-CA-393629) | 08/26/2026 | Open | 100 | Irondale, AL | Region 10, Atlanta, Georgia |
 | Think Pavers Hardscaping LLC | [04-CA-393579](/case/04-CA-393579) | 08/26/2026 | Open | 15 | Mount Royal, NJ | Region 04, Philadelphia, Pennsylvania |
@@ -90,7 +90,6 @@
 | Peoples Gas, Light and Coke Company | [13-CA-393612](/case/13-CA-393612) | 08/26/2026 | Open | 1500 | Chicago, IL | Region 13, Chicago, Illinois |
 | Golden Krust Caribbean Bakery, Inc | [02-UD-393625](/case/02-UD-393625) | 08/26/2026 | Open | 55 | Bronx, NY | Region 02, New York, New York |
 | Lineage Logistics | [19-RC-393627](/case/19-RC-393627) | 08/26/2026 | Open | 18 | Puyallup, WA | Region 19, Seattle, Washington |
-| General Motors | [07-CA-393666](/case/07-CA-393666) | 08/26/2026 | Open | 3634 | Delta, MI | Region 07, Detroit, Michigan |
 | IMI Indiana, LLC | [25-RC-393626](/case/25-RC-393626) | 08/26/2026 | Open | 4 | Fishers, IN | Region 25, Indianapolis, Indiana |
 | Union of Operating Engineers Local 926 (Terry Nix Equipment LLC) | [10-CB-393607](/case/10-CB-393607) | 08/26/2026 | Open | 25 | Rex, GA | Region 10, Atlanta, Georgia |
 | Providence Housing Authority | [01-CA-393665](/case/01-CA-393665) | 08/26/2026 | Open | 50 | Providence, RI | Region 01, Boston, Massachusetts |
@@ -100,3 +99,4 @@
 | LifeStance Health | [08-CA-393628](/case/08-CA-393628) | 08/26/2026 | Open | 100 | Beachwood, OH | Region 08, Cleveland, Ohio |
 | All Freight Trans Inc. | [25-CA-393638](/case/25-CA-393638) | 08/26/2026 | Open | 150 | Montgomery, IL | Region 25, Indianapolis, Indiana |
 | United Parcel Service | [10-CA-393684](/case/10-CA-393684) | 08/26/2026 | Open | 100 | Roanoke, VA | Region 10, Atlanta, Georgia |
+| Starbucks Corporation | [25-RC-393671](/case/25-RC-393671) | 08/26/2026 | Open | 16 | Jasper, IN | Region 25, Indianapolis, Indiana |
