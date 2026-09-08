@@ -35,7 +35,6 @@
 | Celestial Healthcare Services | [10-CA-394157](/case/10-CA-394157) | 09/03/2026 | Open | 9 | Hull, GA | Region 10, Atlanta, Georgia |
 | United Auto Workers Local 5287 (Thomas Built Buses) | [10-CB-394172](/case/10-CB-394172) | 09/03/2026 | Open | 3000 | High Point, NC | Region 10, Atlanta, Georgia |
 | SERVEONE America Inc. | [08-RC-394209](/case/08-RC-394209) | 09/03/2026 | Open | 11 | Warren, OH | Region 08, Cleveland, Ohio |
-| National Postal Mail Handler Union Local 329 (United States Postal Service) | [15-CB-394198](/case/15-CB-394198) | 09/03/2026 | Open | 10 | Memphis, TN | Region 15, New Orleans, Louisiana |
 | MV Transportation, Inc. | [13-CA-394197](/case/13-CA-394197) | 09/03/2026 | Open | 28 | Chicago, IL | Region 13, Chicago, Illinois |
 | SRM Eastern, LLC | [04-CA-394202](/case/04-CA-394202) | 09/03/2026 | Open | 13 | Sharon Hill, PA | Region 04, Philadelphia, Pennsylvania |
 | Dave Steel Company, Inc | [10-RD-394205](/case/10-RD-394205) | 09/03/2026 | Open | 54 | Asheville, NC | Region 10, Atlanta, Georgia |
@@ -63,6 +62,7 @@
 | Fresenius Loma Linda | [31-CA-394239](/case/31-CA-394239) | 09/03/2026 | Open | 15 | San Bernardino, CA | Region 31, Los Angeles, California |
 | Pro-Tec Fire Services | [21-RC-394155](/case/21-RC-394155) | 09/03/2026 | Open | 5 | Carlsbad, CA | Region 21, Los Angeles, California |
 | Stericycle, Inc. | [13-RC-394191](/case/13-RC-394191) | 09/03/2026 | Open | 4 | Schiller Park, IL | Region 13, Chicago, Illinois |
+| National Postal Mail Handler Union Local 329 (United States Postal Service) | [15-CB-394198](/case/15-CB-394198) | 09/03/2026 | Open | 10 | Memphis, TN | Region 15, New Orleans, Louisiana |
 | 1199C SEIU (Complete Care Marcella) | [04-CB-394068](/case/04-CB-394068) | 09/02/2026 | Open | 100 | Iselin, NJ | Region 04, Philadelphia, Pennsylvania |
 | Songer Steel Services Inc | [25-CA-394069](/case/25-CA-394069) | 09/02/2026 | Open | 54 | Burns Harbor, IN | Region 25, Indianapolis, Indiana |
 | United States Postal Service | [04-CA-394037](/case/04-CA-394037) | 09/02/2026 | Open | 70 | Falls, PA | Region 04, Philadelphia, Pennsylvania |
