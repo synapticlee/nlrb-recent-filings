@@ -93,10 +93,10 @@
 | Securitas Security Services USA, Inc. | [20-CA-395689](/case/20-CA-395689) | 09/24/2026 | Open | 25 | San Francisco, CA | Region 20, San Francisco, California |
 | Securitas Security Services USA, Inc. | [20-CA-395692](/case/20-CA-395692) | 09/24/2026 | Open | 25 | San Francisco, CA | Region 20, San Francisco, California |
 | Securitas Security Services USA, Inc. | [20-CA-395691](/case/20-CA-395691) | 09/24/2026 | Open | 25 | San Francisco, CA | Region 20, San Francisco, California |
+| Cleveland Clinic Lutheran Hospital | [08-CA-395747](/case/08-CA-395747) | 09/24/2026 | Open | 200 | Cleveland, OH | Region 08, Cleveland, Ohio |
+| Cleveland Clinic Lutheran Hospital | [08-CA-395748](/case/08-CA-395748) | 09/24/2026 | Open | 200 | Cleveland, OH | Region 08, Cleveland, Ohio |
 | C.G. Professional Service, Inc | [13-RM-395545](/case/13-RM-395545) | 09/23/2026 | Open | 3 | Orland Park, IL | Region 13, Chicago, Illinois |
 | Beach Gardens Nursing and Rehabilitation Center | [29-CA-395521](/case/29-CA-395521) | 09/23/2026 | Open | 50 | Far Rockaway, NY | Region 29, Brooklyn, New York |
 | Bella Roma | [25-CA-395557](/case/25-CA-395557) | 09/23/2026 | Open | 10 | Jeffersonville, IN | Region 25, Indianapolis, Indiana |
 | Teamsters Local 728 (United Parcel Service) | [10-CB-395578](/case/10-CB-395578) | 09/23/2026 | Open | 1 | Doraville, GA | Region 10, Atlanta, Georgia |
 | MetroRock Essex, Vertical North LLC | [03-CA-395556](/case/03-CA-395556) | 09/23/2026 | Open | 35 | Essex Junction, VT | Region 03, Buffalo, New York |
-| Rinker Materials | [27-CA-395559](/case/27-CA-395559) | 09/23/2026 | Open | 30 | Billings, MT | Region 27, Denver, Colorado |
-| Mid-Atlantic Regional Joint Board Workers United Local 1493 (Lear Corp.) | [04-CB-395577](/case/04-CB-395577) | 09/23/2026 | Open | 88 | Frederick, MD | Region 04, Philadelphia, Pennsylvania |
