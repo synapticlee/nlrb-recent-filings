@@ -4,7 +4,6 @@
 | APWU Union Local 0453 (United States Postal Service) | [10-CB-396208](/case/10-CB-396208) | 10/02/2026 | Open | 1 | Glasgow, KY | Region 10, Atlanta, Georgia |
 | Traffic Engineering Services | [04-CA-396207](/case/04-CA-396207) | 10/02/2026 | Open | 20 | Harrisburg, PA | Region 04, Philadelphia, Pennsylvania |
 | Bettendorf Health Care Center | [25-CA-396201](/case/25-CA-396201) | 10/02/2026 | Open | 50 | Bettendorf, IA | Region 25, Indianapolis, Indiana |
-| United States Postal Service | [25-CA-396210](/case/25-CA-396210) | 10/02/2026 | Open | 115 | Owensboro, KY | Region 25, Indianapolis, Indiana |
 | Pratt Institute | [29-CA-396199](/case/29-CA-396199) | 10/02/2026 | Open | 500 | Brooklyn, NY | Region 29, Brooklyn, New York |
 | United States Postal Service | [15-CA-396179](/case/15-CA-396179) | 10/02/2026 | Open | 57 | Monroe, LA | Region 15, New Orleans, Louisiana |
 | Hilton Hawaiian Village | [20-CA-396209](/case/20-CA-396209) | 10/02/2026 | Open | 1000 | Honolulu, HI | Region 20, San Francisco, California |
@@ -20,6 +19,7 @@
 | System Service Specialist | [27-RC-396224](/case/27-RC-396224) | 10/02/2026 | Open | 12 | Layton, UT | Region 27, Denver, Colorado |
 | Stericycle | [32-RC-396192](/case/32-RC-396192) | 10/02/2026 | Open | 19 | Fresno, CA | Region 32, Oakland, California |
 | South Central Family Health Center | [21-CA-396233](/case/21-CA-396233) | 10/02/2026 | Open | 50 | Los Angeles, CA | Region 21, Los Angeles, California |
+| United States Postal Service | [25-CA-396210](/case/25-CA-396210) | 10/02/2026 | Open | 115 | Owensboro, KY | Region 25, Indianapolis, Indiana |
 | Northeast Center for Rehabilitation and Brain Injury | [03-CA-396097](/case/03-CA-396097) | 10/01/2026 | Open | 400 | Lake Katrine, NY | Region 03, Buffalo, New York |
 | SEIU, LOCAL 32-BJ | [22-CB-396096](/case/22-CB-396096) | 10/01/2026 | Open | 30 | Jersey City, NJ | Region 22, Newark, New Jersey |
 | ATI Flat Rolled Products Holdings, LLC | [06-CA-396099](/case/06-CA-396099) | 10/01/2026 | Open | 285 | Brackenridge, PA | Region 06, Pittsburgh, Pennsylvania |
@@ -28,7 +28,6 @@
 | United States Postal Service | [12-CA-396133](/case/12-CA-396133) | 10/01/2026 | Open | 100 | Bayamon, PR | Region 12, Tampa, Florida |
 | Estess Ag Services LLC dba Estess Utility Services | [10-CA-396163](/case/10-CA-396163) | 10/01/2026 | Open | 35 | Fortson, GA | Region 10, Atlanta, Georgia |
 | North American Corporation | [13-CA-396155](/case/13-CA-396155) | 10/01/2026 | Open | 50 | Glenview, IL | Region 13, Chicago, Illinois |
-| O'Connell Electric Company | [03-CA-396159](/case/03-CA-396159) | 10/01/2026 | Open | 40 | Rochester, NY | Region 03, Buffalo, New York |
 | Securitas Security Services | [19-RC-396091](/case/19-RC-396091) | 10/01/2026 | Open | 45 | Everett, WA | Region 19, Seattle, Washington |
 | South Jersey Area Local 526 - APWU | [04-CB-396161](/case/04-CB-396161) | 10/01/2026 | Open | 0 | Williamstown, NJ | Region 04, Philadelphia, Pennsylvania |
 | CHL Logistics | [13-CA-396153](/case/13-CA-396153) | 10/01/2026 | Open | 20 | Harvey, IL | Region 13, Chicago, Illinois |
@@ -55,7 +54,6 @@
 | IUE-CWA, Local 447/IUE-CWA International Union (L-3 Harris Technology, Inc.) | [22-CB-396129](/case/22-CB-396129) | 10/01/2026 | Open | 1000 | Clifton, NJ | Region 22, Newark, New Jersey |
 | SP+ a Metropolis Company | [13-CA-396116](/case/13-CA-396116) | 10/01/2026 | Open | 757 | Chicago, IL | Region 13, Chicago, Illinois |
 | United States Postal Service | [25-CA-396092](/case/25-CA-396092) | 10/01/2026 | Open | 115 | Owensboro, KY | Region 25, Indianapolis, Indiana |
-| Solution One Industries, Inc. | [05-CA-396150](/case/05-CA-396150) | 10/01/2026 | Open | 100 | Williamsburg, VA | Region 05, Baltimore, Maryland |
 | Marder Trawling Inc. and Workforce Unlimited Inc. (Joint Employers) | [01-CA-396084](/case/01-CA-396084) | 10/01/2026 | Open | 50 | New Bedford, MA | Region 01, Boston, Massachusetts |
 | Osco Inc. | [25-CA-396152](/case/25-CA-396152) | 10/01/2026 | Open | 1 | Minooka, IL | Region 25, Indianapolis, Indiana |
 | Shred-It | [01-CA-396160](/case/01-CA-396160) | 10/01/2026 | Open | 15 | Pawtucket, RI | Region 01, Boston, Massachusetts |
@@ -63,7 +61,6 @@
 | PepsiCo Beverages North America | [14-CA-396162](/case/14-CA-396162) | 10/01/2026 | Open | 100 | Kinloch, MO | Region 14, Saint Louis, Missouri |
 | The Westin Long Beach | [21-CA-396175](/case/21-CA-396175) | 10/01/2026 | Open | 50 | Long Beach, CA | Region 21, Los Angeles, California |
 | Kaiser Permanente | [19-CA-396177](/case/19-CA-396177) | 10/01/2026 | Open | 1000 | Salem, OR | Region 19, Seattle, Washington |
-| Ferguson Electric Construction | [03-CA-396170](/case/03-CA-396170) | 10/01/2026 | Open | 100 | Buffalo, NY | Region 03, Buffalo, New York |
 | Carson Tahoe Health | [32-CA-396181](/case/32-CA-396181) | 10/01/2026 | Open | 1700 | Carson City, NV | Region 32, Oakland, California |
 | M&M Entertainment Inc. | [19-CA-396183](/case/19-CA-396183) | 10/01/2026 | Open | 50 | Everett, WA | Region 19, Seattle, Washington |
 | J.E. Richards | [05-CA-396125](/case/05-CA-396125) | 10/01/2026 | Open | 50 | Sterling, VA | Region 05, Baltimore, Maryland |
@@ -100,3 +97,6 @@
 | Doyon/Aramark Denali National Park Concession Joint Venture at Denali National Park and Preserve | [19-CA-396230](/case/19-CA-396230) | 10/01/2026 | Open | 120 | Anchorage, AK | Region 19, Seattle, Washington |
 | Providence Santa Rosa Memorial Hospital | [20-CA-396232](/case/20-CA-396232) | 10/01/2026 | Open | 2000 | Santa Rosa, CA | Region 20, San Francisco, California |
 | USPS | [32-CA-396231](/case/32-CA-396231) | 10/01/2026 | Open | 75 | Carson City, NV | Region 32, Oakland, California |
+| MV Transportation, Inc. | [20-CA-396227](/case/20-CA-396227) | 10/01/2026 | Open | 23 | Redwood City, CA | Region 20, San Francisco, California |
+| United States Postal Service | [32-CA-396234](/case/32-CA-396234) | 10/01/2026 | Open | 75 | Carson City, NV | Region 32, Oakland, California |
+| AHMC Seton Medical Center and AHMC Seton Medical Center Coastside | [20-CA-396228](/case/20-CA-396228) | 10/01/2026 | Open | 100 | Daly City, CA | Region 20, San Francisco, California |
