@@ -39,7 +39,6 @@
 | Stoneledge Furniture / Ashley Furniture | [31-CA-396665](/case/31-CA-396665) | 10/08/2026 | Open | 15 | Canoga Park, CA | Region 31, Los Angeles, California |
 | United States Postal Service | [10-CA-396580](/case/10-CA-396580) | 10/08/2026 | Open | 900 | Nashville, TN | Region 10, Atlanta, Georgia |
 | JT4 LLC | [28-RC-396689](/case/28-RC-396689) | 10/08/2026 | Open | 21 | Indian Springs, NV | Region 28, Phoenix, Arizona |
-| Smart Local 170 (Simpson Strong-Tie Company Inc.) | [21-CB-396682](/case/21-CB-396682) | 10/08/2026 | Open | 100 | Pico Rivera, CA | Region 21, Los Angeles, California |
 | Jazz Casino Company LLC d/b/a/ Caesars New Orleans | [15-UC-396640](/case/15-UC-396640) | 10/08/2026 | Open | 301 | New Orleans, LA | Region 15, New Orleans, Louisiana |
 | GE Vernova | [06-CA-396660](/case/06-CA-396660) | 10/08/2026 | Open | 150 | Belle Vernon, PA | Region 06, Pittsburgh, Pennsylvania |
 | International Brotherhood of Electrical Workers Local 1997 (Atlanta Gas Light) | [10-CB-396705](/case/10-CB-396705) | 10/08/2026 | Open | 1 | Atlanta, GA | Region 10, Atlanta, Georgia |
@@ -47,7 +46,6 @@
 | Tech Mahindra | [10-CA-396704](/case/10-CA-396704) | 10/08/2026 | Open | 147000 | Atlanta, GA | Region 10, Atlanta, Georgia |
 | Teamsters Local 734 (Alpha Baking Company) | [13-CB-396669](/case/13-CB-396669) | 10/08/2026 | Open | 200 | Chicago, IL | Region 13, Chicago, Illinois |
 | Verano Holdings, LLC d/b/a Zen Leaf | [13-RD-396623](/case/13-RD-396623) | 10/08/2026 | Open | 12 | Highland Park, IL | Region 13, Chicago, Illinois |
-| Weyerhaeuser Company | [15-CA-396729](/case/15-CA-396729) | 10/08/2026 | Open | 10 | Emerson, AR | Region 15, New Orleans, Louisiana |
 | Habasit Globe, Inc. | [03-CA-396728](/case/03-CA-396728) | 10/08/2026 | Open | 30 | Buffalo, NY | Region 03, Buffalo, New York |
 | 75 Lewis Avenue LLC | [29-RC-396739](/case/29-RC-396739) | 10/08/2026 | Open | 4 | Brooklyn, NY | Region 29, Brooklyn, New York |
 | Dairyland Power Cooperative | [18-RC-396644](/case/18-RC-396644) | 10/08/2026 | Open | 5 | Cambridge, WI | Region 18, Minneapolis, Minnesota |
@@ -66,7 +64,6 @@
 | Holly Logistics Services, LLC | [28-RC-396741](/case/28-RC-396741) | 10/08/2026 | Open | 12 | Artesia, NM | Region 28, Phoenix, Arizona |
 | Fidelity Talentsource | [01-CA-396745](/case/01-CA-396745) | 10/08/2026 | Open | 10000 | Boston, MA | Region 01, Boston, Massachusetts |
 | Starbucks Corporation | [19-CA-396697](/case/19-CA-396697) | 10/08/2026 | Open | 200000 | Seattle, WA | Region 19, Seattle, Washington |
-| ARG Industrial (aka Alaska Rubber Group) | [19-CA-396748](/case/19-CA-396748) | 10/08/2026 | Open | 225 | Anchorage, AK | Region 19, Seattle, Washington |
 | United States Postal Service | [01-CA-396757](/case/01-CA-396757) | 10/08/2026 | Open | 1001 | Wilbraham, MA | Region 01, Boston, Massachusetts |
 | USPS | [12-CA-396674](/case/12-CA-396674) | 10/08/2026 | Open | 30 | Toa Baja, PR | Region 12, Tampa, Florida |
 | MV Transportation | [10-RC-396717](/case/10-RC-396717) | 10/08/2026 | Open | 5 | Raleigh, NC | Region 10, Atlanta, Georgia |
@@ -94,6 +91,9 @@
 | Providence St. Joseph Hospital Orange | [21-RC-396657](/case/21-RC-396657) | 10/08/2026 | Open | 1000 | Orange, CA | Region 21, Los Angeles, California |
 | United States Postal Service | [32-CA-396784](/case/32-CA-396784) | 10/08/2026 | Open | 75 | Carson City, NV | Region 32, Oakland, California |
 | Peoria Dental 1, LLC d/b/a CR Smiles Dental Center / Simply Implants Institute | [28-CA-396786](/case/28-CA-396786) | 10/08/2026 | Open | 16 | Glendale, AZ | Region 28, Phoenix, Arizona |
+| Weyerhaeuser Company | [15-CA-396729](/case/15-CA-396729) | 10/08/2026 | Open | 10 | Emerson, AR | Region 15, New Orleans, Louisiana |
+| Smart Local 170 (Simpson Strong-Tie Company Inc.) | [21-CB-396682](/case/21-CB-396682) | 10/08/2026 | Open | 100 | Pico Rivera, CA | Region 21, Los Angeles, California |
+| ARG Industrial (aka Alaska Rubber Group) | [19-CA-396748](/case/19-CA-396748) | 10/08/2026 | Open | 225 | Anchorage, AK | Region 19, Seattle, Washington |
 | US Foods | [21-RC-396696](/case/21-RC-396696) | 10/08/2026 | Open | 1 | La Mirada, CA | Region 21, Los Angeles, California |
 | US Facilities Company Inc. | [04-RC-396481](/case/04-RC-396481) | 10/07/2026 | Open | 15 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
 | Unite Here Local 100 (FLIK Hospitality Group) | [22-CB-396544](/case/22-CB-396544) | 10/07/2026 | Open | 100 | Newark, NJ | Region 22, Newark, New Jersey |
