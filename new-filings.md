@@ -9,7 +9,6 @@
 | Billor U.S. Transport | [14-CA-397206](/case/14-CA-397206) | 10/16/2026 | Open | 200 | Sauget, IL | Region 14, Saint Louis, Missouri |
 | Farmington Ministerial Alliance | [14-CA-397204](/case/14-CA-397204) | 10/16/2026 | Open | 23 | Farmington, MO | Region 14, Saint Louis, Missouri |
 | Hy-Vee, Inc | [14-CA-397210](/case/14-CA-397210) | 10/16/2026 | Open | 25 | Gladstone, MO | Region 14, Saint Louis, Missouri |
-| United States Postal Service | [12-CA-397207](/case/12-CA-397207) | 10/16/2026 | Open | 25 | Humacao, PR | Region 12, Tampa, Florida |
 | Lane Enterprises LLC | [31-RD-397203](/case/31-RD-397203) | 10/16/2026 | Open | 20 | Fontana, CA | Region 31, Los Angeles, California |
 | Providence at Home with Compassus | [19-RC-397208](/case/19-RC-397208) | 10/16/2026 | Open | 5 | Everett, WA | Region 19, Seattle, Washington |
 | KR Contracting, Inc. | [05-RC-397176](/case/05-RC-397176) | 10/16/2026 | Open | 28 | Alexandria, VA | Region 05, Baltimore, Maryland |
@@ -38,8 +37,9 @@
 | Portland General Electric | [19-RC-397216](/case/19-RC-397216) | 10/16/2026 | Open | 3 | Beaverton, OR | Region 19, Seattle, Washington |
 | Transdev | [21-RC-397219](/case/21-RC-397219) | 10/16/2026 | Open | 4 | Chula Vista, CA | Region 21, Los Angeles, California |
 | Bay Area Discovery Museum | [20-CA-397221](/case/20-CA-397221) | 10/16/2026 | Open | 120 | San Francisco, CA | Region 20, San Francisco, California |
-| Museum of Contemporary Art ("MOCA") | [21-CA-397222](/case/21-CA-397222) | 10/16/2026 | Open | 90 | Los Angeles, CA | Region 21, Los Angeles, California |
 | California Forensic Medical Group | [32-RC-397220](/case/32-RC-397220) | 10/16/2026 | Open | 2 | Dublin, CA | Region 32, Oakland, California |
+| Museum of Contemporary Art ("MOCA") | [21-CA-397222](/case/21-CA-397222) | 10/16/2026 | Open | 90 | Los Angeles, CA | Region 21, Los Angeles, California |
+| United States Postal Service | [12-CA-397207](/case/12-CA-397207) | 10/16/2026 | Open | 25 | Humacao, PR | Region 12, Tampa, Florida |
 | Southern California Gas Company (SoCalGas) | [21-CA-397066](/case/21-CA-397066) | 10/15/2026 | Open | 1000 | Los Angeles, CA | Region 21, Los Angeles, California |
 | International Brotherhood of Electrical workers (FIRECOM) | [29-CB-397075](/case/29-CB-397075) | 10/15/2026 | Open | 50 | Queens, NY | Region 29, Brooklyn, New York |
 | Prime Health, St. Joseph Medical Center | [13-CA-397078](/case/13-CA-397078) | 10/15/2026 | Open | 500 | Joliet, IL | Region 13, Chicago, Illinois |
