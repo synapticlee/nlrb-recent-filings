@@ -44,7 +44,6 @@
 | Unite Here Local 11 (Levy Restaurants at Crypto.com Arena) | [21-CB-398109](/case/21-CB-398109) | 10/29/2026 | Open | 50 | Los Angeles, CA | Region 21, Los Angeles, California |
 | Estes Express Lines and The Home Depot, as Joint Employers | [10-CA-398176](/case/10-CA-398176) | 10/29/2026 | Open | 30 | Stonecrest, GA | Region 10, Atlanta, Georgia |
 | Frontier Communications / Verizon Communications | [03-RC-398185](/case/03-RC-398185) | 10/29/2026 | Open | 2 | Rhinebeck (Town), NY | Region 03, Buffalo, New York |
-| Hive & Co. | [27-CA-398175](/case/27-CA-398175) | 10/29/2026 | Open | 25 | Boise, ID | Region 27, Denver, Colorado |
 | Gardenview Healthcare & Wellness Centre, LP d/b/a Claremont Heights Post Acute | [21-CA-398182](/case/21-CA-398182) | 10/29/2026 | Open | 2 | Claremont, CA | Region 21, Los Angeles, California |
 | Frontier Communications / Verizon Comm. | [03-RC-398188](/case/03-RC-398188) | 10/29/2026 | Open | 2 | Bloomfield, NY | Region 03, Buffalo, New York |
 | United States Postal Service | [15-CA-398124](/case/15-CA-398124) | 10/29/2026 | Open | 100 | Lake Charles, LA | Region 15, New Orleans, Louisiana |
@@ -89,6 +88,7 @@
 | Cargill | [32-CA-398228](/case/32-CA-398228) | 10/29/2026 | Open | 107 | Newark, CA | Region 32, Oakland, California |
 | City Heights Community Development Corporation | [21-RM-398213](/case/21-RM-398213) | 10/29/2026 | Open | 16 | San Diego, CA | Region 21, Los Angeles, California |
 | Gardenview Healthcare & Wellness Centre, LP d/b/a Claremont Heights Post Acute | [21-CA-398231](/case/21-CA-398231) | 10/29/2026 | Open | 30 | Claremont, CA | Region 21, Los Angeles, California |
+| Hive & Co. | [27-CA-398175](/case/27-CA-398175) | 10/29/2026 | Open | 25 | Boise, ID | Region 27, Denver, Colorado |
 | IATSE Local 158 Fresno (IATSE Local 158 Multi employee Hiring/Various Venues) | [32-CB-398060](/case/32-CB-398060) | 10/28/2026 | Open | 50 | Fresno, CA | Region 32, Oakland, California |
 | Bottom 2 Top Construction LLC | [15-CA-398044](/case/15-CA-398044) | 10/28/2026 | Open | 100 | Biloxi, MS | Region 15, New Orleans, Louisiana |
 | IATSE International Office | [20-CB-398056](/case/20-CB-398056) | 10/28/2026 | Open | 10 | Honolulu, HI | Region 20, San Francisco, California |
