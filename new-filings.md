@@ -12,7 +12,6 @@
 | Transdev | [05-RC-398184](/case/05-RC-398184) | 10/30/2026 | Open | 40 | Lewes, DE | Region 05, Baltimore, Maryland |
 | Aramark Facility Service and A& R Janitorial Services, as joint employers | [13-CA-398208](/case/13-CA-398208) | 10/30/2026 | Open | 1000 | Chicago, IL | Region 13, Chicago, Illinois |
 | Swedish Match North America / Phillip Morris International | [25-CA-398207](/case/25-CA-398207) | 10/30/2026 | Open | 1200 | Owensboro, KY | Region 25, Indianapolis, Indiana |
-| Ropeswing Hospitality Group/ Blake St. House | [15-CA-398186](/case/15-CA-398186) | 10/30/2026 | Open | 50 | Bentonville, AR | Region 15, New Orleans, Louisiana |
 | Service Employees International Union, Local 1 (Aramark Facility Service and A&R Janitorial Services, as joint employers) | [13-CB-398209](/case/13-CB-398209) | 10/30/2026 | Open | 1000 | Chicago, IL | Region 13, Chicago, Illinois |
 | TEKsystems Global Services, LLC | [13-CA-398210](/case/13-CA-398210) | 10/30/2026 | Open | 50 | Chicago, IL | Region 13, Chicago, Illinois |
 | National Postal Mail Handlers Union Local 297 (United States Postal Service) | [14-CB-398211](/case/14-CB-398211) | 10/30/2026 | Open | 1200 | Kansas City, MO | Region 14, Saint Louis, Missouri |
@@ -28,6 +27,7 @@
 | District Council 16 of the International Union of Painters and Allied Trades (Integrated Wall Systems, Inc.) | [20-CD-398222](/case/20-CD-398222) | 10/30/2026 | Open | 16 | Napa, CA | Region 20, San Francisco, California |
 | North Coast States Carpenter Union (Integrated Wall Systems, Inc.) | [20-CD-398221](/case/20-CD-398221) | 10/30/2026 | Open | 16 | Napa, CA | Region 20, San Francisco, California |
 | Oahu Publications, Inc. | [20-CA-398232](/case/20-CA-398232) | 10/30/2026 | Open | 50 | Honolulu, HI | Region 20, San Francisco, California |
+| Ropeswing Hospitality Group/ Blake St. House | [15-CA-398186](/case/15-CA-398186) | 10/30/2026 | Open | 50 | Bentonville, AR | Region 15, New Orleans, Louisiana |
 | T Bailey, LLC | [19-CA-398090](/case/19-CA-398090) | 10/29/2026 | Open | 56 | Anacortes, WA | Region 19, Seattle, Washington |
 | National Association of Letter Carriers (United States Postal Service) | [19-CB-398089](/case/19-CB-398089) | 10/29/2026 | Open | 1 | Klamath Falls, OR | Region 19, Seattle, Washington |
 | Aramark HQ | [04-CA-398077](/case/04-CA-398077) | 10/29/2026 | Open | 1000 | Philadelphia, PA | Region 04, Philadelphia, Pennsylvania |
