@@ -1,5 +1,9 @@
 | Company | Case Number | Date Filed | Status | No Employees | Location | Region Assigned |
 | --- | --- | --- | --- | --- | --- | --- |
+| SCP Health | [15-CA-399740](/case/15-CA-399740) | 11/23/2026 | Open | 20 | Lafayette, LA | Region 15, New Orleans, Louisiana |
+| Greenlight Dispensary | [14-CA-399751](/case/14-CA-399751) | 11/23/2026 | Open | 20 | Joplin, MO | Region 14, Saint Louis, Missouri |
+| United States Post office | [25-CA-399752](/case/25-CA-399752) | 11/23/2026 | Open | 200 | Rockford, IL | Region 25, Indianapolis, Indiana |
+| Habitat for Humanity of Alamance County | [10-CA-399742](/case/10-CA-399742) | 11/21/2026 | Open | 15 | Burlington, NC | Region 10, Atlanta, Georgia |
 | Metropolitan Edison Company (First Energy Corporation) | [04-CA-399645](/case/04-CA-399645) | 11/20/2026 | Open | 0 | Reading, PA | Region 04, Philadelphia, Pennsylvania |
 | Cherokee Steakhouse, Inc. D/B/A Cherokee Chophouse | [10-CA-399652](/case/10-CA-399652) | 11/20/2026 | Open | 25 | Marietta, GA | Region 10, Atlanta, Georgia |
 | National Association of Letter Carriers (United States Postal Service) | [10-CB-399654](/case/10-CB-399654) | 11/20/2026 | Open | 1 | Harvest, AL | Region 10, Atlanta, Georgia |
@@ -25,9 +29,7 @@
 | Local 170 APWU (United States Postal Service) | [08-CB-399659](/case/08-CB-399659) | 11/20/2026 | Open | 50 | Toledo, OH | Region 08, Cleveland, Ohio |
 | Huntington Ingalls Inc. | [15-CA-399711](/case/15-CA-399711) | 11/20/2026 | Open | 1000 | Pascagoula, MS | Region 15, New Orleans, Louisiana |
 | Clinical Associates, P.A. | [14-CA-399683](/case/14-CA-399683) | 11/20/2026 | Open | 16 | Lenexa, KS | Region 14, Saint Louis, Missouri |
-| T-Mobile | [25-CA-399718](/case/25-CA-399718) | 11/20/2026 | Open | 8 | Bedford, IN | Region 25, Indianapolis, Indiana |
 | Providence Health and Services-Oregon | [19-RD-399710](/case/19-RD-399710) | 11/20/2026 | Open | 44 | Warrenton, OR | Region 19, Seattle, Washington |
-| Parameter LLC | [27-CA-399722](/case/27-CA-399722) | 11/20/2026 | Open | 50 | Fort Collins, CO | Region 27, Denver, Colorado |
 | Portland General Electric | [19-RC-399717](/case/19-RC-399717) | 11/20/2026 | Open | 3 | Beaverton, OR | Region 19, Seattle, Washington |
 | Providence Holy Family Hospital | [19-CA-399726](/case/19-CA-399726) | 11/20/2026 | Open | 530 | Spokane, WA | Region 19, Seattle, Washington |
 | Internet Archives/Open Staffing Foundation as a single Employer | [20-RC-399692](/case/20-RC-399692) | 11/20/2026 | Open | 124 | San Francisco, CA | Region 20, San Francisco, California |
@@ -38,7 +40,20 @@
 | International Union of Painters and Allied Traders (Freeman Expositions LLC) | [20-CB-399626](/case/20-CB-399626) | 11/20/2026 | Open | 300 | San Francisco, CA | Region 20, San Francisco, California |
 | IKI Manufacturing | [18-CA-399708](/case/18-CA-399708) | 11/20/2026 | Open | 104 | Edgerton, WI | Region 18, Minneapolis, Minnesota |
 | Phoenix V, LLC d/b/a BEI Hawai'i | [20-CA-399731](/case/20-CA-399731) | 11/20/2026 | Open | 8 | Honolulu, HI | Region 20, San Francisco, California |
+| Woodward, Inc. | [13-CA-399735](/case/13-CA-399735) | 11/20/2026 | Open | 824 | Niles, IL | Region 13, Chicago, Illinois |
+| Defense Contracting Activity, LLC | [10-CA-399734](/case/10-CA-399734) | 11/20/2026 | Open | 60 | Durham, NC | Region 10, Atlanta, Georgia |
+| T-Mobile | [25-CA-399718](/case/25-CA-399718) | 11/20/2026 | Open | 8 | Bedford, IN | Region 25, Indianapolis, Indiana |
 | Saint Anne's Hospital / Brown University Health | [01-RC-399669](/case/01-RC-399669) | 11/20/2026 | Open | 400 | Fall River, MA | Region 01, Boston, Massachusetts |
+| International Longshoremen's Association Local 1422 (Ports America) | [10-CB-399743](/case/10-CB-399743) | 11/20/2026 | Open | 1 | Charleston, SC | Region 10, Atlanta, Georgia |
+| Starbucks Corporation | [13-RC-399739](/case/13-RC-399739) | 11/20/2026 | Open | 12 | Chicago, IL | Region 13, Chicago, Illinois |
+| Mercy Flight EMS | [03-RC-399749](/case/03-RC-399749) | 11/20/2026 | Open | 195 | Buffalo, NY | Region 03, Buffalo, New York |
+| Sanford-Browne Owners Corporation | [29-CA-399746](/case/29-CA-399746) | 11/20/2026 | Open | 2 | Flushing, NY | Region 29, Brooklyn, New York |
+| National Association of Letter Carriers Branch 461 (United States Postal Service) | [10-CB-399744](/case/10-CB-399744) | 11/20/2026 | Open | 10 | Winston-Salem, NC | Region 10, Atlanta, Georgia |
+| Teamsters Local 682 (BMC Enterprises) | [14-CB-399750](/case/14-CB-399750) | 11/20/2026 | Open | 50 | Saint Louis, MO | Region 14, Saint Louis, Missouri |
+| Evansville, IN | [25-CA-399741](/case/25-CA-399741) | 11/20/2026 | Open | 40 | Evansville, IN | Region 25, Indianapolis, Indiana |
+| Parameter LLC | [27-CA-399722](/case/27-CA-399722) | 11/20/2026 | Open | 50 | Fort Collins, CO | Region 27, Denver, Colorado |
+| Brunswick Cove Living Center | [10-CA-399745](/case/10-CA-399745) | 11/20/2026 | Open | 60 | Winnabow, NC | Region 10, Atlanta, Georgia |
+| Ports America | [10-CA-399748](/case/10-CA-399748) | 11/20/2026 | Open | 2000 | Charleston, SC | Region 10, Atlanta, Georgia |
 | United Federation of Special Police and Security Officers Inc. (Allied Universal) | [03-CB-399554](/case/03-CB-399554) | 11/19/2026 | Open | 100 | Corning, NY | Region 03, Buffalo, New York |
 | RICHARDS MANUFACTURING CO., INC. | [22-RC-399555](/case/22-RC-399555) | 11/19/2026 | Open | 140 | Irvington, NJ | Region 22, Newark, New Jersey |
 | Security, Police and Fire Professionals of America, Local 115 (Loomis) | [10-CB-399574](/case/10-CB-399574) | 11/19/2026 | Open | 20 | Atlanta, GA | Region 10, Atlanta, Georgia |
@@ -85,18 +100,3 @@
 | Transdev Services, Inc. (SouthWest Transit) | [18-CA-399661](/case/18-CA-399661) | 11/19/2026 | Open | 104 | Eden Prairie, MN | Region 18, Minneapolis, Minnesota |
 | Rogers Memorial Hospital, Inc. dba Rogers Behavioral Health - Atlanta Behavioral Health Treatment Center | [10-RC-399634](/case/10-RC-399634) | 11/19/2026 | Open | 16 | Sandy Springs, GA | Region 10, Atlanta, Georgia |
 | Cando Rails and Terminals | [19-RC-399624](/case/19-RC-399624) | 11/19/2026 | Open | 8 | Ferndale, WA | Region 19, Seattle, Washington |
-| United States Postal Service | [10-CA-399694](/case/10-CA-399694) | 11/19/2026 | Open | 12 | Raleigh, NC | Region 10, Atlanta, Georgia |
-| Advenir Azora | [12-CA-399709](/case/12-CA-399709) | 11/19/2026 | Open | 100 | Aventura, FL | Region 12, Tampa, Florida |
-| Woodward, Inc. | [13-CA-399613](/case/13-CA-399613) | 11/19/2026 | Open | 824 | Niles, IL | Region 13, Chicago, Illinois |
-| Sally Beauty | [05-CA-399633](/case/05-CA-399633) | 11/19/2026 | Open | 7 | Owings Mills, MD | Region 05, Baltimore, Maryland |
-| WeDriveU, a Mobico Group company | [13-RC-399656](/case/13-RC-399656) | 11/19/2026 | Open | 15 | Chicago, IL | Region 13, Chicago, Illinois |
-| Hertz Corporation | [31-CA-399700](/case/31-CA-399700) | 11/19/2026 | Open | 39 | Los Angeles, CA | Region 31, Los Angeles, California |
-| Messer Gases | [32-RD-399721](/case/32-RD-399721) | 11/19/2026 | Open | 10 | Ceres, CA | Region 32, Oakland, California |
-| Costco | [21-RC-399663](/case/21-RC-399663) | 11/19/2026 | Open | 7 | San Diego, CA | Region 21, Los Angeles, California |
-| APWU (United States Postal Service) | [25-CB-399563](/case/25-CB-399563) | 11/18/2026 | Open | 1 | Evansville, IN | Region 25, Indianapolis, Indiana |
-| Burger Barn CT LLC d/b/a Burger King | [01-CA-399553](/case/01-CA-399553) | 11/18/2026 | Open | 20 | Berlin, CT | Region 01, Boston, Massachusetts |
-| SPEEA (The Boeing Company) | [19-CB-399566](/case/19-CB-399566) | 11/18/2026 | Open | 10 | Everett, WA | Region 19, Seattle, Washington |
-| RUSH University Medical Center | [13-CA-399562](/case/13-CA-399562) | 11/18/2026 | Open | 1800 | Chicago, IL | Region 13, Chicago, Illinois |
-| Brentwood School | [31-CA-399614](/case/31-CA-399614) | 11/18/2026 | Open | 2 | Los Angeles, CA | Region 31, Los Angeles, California |
-| Austin's Coffee & Film Co. | [12-CA-399536](/case/12-CA-399536) | 11/18/2026 | Open | 17 | Winter Park, FL | Region 12, Tampa, Florida |
-| Starbucks Corporation | [15-CA-399579](/case/15-CA-399579) | 11/18/2026 | Open | 19 | Little Rock, AR | Region 15, New Orleans, Louisiana |
